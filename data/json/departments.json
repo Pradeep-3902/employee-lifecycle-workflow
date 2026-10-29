@@ -1,0 +1,58 @@
+[
+  {
+    "department_id": "DEPT-001",
+    "effective_from": "2024-01-01",
+    "effective_to": null,
+    "lifecycle_state": "active",
+    "name": "Engineering"
+  },
+  {
+    "department_id": "DEPT-002",
+    "effective_from": "2024-01-01",
+    "effective_to": null,
+    "lifecycle_state": "active",
+    "name": "People"
+  },
+  {
+    "department_id": "DEPT-003",
+    "effective_from": "2024-01-01",
+    "effective_to": null,
+    "lifecycle_state": "active",
+    "name": "Finance"
+  },
+  {
+    "department_id": "DEPT-004",
+    "effective_from": "2024-01-01",
+    "effective_to": null,
+    "lifecycle_state": "active",
+    "name": "Sales"
+  },
+  {
+    "department_id": "DEPT-005",
+    "effective_from": "2024-01-01",
+    "effective_to": null,
+    "lifecycle_state": "active",
+    "name": "Operations"
+  },
+  {
+    "department_id": "DEPT-006",
+    "effective_from": "2024-01-01",
+    "effective_to": null,
+    "lifecycle_state": "active",
+    "name": "Legal"
+  },
+  {
+    "department_id": "DEPT-007",
+    "effective_from": "2024-01-01",
+    "effective_to": null,
+    "lifecycle_state": "active",
+    "name": "Marketing"
+  },
+  {
+    "department_id": "DEPT-008",
+    "effective_from": "2024-01-01",
+    "effective_to": null,
+    "lifecycle_state": "active",
+    "name": "IT"
+  }
+]

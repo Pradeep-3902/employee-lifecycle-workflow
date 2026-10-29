@@ -1,0 +1,507 @@
+
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#f5f7f8">
+  <meta name="description" content="Employee Lifecycle Workflow operations dashboard for onboarding, offboarding, access approvals, tasks, assets, and audit monitoring.">
+
+  <title>Fieldwork | Employee Lifecycle Dashboard</title>
+
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=DM+Mono:wght@400;500&family=DM+Sans:wght@400;500;600;700&display=swap" rel="stylesheet">
+
+  <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+
+<body>
+  <div class="app-shell">
+
+    <!-- Sidebar -->
+    <aside class="sidebar" id="sidebar">
+      <a class="brand" href="{{ url_for('index') if false else '/' }}" aria-label="Fieldwork dashboard">
+        <span class="brand-mark" aria-hidden="true">F</span>
+        <span>fieldwork<span class="brand-dot">.</span></span>
+      </a>
+
+      <button class="workspace-switcher" type="button" aria-label="Current workspace">
+        <span class="workspace-avatar" aria-hidden="true">Y</span>
+        <span class="workspace-name">
+          <strong>Yottaflex AI</strong>
+          <small>Employee operations</small>
+        </span>
+        <span class="switch-chevron" aria-hidden="true">⌄</span>
+      </button>
+
+      <nav class="primary-nav" aria-label="Main navigation">
+        <p class="nav-label">WORKSPACE</p>
+
+        <button class="nav-item active" type="button" data-view="dashboard" aria-current="page">
+          <span class="nav-icon" aria-hidden="true">▦</span>
+          Dashboard
+        </button>
+
+        <button class="nav-item" type="button" data-view="employees">
+          <span class="nav-icon" aria-hidden="true">♙</span>
+          Employees
+        </button>
+
+        <button class="nav-item" type="button" data-view="runs">
+          <span class="nav-icon" aria-hidden="true">↗</span>
+          Runs
+        </button>
+
+        <button class="nav-item" type="button" data-view="assets">
+          <span class="nav-icon" aria-hidden="true">▣</span>
+          Assets
+        </button>
+
+        <button class="nav-item" type="button" data-view="tasks">
+          <span class="nav-icon" aria-hidden="true">☷</span>
+          My Tasks
+          <span class="nav-count" id="nav-task-count">0</span>
+        </button>
+
+        <button class="nav-item" type="button" data-view="access">
+          <span class="nav-icon" aria-hidden="true">⌑</span>
+          Accounts &amp; access
+        </button>
+
+        <button class="nav-item" type="button" data-view="audit">
+          <span class="nav-icon" aria-hidden="true">◷</span>
+          Audit logs
+        </button>
+
+        <p class="nav-label nav-label-spaced">INSIGHTS</p>
+
+        <button class="nav-item" type="button" data-view="exceptions">
+          <span class="nav-icon" aria-hidden="true">⚑</span>
+          Exceptions
+          <span class="nav-count nav-count-alert" id="nav-exception-count">0</span>
+        </button>
+
+        <button class="nav-item" type="button" data-view="reports">
+          <span class="nav-icon" aria-hidden="true">▤</span>
+          Reports
+        </button>
+      </nav>
+
+      <div class="sidebar-bottom">
+        <div class="sidebar-help">
+          <span class="help-mark" aria-hidden="true">?</span>
+          <span>
+            <strong>Workflow support</strong>
+            <small>Employee lifecycle operations</small>
+          </span>
+          <span class="help-arrow" aria-hidden="true">↗</span>
+        </div>
+
+        <div class="sidebar-account">
+          <span class="account-avatar" aria-hidden="true">{{ (user_email or 'U')[:1]|upper }}</span>
+
+          <span class="account-copy">
+            <strong>{{ user_email or 'Signed-in user' }}</strong>
+            <small>Signed-in account</small>
+          </span>
+
+          <form action="{{ url_for('logout') }}" method="post">
+            <button
+              class="logout-button"
+              type="submit"
+              aria-label="Sign out"
+              title="Sign out"
+            >↪</button>
+          </form>
+        </div>
+      </div>
+    </aside>
+
+    <!-- Main content -->
+    <main class="main-area">
+      <header class="topbar">
+        <button
+          class="mobile-menu"
+          id="mobile-menu"
+          type="button"
+          aria-label="Open navigation"
+          aria-controls="sidebar"
+          aria-expanded="false"
+        >☰</button>
+
+        <div class="breadcrumbs" aria-label="Breadcrumb">
+          <span>Yottaflex AI</span>
+          <span class="crumb-slash" aria-hidden="true">/</span>
+          <strong id="breadcrumb-current">Dashboard</strong>
+        </div>
+
+        <div class="topbar-actions">
+          <span class="as-of-label">
+            AS OF <strong id="as-of-date">—</strong>
+          </span>
+
+          <button
+            class="icon-button"
+            id="refresh-button"
+            type="button"
+            aria-label="Refresh dashboard data"
+            title="Refresh data"
+          >↻</button>
+
+          <span
+            class="health-indicator"
+            id="health-indicator"
+            role="status"
+            aria-label="Checking service health"
+            title="Checking service health"
+          ></span>
+        </div>
+      </header>
+
+      <div class="workspace">
+
+        <!-- Page heading -->
+        <section class="page-heading" aria-labelledby="page-title">
+          <div>
+            <p class="eyebrow" id="page-eyebrow">PEOPLE OPERATIONS</p>
+            <h1 id="page-title">Dashboard</h1>
+            <p class="heading-copy" id="page-description">
+              Overview of employee lifecycle operations.
+            </p>
+          </div>
+
+          <div class="heading-actions">
+            <a class="button button-quiet" href="{{ url_for('export_table', table_name='employees') }}">
+              <span class="button-icon" aria-hidden="true">↓</span>
+              Export data
+            </a>
+
+            <button class="button button-primary" type="button" id="create-run-button">
+              <span class="button-icon" aria-hidden="true">＋</span>
+              Start an exit
+            </button>
+          </div>
+        </section>
+
+        <!-- Welcome message -->
+        <section class="welcome-banner" id="welcome-banner">
+          <div class="welcome-symbol" aria-hidden="true">✳</div>
+
+          <div>
+            <strong>Welcome to Fieldwork</strong>
+            <p>Review open work, access decisions, and exceptions that need attention.</p>
+          </div>
+
+          <button
+            id="dismiss-welcome"
+            type="button"
+            aria-label="Dismiss welcome message"
+            title="Dismiss"
+          >×</button>
+        </section>
+
+        <!-- Summary metrics -->
+        <section class="metric-grid" id="metric-grid" aria-label="Workspace summary">
+          <article class="metric-card">
+            <div class="metric-title">
+              <span>EMPLOYEES</span>
+              <span class="metric-icon icon-people" aria-hidden="true">♙</span>
+            </div>
+            <strong id="metric-employees">—</strong>
+            <small>People in this workspace</small>
+          </article>
+
+          <article class="metric-card">
+            <div class="metric-title">
+              <span>OPEN ONBOARDING</span>
+              <span class="metric-icon icon-onboard" aria-hidden="true">↗</span>
+            </div>
+            <strong id="metric-onboarding">—</strong>
+            <small>Cases moving through setup</small>
+          </article>
+
+          <article class="metric-card">
+            <div class="metric-title">
+              <span>TASK COMPLETION</span>
+              <span class="metric-icon icon-completion" aria-hidden="true">✓</span>
+            </div>
+            <strong id="completion-rate">—</strong>
+            <small>Onboarding tasks completed</small>
+            <div
+              class="metric-progress"
+              role="progressbar"
+              aria-label="Onboarding task completion"
+              aria-valuemin="0"
+              aria-valuemax="100"
+              aria-valuenow="0"
+              id="completion-progress"
+            >
+              <span id="completion-bar"></span>
+            </div>
+          </article>
+
+          <article class="metric-card metric-card-alert">
+            <div class="metric-title">
+              <span>NEEDS ATTENTION</span>
+              <span class="metric-icon icon-alert" aria-hidden="true">!</span>
+            </div>
+            <strong id="metric-attention">—</strong>
+            <small>Overdue tasks and access exposure</small>
+          </article>
+        </section>
+
+        <!-- Overview charts -->
+        <section class="overview-grid" id="overview-grid">
+          <article class="panel status-panel">
+            <div class="panel-heading">
+              <div>
+                <p class="panel-kicker">RUN HEALTH</p>
+                <h2>Offboarding status</h2>
+              </div>
+
+              <button class="panel-link" type="button" data-navigate="runs">
+                View runs <span aria-hidden="true">→</span>
+              </button>
+            </div>
+
+            <div class="status-list" id="run-breakdown" aria-live="polite">
+              <div class="loading-placeholder">Loading run status…</div>
+            </div>
+
+            <div class="status-foot">
+              <span class="status-foot-dot" aria-hidden="true"></span>
+              <span id="active-run-summary">Loading operational summary…</span>
+            </div>
+          </article>
+
+          <article class="panel timeline-panel">
+            <div class="panel-heading">
+              <div>
+                <p class="panel-kicker">ACTIVITY</p>
+                <h2>Offboarding timeline</h2>
+              </div>
+              <span class="timeline-period" id="timeline-period">Last six months</span>
+            </div>
+
+            <div
+              class="timeline-chart"
+              id="timeline-chart"
+              role="img"
+              aria-label="Offboarding runs by month"
+            ></div>
+          </article>
+        </section>
+
+        <!-- Recent activity -->
+        <section class="panel recent-panel" id="recent-panel">
+          <div class="panel-heading">
+            <div>
+              <p class="panel-kicker">LATEST ACTIVITY</p>
+              <h2>Recent runs</h2>
+            </div>
+
+            <button class="panel-link" type="button" data-navigate="runs">
+              All runs <span aria-hidden="true">→</span>
+            </button>
+          </div>
+
+          <div class="table-scroll">
+            <table class="data-table">
+              <thead>
+                <tr>
+                  <th scope="col">RUN</th>
+                  <th scope="col">EMPLOYEE</th>
+                  <th scope="col">DEPARTMENT</th>
+                  <th scope="col">STARTED</th>
+                  <th scope="col">PROGRESS</th>
+                  <th scope="col">STATUS</th>
+                </tr>
+              </thead>
+
+              <tbody id="recent-runs-body">
+                <tr>
+                  <td class="loading-placeholder" colspan="6">Loading recent runs…</td>
+                </tr>
+              </tbody>
+            </table>
+          </div>
+
+          <div class="empty-runs" id="empty-runs" hidden>
+            <span class="empty-runs-icon" aria-hidden="true">↗</span>
+            <strong>No offboarding runs found</strong>
+            <p>Start an exit workflow to coordinate access removal and asset recovery.</p>
+            <button class="button button-primary" type="button" data-action="create-run">
+              Start an exit
+            </button>
+          </div>
+        </section>
+
+        <!-- Dynamic record tables -->
+        <section class="panel directory-panel" id="directory-panel" hidden>
+          <div class="panel-heading">
+            <div>
+              <p class="panel-kicker" id="table-kicker">WORK QUEUE</p>
+              <h2 id="table-title">Tasks and decisions</h2>
+            </div>
+
+            <div class="queue-tools">
+              <label class="search-box">
+                <span aria-hidden="true">⌕</span>
+                <input
+                  id="search-input"
+                  type="search"
+                  placeholder="Search records"
+                  aria-label="Search records"
+                  autocomplete="off"
+                >
+              </label>
+
+              <button
+                class="icon-button"
+                id="download-queue"
+                type="button"
+                aria-label="Download current records"
+                title="Download current records"
+              >⇩</button>
+            </div>
+          </div>
+
+          <div class="filter-row" id="task-filters">
+            <label for="status-filter">Status</label>
+            <select id="status-filter" aria-label="Filter by status">
+              <option value="all">All statuses</option>
+              <option value="not_started">Not started</option>
+              <option value="pending">Pending</option>
+              <option value="in_progress">In progress</option>
+              <option value="blocked">Blocked</option>
+              <option value="completed">Completed</option>
+              <option value="approved">Approved</option>
+              <option value="rejected">Rejected</option>
+              <option value="active">Active</option>
+              <option value="revoked">Revoked</option>
+            </select>
+
+            <span class="queue-meta" id="queue-meta"></span>
+          </div>
+
+          <div class="table-scroll">
+            <table class="data-table">
+              <thead id="table-head"></thead>
+              <tbody id="table-body">
+                <tr>
+                  <td class="loading-placeholder" colspan="6">Loading records…</td>
+                </tr>
+              </tbody>
+            </table>
+          </div>
+
+          <div class="table-footer">
+            <span id="table-footer-text">Waiting for records…</span>
+            <span class="table-source">
+              <span class="status-foot-dot" aria-hidden="true"></span>
+              LIVE WORKFLOW DATA
+            </span>
+          </div>
+        </section>
+
+        <!-- Reports -->
+        <section class="panel report-panel" id="report-panel" hidden>
+          <div class="panel-heading">
+            <div>
+              <p class="panel-kicker">DATA EXPORTS</p>
+              <h2>Reports</h2>
+            </div>
+          </div>
+
+          <p class="report-copy">
+            Download operational data for analysis. Diagnostic ground-truth labels
+            are separate from operational exports.
+          </p>
+
+          <div class="report-links" id="report-links"></div>
+        </section>
+
+        <!-- Operational signals and quick action -->
+        <section class="dashboard-bottom" id="dashboard-bottom">
+          <article class="panel health-panel">
+            <div class="panel-heading">
+              <div>
+                <p class="panel-kicker">CONTROL CHECKS</p>
+                <h2>Operational signals</h2>
+              </div>
+            </div>
+
+            <div class="health-rows">
+              <div>
+                <span>Task SLA breaches</span>
+                <strong id="sla-breaches">—</strong>
+              </div>
+              <div>
+                <span>Late approvals</span>
+                <strong id="late-approvals">—</strong>
+              </div>
+              <div>
+                <span>Active access grants</span>
+                <strong id="active-access">—</strong>
+              </div>
+              <div>
+                <span>Terminated users with active access</span>
+                <strong id="metric-exposure">—</strong>
+              </div>
+              <div>
+                <span>Unrecovered exit assets</span>
+                <strong id="unrecovered-assets">—</strong>
+              </div>
+            </div>
+          </article>
+
+          <article class="panel quick-action-panel" id="quick-action-panel">
+            <div class="panel-heading">
+              <div>
+                <p class="panel-kicker">QUICK ACTION</p>
+                <h2>Start an employee exit</h2>
+              </div>
+            </div>
+
+            <p>
+              Initiate an auditable offboarding workflow with access revocation
+              and IT and Facilities recovery tasks.
+            </p>
+
+            <form id="offboard-form">
+              <label for="employee-id">Employee ID</label>
+
+              <div class="input-action">
+                <input
+                  id="employee-id"
+                  name="employee_id"
+                  type="text"
+                  placeholder="EMP-000123"
+                  pattern="EMP-[0-9]{6}"
+                  autocomplete="off"
+                  aria-describedby="offboard-message"
+                  required
+                >
+
+                <button
+                  type="submit"
+                  aria-label="Start employee offboarding"
+                  title="Start offboarding"
+                >→</button>
+              </div>
+            </form>
+
+            <p class="form-message" id="offboard-message" role="status" aria-live="polite"></p>
+          </article>
+        </section>
+
+        <!-- Toast notifications -->
+        <div class="toast" id="toast" role="status" aria-live="polite"></div>
+      </div>
+    </main>
+  </div>
+
+  <script src="{{ url_for('static', filename='app.js') }}" defer></script>
+</body>
+</html>

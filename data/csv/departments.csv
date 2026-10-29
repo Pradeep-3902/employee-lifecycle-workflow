@@ -1,0 +1,9 @@
+department_id,name,lifecycle_state,effective_from,effective_to
+DEPT-001,Engineering,active,2024-01-01,
+DEPT-002,People,active,2024-01-01,
+DEPT-003,Finance,active,2024-01-01,
+DEPT-004,Sales,active,2024-01-01,
+DEPT-005,Operations,active,2024-01-01,
+DEPT-006,Legal,active,2024-01-01,
+DEPT-007,Marketing,active,2024-01-01,
+DEPT-008,IT,active,2024-01-01,

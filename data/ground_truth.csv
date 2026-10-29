@@ -1,0 +1,8 @@
+issue_type,entity_type,entity_id,ground_truth
+manager_missing,Employee,EMP-000001,assign_manager_before_approval
+task_before_prerequisite,TaskInstance,TASK-ONB-ONB-2026-000002-004,block_completion_until_prerequisite_complete
+asset_assigned_twice,Asset,AST-MON-000497,hold_second_assignment_for_asset_review
+start_before_background_check,Employee,EMP-000002,delay_start_or_escalate_unverified_employee
+offboarding_active_access,AccessRequest,ACCREQ-2026-000001,revoke_access_immediately
+overdue_task,TaskInstance,TASK-ONB-ONB-2026-000001-001,escalate_and_mark_sla_breach
+department_changed_mid_process,Employee,EMP-000003,retain_effective_dated_department_history

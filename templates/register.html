@@ -1,0 +1,190 @@
+
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#f4f3ed">
+  <meta
+    name="description"
+    content="Create a Fieldwork account to manage employee lifecycle workflows."
+  >
+
+  <title>Create account | Fieldwork</title>
+
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+
+  <link
+    href="https://fonts.googleapis.com/css2?family=DM+Mono:wght@400;500&family=DM+Sans:wght@400;500;600;700&family=Newsreader:opsz,wght@6..72,500;6..72,600&display=swap"
+    rel="stylesheet"
+  >
+
+  <link rel="stylesheet" href="{{ url_for('static', filename='login.css') }}">
+</head>
+
+<body>
+  <main class="login-shell">
+
+    <!-- Product introduction -->
+    <section class="welcome-panel" aria-label="Fieldwork product overview">
+      <a class="brand brand-light" href="{{ url_for('login') }}" aria-label="Fieldwork sign-in page">
+        <span class="brand-mark" aria-hidden="true">F</span>
+        <span>fieldwork<span class="brand-dot">.</span></span>
+      </a>
+
+      <div class="welcome-copy">
+        <p class="eyebrow">PEOPLE OPERATIONS, IN SYNC</p>
+
+        <h1>Build a calmer<br>handoff.</h1>
+
+        <p class="welcome-description">
+          Create a workspace account to coordinate employee starts,
+          approvals, assets, and exits.
+        </p>
+      </div>
+
+      <div class="workflow-preview" aria-label="Example workflow stages">
+        <div class="preview-line" aria-hidden="true"></div>
+
+        <div class="preview-step">
+          <span class="step-number">01</span>
+          <span>
+            <strong>Prepare</strong>
+            <small>HR · Manager</small>
+          </span>
+          <span class="step-check" aria-label="Example completed stage">✓</span>
+        </div>
+
+        <div class="preview-step">
+          <span class="step-number">02</span>
+          <span>
+            <strong>Provision</strong>
+            <small>IT · Facilities</small>
+          </span>
+          <span class="step-pending" aria-hidden="true"></span>
+        </div>
+
+        <div class="preview-step">
+          <span class="step-number">03</span>
+          <span>
+            <strong>Complete</strong>
+            <small>Every task, traceable</small>
+          </span>
+          <span class="step-pending" aria-hidden="true"></span>
+        </div>
+      </div>
+
+      <p class="welcome-foot">
+        EMPLOYEE LIFECYCLE WORKSPACE <span aria-hidden="true">·</span> 2026
+      </p>
+    </section>
+
+    <!-- Registration form -->
+    <section class="form-panel" aria-labelledby="register-title">
+      <div class="form-inner">
+
+        <div class="mobile-brand">
+          <a class="brand" href="{{ url_for('login') }}" aria-label="Fieldwork sign-in page">
+            <span class="brand-mark" aria-hidden="true">F</span>
+            <span>fieldwork<span class="brand-dot">.</span></span>
+          </a>
+        </div>
+
+        <p class="eyebrow form-eyebrow">WORKSPACE ACCESS</p>
+
+        <h2 id="register-title">Create your account</h2>
+
+        <p class="form-intro">Use your work email to get started.</p>
+
+        {% if error %}
+          <div class="form-error" role="alert">
+            {{ error }}
+          </div>
+        {% endif %}
+
+        <form
+          class="login-form"
+          id="register-form"
+          method="post"
+          action="{{ url_for('register') }}"
+        >
+          <label for="email">Work email</label>
+
+          <div class="field-wrap">
+            <span class="field-icon" aria-hidden="true">@</span>
+
+            <input
+              id="email"
+              name="email"
+              type="email"
+              autocomplete="email"
+              placeholder="you@company.com"
+              value="{{ email|default('', true)|e }}"
+              maxlength="254"
+              required
+              autofocus
+            >
+          </div>
+
+          <label for="password">Password</label>
+
+          <div class="field-wrap">
+            <span class="field-icon lock-icon" aria-hidden="true">⌑</span>
+
+            <input
+              id="password"
+              name="password"
+              type="password"
+              autocomplete="new-password"
+              placeholder="At least 10 characters"
+              minlength="10"
+              required
+            >
+          </div>
+
+          <label for="password-confirm">Confirm password</label>
+
+          <div class="field-wrap">
+            <span class="field-icon lock-icon" aria-hidden="true">⌑</span>
+
+            <input
+              id="password-confirm"
+              name="password_confirm"
+              type="password"
+              autocomplete="new-password"
+              placeholder="Re-enter your password"
+              minlength="10"
+              required
+            >
+          </div>
+
+          <button class="submit-button" type="submit">
+            Create account <span aria-hidden="true">→</span>
+          </button>
+        </form>
+
+        <p class="security-note">
+          <span class="security-dot" aria-hidden="true"></span>
+          Passwords should be stored as salted hashes
+        </p>
+
+        <p class="signup-prompt">
+          Already registered?
+          <a href="{{ url_for('login') }}">
+            Sign in <span aria-hidden="true">→</span>
+          </a>
+        </p>
+      </div>
+
+      <footer class="form-footer">
+        <span>FIELDWORK</span>
+        <span>PEOPLE OPERATIONS PLATFORM</span>
+      </footer>
+    </section>
+
+  </main>
+
+  <script src="{{ url_for('static', filename='login.js') }}" defer></script>
+</body>
+</html>

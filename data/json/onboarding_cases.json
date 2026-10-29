@@ -1,0 +1,4002 @@
+[
+  {
+    "case_id": "ONB-2026-000001",
+    "created_date": "2026-10-22",
+    "effective_from": "2026-10-22",
+    "effective_to": null,
+    "employee_id": "EMP-000001",
+    "status": "blocked"
+  },
+  {
+    "case_id": "ONB-2026-000002",
+    "created_date": "2026-09-11",
+    "effective_from": "2026-09-11",
+    "effective_to": null,
+    "employee_id": "EMP-000002",
+    "status": "blocked"
+  },
+  {
+    "case_id": "ONB-2026-000003",
+    "created_date": "2026-08-31",
+    "effective_from": "2026-08-31",
+    "effective_to": null,
+    "employee_id": "EMP-000003",
+    "status": "blocked"
+  },
+  {
+    "case_id": "ONB-2026-000004",
+    "created_date": "2026-08-19",
+    "effective_from": "2026-08-19",
+    "effective_to": null,
+    "employee_id": "EMP-000004",
+    "status": "blocked"
+  },
+  {
+    "case_id": "ONB-2026-000005",
+    "created_date": "2026-10-22",
+    "effective_from": "2026-10-22",
+    "effective_to": null,
+    "employee_id": "EMP-000005",
+    "status": "blocked"
+  },
+  {
+    "case_id": "ONB-2026-000006",
+    "created_date": "2026-07-26",
+    "effective_from": "2026-07-26",
+    "effective_to": null,
+    "employee_id": "EMP-000006",
+    "status": "in_progress"
+  },
+  {
+    "case_id": "ONB-2026-000007",
+    "created_date": "2026-07-28",
+    "effective_from": "2026-07-28",
+    "effective_to": null,
+    "employee_id": "EMP-000007",
+    "status": "blocked"
+  },
+  {
+    "case_id": "ONB-2026-000008",
+    "created_date": "2026-08-26",
+    "effective_from": "2026-08-26",
+    "effective_to": null,
+    "employee_id": "EMP-000008",
+    "status": "blocked"
+  },
+  {
+    "case_id": "ONB-2026-000009",
+    "created_date": "2026-07-30",
+    "effective_from": "2026-07-30",
+    "effective_to": null,
+    "employee_id": "EMP-000009",
+    "status": "cancelled"
+  },
+  {
+    "case_id": "ONB-2026-000010",
+    "created_date": "2026-07-30",
+    "effective_from": "2026-07-30",
+    "effective_to": null,
+    "employee_id": "EMP-000010",
+    "status": "blocked"
+  },
+  {
+    "case_id": "ONB-2026-000011",
+    "created_date": "2026-08-06",
+    "effective_from": "2026-08-06",
+    "effective_to": null,
+    "employee_id": "EMP-000011",
+    "status": "blocked"
+  },
+  {
+    "case_id": "ONB-2026-000012",
+    "created_date": "2026-10-22",
+    "effective_from": "2026-10-22",
+    "effective_to": null,
+    "employee_id": "EMP-000012",
+    "status": "blocked"
+  },
+  {
+    "case_id": "ONB-2026-000013",
+    "created_date": "2026-07-22",
+    "effective_from": "2026-07-22",
+    "effective_to": null,
+    "employee_id": "EMP-000013",
+    "status": "blocked"
+  },
+  {
+    "case_id": "ONB-2026-000014",
+    "created_date": "2026-09-10",
+    "effective_from": "2026-09-10",
+    "effective_to": null,
+    "employee_id": "EMP-000014",
+    "status": "blocked"
+  },
+  {
+    "case_id": "ONB-2026-000015",
+    "created_date": "2026-10-22",
+    "effective_from": "2026-10-22",
+    "effective_to": null,
+    "employee_id": "EMP-000015",
+    "status": "blocked"
+  },
+  {
+    "case_id": "ONB-2026-000016",
+    "created_date": "2026-07-15",
+    "effective_from": "2026-07-15",
+    "effective_to": null,
+    "employee_id": "EMP-000016",
+    "status": "blocked"
+  },
+  {
+    "case_id": "ONB-2026-000017",
+    "created_date": "2026-10-22",
+    "effective_from": "2026-10-22",
+    "effective_to": null,
+    "employee_id": "EMP-000017",
+    "status": "in_progress"
+  },
+  {
+    "case_id": "ONB-2026-000018",
+    "created_date": "2026-07-17",
+    "effective_from": "2026-07-17",
+    "effective_to": null,
+    "employee_id": "EMP-000018",
+    "status": "cancelled"
+  },
+  {
+    "case_id": "ONB-2026-000019",
+    "created_date": "2026-09-21",
+    "effective_from": "2026-09-21",
+    "effective_to": null,
+    "employee_id": "EMP-000019",
+    "status": "in_progress"
+  },
+  {
+    "case_id": "ONB-2026-000020",
+    "created_date": "2026-10-09",
+    "effective_from": "2026-10-09",
+    "effective_to": null,
+    "employee_id": "EMP-000020",
+    "status": "blocked"
+  },
+  {
+    "case_id": "ONB-2026-000021",
+    "created_date": "2026-10-22",
+    "effective_from": "2026-10-22",
+    "effective_to": null,
+    "employee_id": "EMP-000021",
+    "status": "blocked"
+  },
+  {
+    "case_id": "ONB-2026-000022",
+    "created_date": "2026-10-22",
+    "effective_from": "2026-10-22",
+    "effective_to": null,
+    "employee_id": "EMP-000022",
+    "status": "blocked"
+  },
+  {
+    "case_id": "ONB-2026-000023",
+    "created_date": "2026-10-22",
+    "effective_from": "2026-10-22",
+    "effective_to": null,
+    "employee_id": "EMP-000023",
+    "status": "blocked"
+  },
+  {
+    "case_id": "ONB-2026-000024",
+    "created_date": "2026-10-22",
+    "effective_from": "2026-10-22",
+    "effective_to": null,
+    "employee_id": "EMP-000024",
+    "status": "blocked"
+  },
+  {
+    "case_id": "ONB-2026-000025",
+    "created_date": "2026-10-22",
+    "effective_from": "2026-10-22",
+    "effective_to": null,
+    "employee_id": "EMP-000025",
+    "status": "blocked"
+  },
+  {
+    "case_id": "ONB-2026-000026",
+    "created_date": "2026-07-26",
+    "effective_from": "2026-07-26",
+    "effective_to": null,
+    "employee_id": "EMP-000026",
+    "status": "blocked"
+  },
+  {
+    "case_id": "ONB-2026-000027",
+    "created_date": "2026-08-24",
+    "effective_from": "2026-08-24",
+    "effective_to": null,
+    "employee_id": "EMP-000027",
+    "status": "cancelled"
+  },
+  {
+    "case_id": "ONB-2026-000028",
+    "created_date": "2026-10-22",
+    "effective_from": "2026-10-22",
+    "effective_to": null,
+    "employee_id": "EMP-000028",
+    "status": "blocked"
+  },
+  {
+    "case_id": "ONB-2026-000029",
+    "created_date": "2026-10-22",
+    "effective_from": "2026-10-22",
+    "effective_to": null,
+    "employee_id": "EMP-000029",
+    "status": "blocked"
+  },
+  {
+    "case_id": "ONB-2026-000030",
+    "created_date": "2026-08-18",
+    "effective_from": "2026-08-18",
+    "effective_to": null,
+    "employee_id": "EMP-000030",
+    "status": "blocked"
+  },
+  {
+    "case_id": "ONB-2026-000031",
+    "created_date": "2026-10-05",
+    "effective_from": "2026-10-05",
+    "effective_to": null,
+    "employee_id": "EMP-000031",
+    "status": "in_progress"
+  },
+  {
+    "case_id": "ONB-2026-000032",
+    "created_date": "2026-10-22",
+    "effective_from": "2026-10-22",
+    "effective_to": null,
+    "employee_id": "EMP-000032",
+    "status": "blocked"
+  },
+  {
+    "case_id": "ONB-2026-000033",
+    "created_date": "2026-08-26",
+    "effective_from": "2026-08-26",
+    "effective_to": null,
+    "employee_id": "EMP-000033",
+    "status": "blocked"
+  },
+  {
+    "case_id": "ONB-2026-000034",
+    "created_date": "2026-10-03",
+    "effective_from": "2026-10-03",
+    "effective_to": null,
+    "employee_id": "EMP-000034",
+    "status": "blocked"
+  },
+  {
+    "case_id": "ONB-2026-000035",
+    "created_date": "2026-10-19",
+    "effective_from": "2026-10-19",
+    "effective_to": null,
+    "employee_id": "EMP-000035",
+    "status": "blocked"
+  },
+  {
+    "case_id": "ONB-2026-000036",
+    "created_date": "2026-08-04",
+    "effective_from": "2026-08-04",
+    "effective_to": null,
+    "employee_id": "EMP-000036",
+    "status": "cancelled"
+  },
+  {
+    "case_id": "ONB-2026-000037",
+    "created_date": "2026-08-22",
+    "effective_from": "2026-08-22",
+    "effective_to": null,
+    "employee_id": "EMP-000037",
+    "status": "blocked"
+  },
+  {
+    "case_id": "ONB-2026-000038",
+    "created_date": "2026-07-22",
+    "effective_from": "2026-07-22",
+    "effective_to": null,
+    "employee_id": "EMP-000038",
+    "status": "in_progress"
+  },
+  {
+    "case_id": "ONB-2026-000039",
+    "created_date": "2026-09-28",
+    "effective_from": "2026-09-28",
+    "effective_to": null,
+    "employee_id": "EMP-000039",
+    "status": "in_progress"
+  },
+  {
+    "case_id": "ONB-2026-000040",
+    "created_date": "2026-10-12",
+    "effective_from": "2026-10-12",
+    "effective_to": null,
+    "employee_id": "EMP-000040",
+    "status": "in_progress"
+  },
+  {
+    "case_id": "ONB-2026-000041",
+    "created_date": "2026-10-22",
+    "effective_from": "2026-10-22",
+    "effective_to": null,
+    "employee_id": "EMP-000041",
+    "status": "blocked"
+  },
+  {
+    "case_id": "ONB-2026-000042",
+    "created_date": "2026-09-01",
+    "effective_from": "2026-09-01",
+    "effective_to": null,
+    "employee_id": "EMP-000042",
+    "status": "blocked"
+  },
+  {
+    "case_id": "ONB-2026-000043",
+    "created_date": "2026-10-22",
+    "effective_from": "2026-10-22",
+    "effective_to": null,
+    "employee_id": "EMP-000043",
+    "status": "blocked"
+  },
+  {
+    "case_id": "ONB-2026-000044",
+    "created_date": "2026-09-14",
+    "effective_from": "2026-09-14",
+    "effective_to": null,
+    "employee_id": "EMP-000044",
+    "status": "blocked"
+  },
+  {
+    "case_id": "ONB-2026-000045",
+    "created_date": "2026-07-31",
+    "effective_from": "2026-07-31",
+    "effective_to": null,
+    "employee_id": "EMP-000045",
+    "status": "cancelled"
+  },
+  {
+    "case_id": "ONB-2026-000046",
+    "created_date": "2026-08-11",
+    "effective_from": "2026-08-11",
+    "effective_to": null,
+    "employee_id": "EMP-000046",
+    "status": "blocked"
+  },
+  {
+    "case_id": "ONB-2026-000047",
+    "created_date": "2026-10-22",
+    "effective_from": "2026-10-22",
+    "effective_to": null,
+    "employee_id": "EMP-000047",
+    "status": "blocked"
+  },
+  {
+    "case_id": "ONB-2026-000048",
+    "created_date": "2026-08-18",
+    "effective_from": "2026-08-18",
+    "effective_to": null,
+    "employee_id": "EMP-000048",
+    "status": "blocked"
+  },
+  {
+    "case_id": "ONB-2026-000049",
+    "created_date": "2026-09-21",
+    "effective_from": "2026-09-21",
+    "effective_to": null,
+    "employee_id": "EMP-000049",
+    "status": "in_progress"
+  },
+  {
+    "case_id": "ONB-2026-000050",
+    "created_date": "2026-10-19",
+    "effective_from": "2026-10-19",
+    "effective_to": null,
+    "employee_id": "EMP-000050",
+    "status": "blocked"
+  },
+  {
+    "case_id": "ONB-2026-000051",
+    "created_date": "2026-10-22",
+    "effective_from": "2026-10-22",
+    "effective_to": null,
+    "employee_id": "EMP-000051",
+    "status": "blocked"
+  },
+  {
+    "case_id": "ONB-2026-000052",
+    "created_date": "2026-10-15",
+    "effective_from": "2026-10-15",
+    "effective_to": null,
+    "employee_id": "EMP-000052",
+    "status": "blocked"
+  },
+  {
+    "case_id": "ONB-2026-000053",
+    "created_date": "2026-08-07",
+    "effective_from": "2026-08-07",
+    "effective_to": null,
+    "employee_id": "EMP-000053",
+    "status": "in_progress"
+  },
+  {
+    "case_id": "ONB-2026-000054",
+    "created_date": "2026-08-20",
+    "effective_from": "2026-08-20",
+    "effective_to": null,
+    "employee_id": "EMP-000054",
+    "status": "cancelled"
+  },
+  {
+    "case_id": "ONB-2026-000055",
+    "created_date": "2026-10-22",
+    "effective_from": "2026-10-22",
+    "effective_to": null,
+    "employee_id": "EMP-000055",
+    "status": "blocked"
+  },
+  {
+    "case_id": "ONB-2026-000056",
+    "created_date": "2026-09-06",
+    "effective_from": "2026-09-06",
+    "effective_to": null,
+    "employee_id": "EMP-000056",
+    "status": "blocked"
+  },
+  {
+    "case_id": "ONB-2026-000057",
+    "created_date": "2026-08-11",
+    "effective_from": "2026-08-11",
+    "effective_to": null,
+    "employee_id": "EMP-000057",
+    "status": "in_progress"
+  },
+  {
+    "case_id": "ONB-2026-000058",
+    "created_date": "2026-10-22",
+    "effective_from": "2026-10-22",
+    "effective_to": null,
+    "employee_id": "EMP-000058",
+    "status": "blocked"
+  },
+  {
+    "case_id": "ONB-2026-000059",
+    "created_date": "2026-10-05",
+    "effective_from": "2026-10-05",
+    "effective_to": null,
+    "employee_id": "EMP-000059",
+    "status": "in_progress"
+  },
+  {
+    "case_id": "ONB-2026-000060",
+    "created_date": "2026-10-09",
+    "effective_from": "2026-10-09",
+    "effective_to": null,
+    "employee_id": "EMP-000060",
+    "status": "blocked"
+  },
+  {
+    "case_id": "ONB-2026-000061",
+    "created_date": "2026-08-24",
+    "effective_from": "2026-08-24",
+    "effective_to": null,
+    "employee_id": "EMP-000061",
+    "status": "blocked"
+  },
+  {
+    "case_id": "ONB-2026-000062",
+    "created_date": "2026-07-12",
+    "effective_from": "2026-07-12",
+    "effective_to": null,
+    "employee_id": "EMP-000062",
+    "status": "blocked"
+  },
+  {
+    "case_id": "ONB-2026-000063",
+    "created_date": "2026-08-11",
+    "effective_from": "2026-08-11",
+    "effective_to": null,
+    "employee_id": "EMP-000063",
+    "status": "cancelled"
+  },
+  {
+    "case_id": "ONB-2026-000064",
+    "created_date": "2026-07-18",
+    "effective_from": "2026-07-18",
+    "effective_to": null,
+    "employee_id": "EMP-000064",
+    "status": "in_progress"
+  },
+  {
+    "case_id": "ONB-2026-000065",
+    "created_date": "2026-10-22",
+    "effective_from": "2026-10-22",
+    "effective_to": null,
+    "employee_id": "EMP-000065",
+    "status": "blocked"
+  },
+  {
+    "case_id": "ONB-2026-000066",
+    "created_date": "2026-10-01",
+    "effective_from": "2026-10-01",
+    "effective_to": null,
+    "employee_id": "EMP-000066",
+    "status": "blocked"
+  },
+  {
+    "case_id": "ONB-2026-000067",
+    "created_date": "2026-10-22",
+    "effective_from": "2026-10-22",
+    "effective_to": null,
+    "employee_id": "EMP-000067",
+    "status": "blocked"
+  },
+  {
+    "case_id": "ONB-2026-000068",
+    "created_date": "2026-08-23",
+    "effective_from": "2026-08-23",
+    "effective_to": null,
+    "employee_id": "EMP-000068",
+    "status": "blocked"
+  },
+  {
+    "case_id": "ONB-2026-000069",
+    "created_date": "2026-10-13",
+    "effective_from": "2026-10-13",
+    "effective_to": null,
+    "employee_id": "EMP-000069",
+    "status": "blocked"
+  },
+  {
+    "case_id": "ONB-2026-000070",
+    "created_date": "2026-10-22",
+    "effective_from": "2026-10-22",
+    "effective_to": null,
+    "employee_id": "EMP-000070",
+    "status": "blocked"
+  },
+  {
+    "case_id": "ONB-2026-000071",
+    "created_date": "2026-09-10",
+    "effective_from": "2026-09-10",
+    "effective_to": null,
+    "employee_id": "EMP-000071",
+    "status": "blocked"
+  },
+  {
+    "case_id": "ONB-2026-000072",
+    "created_date": "2026-09-17",
+    "effective_from": "2026-09-17",
+    "effective_to": null,
+    "employee_id": "EMP-000072",
+    "status": "cancelled"
+  },
+  {
+    "case_id": "ONB-2026-000073",
+    "created_date": "2026-10-22",
+    "effective_from": "2026-10-22",
+    "effective_to": null,
+    "employee_id": "EMP-000073",
+    "status": "blocked"
+  },
+  {
+    "case_id": "ONB-2026-000074",
+    "created_date": "2026-08-21",
+    "effective_from": "2026-08-21",
+    "effective_to": null,
+    "employee_id": "EMP-000074",
+    "status": "blocked"
+  },
+  {
+    "case_id": "ONB-2026-000075",
+    "created_date": "2026-09-01",
+    "effective_from": "2026-09-01",
+    "effective_to": null,
+    "employee_id": "EMP-000075",
+    "status": "blocked"
+  },
+  {
+    "case_id": "ONB-2026-000076",
+    "created_date": "2026-08-16",
+    "effective_from": "2026-08-16",
+    "effective_to": null,
+    "employee_id": "EMP-000076",
+    "status": "in_progress"
+  },
+  {
+    "case_id": "ONB-2026-000077",
+    "created_date": "2026-10-22",
+    "effective_from": "2026-10-22",
+    "effective_to": null,
+    "employee_id": "EMP-000077",
+    "status": "blocked"
+  },
+  {
+    "case_id": "ONB-2026-000078",
+    "created_date": "2026-10-22",
+    "effective_from": "2026-10-22",
+    "effective_to": null,
+    "employee_id": "EMP-000078",
+    "status": "blocked"
+  },
+  {
+    "case_id": "ONB-2026-000079",
+    "created_date": "2026-10-22",
+    "effective_from": "2026-10-22",
+    "effective_to": null,
+    "employee_id": "EMP-000079",
+    "status": "blocked"
+  },
+  {
+    "case_id": "ONB-2026-000080",
+    "created_date": "2026-10-08",
+    "effective_from": "2026-10-08",
+    "effective_to": null,
+    "employee_id": "EMP-000080",
+    "status": "blocked"
+  },
+  {
+    "case_id": "ONB-2026-000081",
+    "created_date": "2026-08-02",
+    "effective_from": "2026-08-02",
+    "effective_to": null,
+    "employee_id": "EMP-000081",
+    "status": "cancelled"
+  },
+  {
+    "case_id": "ONB-2026-000082",
+    "created_date": "2026-10-22",
+    "effective_from": "2026-10-22",
+    "effective_to": null,
+    "employee_id": "EMP-000082",
+    "status": "blocked"
+  },
+  {
+    "case_id": "ONB-2026-000083",
+    "created_date": "2026-09-20",
+    "effective_from": "2026-09-20",
+    "effective_to": null,
+    "employee_id": "EMP-000083",
+    "status": "blocked"
+  },
+  {
+    "case_id": "ONB-2026-000084",
+    "created_date": "2026-10-22",
+    "effective_from": "2026-10-22",
+    "effective_to": null,
+    "employee_id": "EMP-000084",
+    "status": "blocked"
+  },
+  {
+    "case_id": "ONB-2026-000085",
+    "created_date": "2026-10-22",
+    "effective_from": "2026-10-22",
+    "effective_to": null,
+    "employee_id": "EMP-000085",
+    "status": "blocked"
+  },
+  {
+    "case_id": "ONB-2026-000086",
+    "created_date": "2026-07-25",
+    "effective_from": "2026-07-25",
+    "effective_to": null,
+    "employee_id": "EMP-000086",
+    "status": "blocked"
+  },
+  {
+    "case_id": "ONB-2026-000087",
+    "created_date": "2026-08-24",
+    "effective_from": "2026-08-24",
+    "effective_to": null,
+    "employee_id": "EMP-000087",
+    "status": "blocked"
+  },
+  {
+    "case_id": "ONB-2026-000088",
+    "created_date": "2026-09-07",
+    "effective_from": "2026-09-07",
+    "effective_to": null,
+    "employee_id": "EMP-000088",
+    "status": "blocked"
+  },
+  {
+    "case_id": "ONB-2026-000089",
+    "created_date": "2026-09-06",
+    "effective_from": "2026-09-06",
+    "effective_to": null,
+    "employee_id": "EMP-000089",
+    "status": "blocked"
+  },
+  {
+    "case_id": "ONB-2026-000090",
+    "created_date": "2026-09-13",
+    "effective_from": "2026-09-13",
+    "effective_to": null,
+    "employee_id": "EMP-000090",
+    "status": "cancelled"
+  },
+  {
+    "case_id": "ONB-2026-000091",
+    "created_date": "2026-07-21",
+    "effective_from": "2026-07-21",
+    "effective_to": null,
+    "employee_id": "EMP-000091",
+    "status": "blocked"
+  },
+  {
+    "case_id": "ONB-2026-000092",
+    "created_date": "2026-10-22",
+    "effective_from": "2026-10-22",
+    "effective_to": null,
+    "employee_id": "EMP-000092",
+    "status": "blocked"
+  },
+  {
+    "case_id": "ONB-2026-000093",
+    "created_date": "2026-10-22",
+    "effective_from": "2026-10-22",
+    "effective_to": null,
+    "employee_id": "EMP-000093",
+    "status": "blocked"
+  },
+  {
+    "case_id": "ONB-2026-000094",
+    "created_date": "2026-08-23",
+    "effective_from": "2026-08-23",
+    "effective_to": null,
+    "employee_id": "EMP-000094",
+    "status": "in_progress"
+  },
+  {
+    "case_id": "ONB-2026-000095",
+    "created_date": "2026-08-05",
+    "effective_from": "2026-08-05",
+    "effective_to": null,
+    "employee_id": "EMP-000095",
+    "status": "blocked"
+  },
+  {
+    "case_id": "ONB-2026-000096",
+    "created_date": "2026-08-09",
+    "effective_from": "2026-08-09",
+    "effective_to": null,
+    "employee_id": "EMP-000096",
+    "status": "in_progress"
+  },
+  {
+    "case_id": "ONB-2026-000097",
+    "created_date": "2026-10-22",
+    "effective_from": "2026-10-22",
+    "effective_to": null,
+    "employee_id": "EMP-000097",
+    "status": "blocked"
+  },
+  {
+    "case_id": "ONB-2026-000098",
+    "created_date": "2026-07-14",
+    "effective_from": "2026-07-14",
+    "effective_to": null,
+    "employee_id": "EMP-000098",
+    "status": "in_progress"
+  },
+  {
+    "case_id": "ONB-2026-000099",
+    "created_date": "2026-09-05",
+    "effective_from": "2026-09-05",
+    "effective_to": null,
+    "employee_id": "EMP-000099",
+    "status": "cancelled"
+  },
+  {
+    "case_id": "ONB-2026-000100",
+    "created_date": "2026-10-12",
+    "effective_from": "2026-10-12",
+    "effective_to": null,
+    "employee_id": "EMP-000100",
+    "status": "blocked"
+  },
+  {
+    "case_id": "ONB-2026-000101",
+    "created_date": "2026-08-03",
+    "effective_from": "2026-08-03",
+    "effective_to": null,
+    "employee_id": "EMP-000101",
+    "status": "blocked"
+  },
+  {
+    "case_id": "ONB-2026-000102",
+    "created_date": "2026-08-08",
+    "effective_from": "2026-08-08",
+    "effective_to": null,
+    "employee_id": "EMP-000102",
+    "status": "blocked"
+  },
+  {
+    "case_id": "ONB-2026-000103",
+    "created_date": "2026-07-21",
+    "effective_from": "2026-07-21",
+    "effective_to": null,
+    "employee_id": "EMP-000103",
+    "status": "blocked"
+  },
+  {
+    "case_id": "ONB-2026-000104",
+    "created_date": "2026-10-22",
+    "effective_from": "2026-10-22",
+    "effective_to": null,
+    "employee_id": "EMP-000104",
+    "status": "blocked"
+  },
+  {
+    "case_id": "ONB-2026-000105",
+    "created_date": "2026-07-28",
+    "effective_from": "2026-07-28",
+    "effective_to": null,
+    "employee_id": "EMP-000105",
+    "status": "blocked"
+  },
+  {
+    "case_id": "ONB-2026-000106",
+    "created_date": "2026-10-22",
+    "effective_from": "2026-10-22",
+    "effective_to": null,
+    "employee_id": "EMP-000106",
+    "status": "blocked"
+  },
+  {
+    "case_id": "ONB-2026-000107",
+    "created_date": "2026-07-17",
+    "effective_from": "2026-07-17",
+    "effective_to": null,
+    "employee_id": "EMP-000107",
+    "status": "in_progress"
+  },
+  {
+    "case_id": "ONB-2026-000108",
+    "created_date": "2026-08-01",
+    "effective_from": "2026-08-01",
+    "effective_to": null,
+    "employee_id": "EMP-000108",
+    "status": "cancelled"
+  },
+  {
+    "case_id": "ONB-2026-000109",
+    "created_date": "2026-10-22",
+    "effective_from": "2026-10-22",
+    "effective_to": null,
+    "employee_id": "EMP-000109",
+    "status": "blocked"
+  },
+  {
+    "case_id": "ONB-2026-000110",
+    "created_date": "2026-10-22",
+    "effective_from": "2026-10-22",
+    "effective_to": null,
+    "employee_id": "EMP-000110",
+    "status": "blocked"
+  },
+  {
+    "case_id": "ONB-2026-000111",
+    "created_date": "2026-10-22",
+    "effective_from": "2026-10-22",
+    "effective_to": null,
+    "employee_id": "EMP-000111",
+    "status": "blocked"
+  },
+  {
+    "case_id": "ONB-2026-000112",
+    "created_date": "2026-08-30",
+    "effective_from": "2026-08-30",
+    "effective_to": null,
+    "employee_id": "EMP-000112",
+    "status": "blocked"
+  },
+  {
+    "case_id": "ONB-2026-000113",
+    "created_date": "2026-08-24",
+    "effective_from": "2026-08-24",
+    "effective_to": null,
+    "employee_id": "EMP-000113",
+    "status": "blocked"
+  },
+  {
+    "case_id": "ONB-2026-000114",
+    "created_date": "2026-07-20",
+    "effective_from": "2026-07-20",
+    "effective_to": null,
+    "employee_id": "EMP-000114",
+    "status": "blocked"
+  },
+  {
+    "case_id": "ONB-2026-000115",
+    "created_date": "2026-10-06",
+    "effective_from": "2026-10-06",
+    "effective_to": null,
+    "employee_id": "EMP-000115",
+    "status": "in_progress"
+  },
+  {
+    "case_id": "ONB-2026-000116",
+    "created_date": "2026-10-22",
+    "effective_from": "2026-10-22",
+    "effective_to": null,
+    "employee_id": "EMP-000116",
+    "status": "blocked"
+  },
+  {
+    "case_id": "ONB-2026-000117",
+    "created_date": "2026-07-22",
+    "effective_from": "2026-07-22",
+    "effective_to": null,
+    "employee_id": "EMP-000117",
+    "status": "cancelled"
+  },
+  {
+    "case_id": "ONB-2026-000118",
+    "created_date": "2026-08-19",
+    "effective_from": "2026-08-19",
+    "effective_to": null,
+    "employee_id": "EMP-000118",
+    "status": "blocked"
+  },
+  {
+    "case_id": "ONB-2026-000119",
+    "created_date": "2026-10-22",
+    "effective_from": "2026-10-22",
+    "effective_to": null,
+    "employee_id": "EMP-000119",
+    "status": "blocked"
+  },
+  {
+    "case_id": "ONB-2026-000120",
+    "created_date": "2026-10-11",
+    "effective_from": "2026-10-11",
+    "effective_to": null,
+    "employee_id": "EMP-000120",
+    "status": "blocked"
+  },
+  {
+    "case_id": "ONB-2026-000121",
+    "created_date": "2026-10-22",
+    "effective_from": "2026-10-22",
+    "effective_to": null,
+    "employee_id": "EMP-000121",
+    "status": "blocked"
+  },
+  {
+    "case_id": "ONB-2026-000122",
+    "created_date": "2026-10-22",
+    "effective_from": "2026-10-22",
+    "effective_to": null,
+    "employee_id": "EMP-000122",
+    "status": "blocked"
+  },
+  {
+    "case_id": "ONB-2026-000123",
+    "created_date": "2026-08-17",
+    "effective_from": "2026-08-17",
+    "effective_to": null,
+    "employee_id": "EMP-000123",
+    "status": "blocked"
+  },
+  {
+    "case_id": "ONB-2026-000124",
+    "created_date": "2026-08-25",
+    "effective_from": "2026-08-25",
+    "effective_to": null,
+    "employee_id": "EMP-000124",
+    "status": "in_progress"
+  },
+  {
+    "case_id": "ONB-2026-000125",
+    "created_date": "2026-09-12",
+    "effective_from": "2026-09-12",
+    "effective_to": null,
+    "employee_id": "EMP-000125",
+    "status": "blocked"
+  },
+  {
+    "case_id": "ONB-2026-000126",
+    "created_date": "2026-10-05",
+    "effective_from": "2026-10-05",
+    "effective_to": null,
+    "employee_id": "EMP-000126",
+    "status": "cancelled"
+  },
+  {
+    "case_id": "ONB-2026-000127",
+    "created_date": "2026-09-06",
+    "effective_from": "2026-09-06",
+    "effective_to": null,
+    "employee_id": "EMP-000127",
+    "status": "blocked"
+  },
+  {
+    "case_id": "ONB-2026-000128",
+    "created_date": "2026-09-24",
+    "effective_from": "2026-09-24",
+    "effective_to": null,
+    "employee_id": "EMP-000128",
+    "status": "blocked"
+  },
+  {
+    "case_id": "ONB-2026-000129",
+    "created_date": "2026-07-28",
+    "effective_from": "2026-07-28",
+    "effective_to": null,
+    "employee_id": "EMP-000129",
+    "status": "blocked"
+  },
+  {
+    "case_id": "ONB-2026-000130",
+    "created_date": "2026-07-31",
+    "effective_from": "2026-07-31",
+    "effective_to": null,
+    "employee_id": "EMP-000130",
+    "status": "blocked"
+  },
+  {
+    "case_id": "ONB-2026-000131",
+    "created_date": "2026-10-22",
+    "effective_from": "2026-10-22",
+    "effective_to": null,
+    "employee_id": "EMP-000131",
+    "status": "blocked"
+  },
+  {
+    "case_id": "ONB-2026-000132",
+    "created_date": "2026-10-22",
+    "effective_from": "2026-10-22",
+    "effective_to": null,
+    "employee_id": "EMP-000132",
+    "status": "blocked"
+  },
+  {
+    "case_id": "ONB-2026-000133",
+    "created_date": "2026-08-18",
+    "effective_from": "2026-08-18",
+    "effective_to": null,
+    "employee_id": "EMP-000133",
+    "status": "blocked"
+  },
+  {
+    "case_id": "ONB-2026-000134",
+    "created_date": "2026-10-22",
+    "effective_from": "2026-10-22",
+    "effective_to": null,
+    "employee_id": "EMP-000134",
+    "status": "blocked"
+  },
+  {
+    "case_id": "ONB-2026-000135",
+    "created_date": "2026-07-31",
+    "effective_from": "2026-07-31",
+    "effective_to": null,
+    "employee_id": "EMP-000135",
+    "status": "cancelled"
+  },
+  {
+    "case_id": "ONB-2026-000136",
+    "created_date": "2026-10-22",
+    "effective_from": "2026-10-22",
+    "effective_to": null,
+    "employee_id": "EMP-000136",
+    "status": "blocked"
+  },
+  {
+    "case_id": "ONB-2026-000137",
+    "created_date": "2026-10-17",
+    "effective_from": "2026-10-17",
+    "effective_to": null,
+    "employee_id": "EMP-000137",
+    "status": "in_progress"
+  },
+  {
+    "case_id": "ONB-2026-000138",
+    "created_date": "2026-10-22",
+    "effective_from": "2026-10-22",
+    "effective_to": null,
+    "employee_id": "EMP-000138",
+    "status": "blocked"
+  },
+  {
+    "case_id": "ONB-2026-000139",
+    "created_date": "2026-10-22",
+    "effective_from": "2026-10-22",
+    "effective_to": null,
+    "employee_id": "EMP-000139",
+    "status": "blocked"
+  },
+  {
+    "case_id": "ONB-2026-000140",
+    "created_date": "2026-10-08",
+    "effective_from": "2026-10-08",
+    "effective_to": null,
+    "employee_id": "EMP-000140",
+    "status": "in_progress"
+  },
+  {
+    "case_id": "ONB-2026-000141",
+    "created_date": "2026-10-22",
+    "effective_from": "2026-10-22",
+    "effective_to": null,
+    "employee_id": "EMP-000141",
+    "status": "blocked"
+  },
+  {
+    "case_id": "ONB-2026-000142",
+    "created_date": "2026-10-22",
+    "effective_from": "2026-10-22",
+    "effective_to": null,
+    "employee_id": "EMP-000142",
+    "status": "blocked"
+  },
+  {
+    "case_id": "ONB-2026-000143",
+    "created_date": "2026-08-05",
+    "effective_from": "2026-08-05",
+    "effective_to": null,
+    "employee_id": "EMP-000143",
+    "status": "blocked"
+  },
+  {
+    "case_id": "ONB-2026-000144",
+    "created_date": "2026-07-28",
+    "effective_from": "2026-07-28",
+    "effective_to": null,
+    "employee_id": "EMP-000144",
+    "status": "cancelled"
+  },
+  {
+    "case_id": "ONB-2026-000145",
+    "created_date": "2026-09-10",
+    "effective_from": "2026-09-10",
+    "effective_to": null,
+    "employee_id": "EMP-000145",
+    "status": "blocked"
+  },
+  {
+    "case_id": "ONB-2026-000146",
+    "created_date": "2026-10-22",
+    "effective_from": "2026-10-22",
+    "effective_to": null,
+    "employee_id": "EMP-000146",
+    "status": "blocked"
+  },
+  {
+    "case_id": "ONB-2026-000147",
+    "created_date": "2026-10-22",
+    "effective_from": "2026-10-22",
+    "effective_to": null,
+    "employee_id": "EMP-000147",
+    "status": "blocked"
+  },
+  {
+    "case_id": "ONB-2026-000148",
+    "created_date": "2026-10-22",
+    "effective_from": "2026-10-22",
+    "effective_to": null,
+    "employee_id": "EMP-000148",
+    "status": "blocked"
+  },
+  {
+    "case_id": "ONB-2026-000149",
+    "created_date": "2026-08-28",
+    "effective_from": "2026-08-28",
+    "effective_to": null,
+    "employee_id": "EMP-000149",
+    "status": "blocked"
+  },
+  {
+    "case_id": "ONB-2026-000150",
+    "created_date": "2026-10-04",
+    "effective_from": "2026-10-04",
+    "effective_to": null,
+    "employee_id": "EMP-000150",
+    "status": "in_progress"
+  },
+  {
+    "case_id": "ONB-2026-000151",
+    "created_date": "2026-10-22",
+    "effective_from": "2026-10-22",
+    "effective_to": null,
+    "employee_id": "EMP-000151",
+    "status": "blocked"
+  },
+  {
+    "case_id": "ONB-2026-000152",
+    "created_date": "2026-10-22",
+    "effective_from": "2026-10-22",
+    "effective_to": null,
+    "employee_id": "EMP-000152",
+    "status": "in_progress"
+  },
+  {
+    "case_id": "ONB-2026-000153",
+    "created_date": "2026-08-06",
+    "effective_from": "2026-08-06",
+    "effective_to": null,
+    "employee_id": "EMP-000153",
+    "status": "cancelled"
+  },
+  {
+    "case_id": "ONB-2026-000154",
+    "created_date": "2026-10-22",
+    "effective_from": "2026-10-22",
+    "effective_to": null,
+    "employee_id": "EMP-000154",
+    "status": "blocked"
+  },
+  {
+    "case_id": "ONB-2026-000155",
+    "created_date": "2026-07-31",
+    "effective_from": "2026-07-31",
+    "effective_to": null,
+    "employee_id": "EMP-000155",
+    "status": "blocked"
+  },
+  {
+    "case_id": "ONB-2026-000156",
+    "created_date": "2026-08-13",
+    "effective_from": "2026-08-13",
+    "effective_to": null,
+    "employee_id": "EMP-000156",
+    "status": "blocked"
+  },
+  {
+    "case_id": "ONB-2026-000157",
+    "created_date": "2026-09-21",
+    "effective_from": "2026-09-21",
+    "effective_to": null,
+    "employee_id": "EMP-000157",
+    "status": "blocked"
+  },
+  {
+    "case_id": "ONB-2026-000158",
+    "created_date": "2026-10-22",
+    "effective_from": "2026-10-22",
+    "effective_to": null,
+    "employee_id": "EMP-000158",
+    "status": "blocked"
+  },
+  {
+    "case_id": "ONB-2026-000159",
+    "created_date": "2026-08-19",
+    "effective_from": "2026-08-19",
+    "effective_to": null,
+    "employee_id": "EMP-000159",
+    "status": "blocked"
+  },
+  {
+    "case_id": "ONB-2026-000160",
+    "created_date": "2026-10-09",
+    "effective_from": "2026-10-09",
+    "effective_to": null,
+    "employee_id": "EMP-000160",
+    "status": "blocked"
+  },
+  {
+    "case_id": "ONB-2026-000161",
+    "created_date": "2026-07-31",
+    "effective_from": "2026-07-31",
+    "effective_to": null,
+    "employee_id": "EMP-000161",
+    "status": "blocked"
+  },
+  {
+    "case_id": "ONB-2026-000162",
+    "created_date": "2026-09-05",
+    "effective_from": "2026-09-05",
+    "effective_to": null,
+    "employee_id": "EMP-000162",
+    "status": "cancelled"
+  },
+  {
+    "case_id": "ONB-2026-000163",
+    "created_date": "2026-09-21",
+    "effective_from": "2026-09-21",
+    "effective_to": null,
+    "employee_id": "EMP-000163",
+    "status": "blocked"
+  },
+  {
+    "case_id": "ONB-2026-000164",
+    "created_date": "2026-08-05",
+    "effective_from": "2026-08-05",
+    "effective_to": null,
+    "employee_id": "EMP-000164",
+    "status": "blocked"
+  },
+  {
+    "case_id": "ONB-2026-000165",
+    "created_date": "2026-08-17",
+    "effective_from": "2026-08-17",
+    "effective_to": null,
+    "employee_id": "EMP-000165",
+    "status": "blocked"
+  },
+  {
+    "case_id": "ONB-2026-000166",
+    "created_date": "2026-10-05",
+    "effective_from": "2026-10-05",
+    "effective_to": null,
+    "employee_id": "EMP-000166",
+    "status": "blocked"
+  },
+  {
+    "case_id": "ONB-2026-000167",
+    "created_date": "2026-10-22",
+    "effective_from": "2026-10-22",
+    "effective_to": null,
+    "employee_id": "EMP-000167",
+    "status": "blocked"
+  },
+  {
+    "case_id": "ONB-2026-000168",
+    "created_date": "2026-10-22",
+    "effective_from": "2026-10-22",
+    "effective_to": null,
+    "employee_id": "EMP-000168",
+    "status": "blocked"
+  },
+  {
+    "case_id": "ONB-2026-000169",
+    "created_date": "2026-10-22",
+    "effective_from": "2026-10-22",
+    "effective_to": null,
+    "employee_id": "EMP-000169",
+    "status": "blocked"
+  },
+  {
+    "case_id": "ONB-2026-000170",
+    "created_date": "2026-10-22",
+    "effective_from": "2026-10-22",
+    "effective_to": null,
+    "employee_id": "EMP-000170",
+    "status": "blocked"
+  },
+  {
+    "case_id": "ONB-2026-000171",
+    "created_date": "2026-09-07",
+    "effective_from": "2026-09-07",
+    "effective_to": null,
+    "employee_id": "EMP-000171",
+    "status": "cancelled"
+  },
+  {
+    "case_id": "ONB-2026-000172",
+    "created_date": "2026-08-31",
+    "effective_from": "2026-08-31",
+    "effective_to": null,
+    "employee_id": "EMP-000172",
+    "status": "blocked"
+  },
+  {
+    "case_id": "ONB-2026-000173",
+    "created_date": "2026-10-22",
+    "effective_from": "2026-10-22",
+    "effective_to": null,
+    "employee_id": "EMP-000173",
+    "status": "blocked"
+  },
+  {
+    "case_id": "ONB-2026-000174",
+    "created_date": "2026-10-22",
+    "effective_from": "2026-10-22",
+    "effective_to": null,
+    "employee_id": "EMP-000174",
+    "status": "blocked"
+  },
+  {
+    "case_id": "ONB-2026-000175",
+    "created_date": "2026-07-31",
+    "effective_from": "2026-07-31",
+    "effective_to": null,
+    "employee_id": "EMP-000175",
+    "status": "blocked"
+  },
+  {
+    "case_id": "ONB-2026-000176",
+    "created_date": "2026-10-22",
+    "effective_from": "2026-10-22",
+    "effective_to": null,
+    "employee_id": "EMP-000176",
+    "status": "blocked"
+  },
+  {
+    "case_id": "ONB-2026-000177",
+    "created_date": "2026-08-24",
+    "effective_from": "2026-08-24",
+    "effective_to": null,
+    "employee_id": "EMP-000177",
+    "status": "blocked"
+  },
+  {
+    "case_id": "ONB-2026-000178",
+    "created_date": "2026-09-11",
+    "effective_from": "2026-09-11",
+    "effective_to": null,
+    "employee_id": "EMP-000178",
+    "status": "blocked"
+  },
+  {
+    "case_id": "ONB-2026-000179",
+    "created_date": "2026-09-02",
+    "effective_from": "2026-09-02",
+    "effective_to": null,
+    "employee_id": "EMP-000179",
+    "status": "in_progress"
+  },
+  {
+    "case_id": "ONB-2026-000180",
+    "created_date": "2026-09-02",
+    "effective_from": "2026-09-02",
+    "effective_to": null,
+    "employee_id": "EMP-000180",
+    "status": "cancelled"
+  },
+  {
+    "case_id": "ONB-2026-000181",
+    "created_date": "2026-10-17",
+    "effective_from": "2026-10-17",
+    "effective_to": null,
+    "employee_id": "EMP-000181",
+    "status": "blocked"
+  },
+  {
+    "case_id": "ONB-2026-000182",
+    "created_date": "2026-10-22",
+    "effective_from": "2026-10-22",
+    "effective_to": null,
+    "employee_id": "EMP-000182",
+    "status": "blocked"
+  },
+  {
+    "case_id": "ONB-2026-000183",
+    "created_date": "2026-09-02",
+    "effective_from": "2026-09-02",
+    "effective_to": null,
+    "employee_id": "EMP-000183",
+    "status": "blocked"
+  },
+  {
+    "case_id": "ONB-2026-000184",
+    "created_date": "2026-10-22",
+    "effective_from": "2026-10-22",
+    "effective_to": null,
+    "employee_id": "EMP-000184",
+    "status": "blocked"
+  },
+  {
+    "case_id": "ONB-2026-000185",
+    "created_date": "2026-08-08",
+    "effective_from": "2026-08-08",
+    "effective_to": null,
+    "employee_id": "EMP-000185",
+    "status": "blocked"
+  },
+  {
+    "case_id": "ONB-2026-000186",
+    "created_date": "2026-10-22",
+    "effective_from": "2026-10-22",
+    "effective_to": null,
+    "employee_id": "EMP-000186",
+    "status": "blocked"
+  },
+  {
+    "case_id": "ONB-2026-000187",
+    "created_date": "2026-10-22",
+    "effective_from": "2026-10-22",
+    "effective_to": null,
+    "employee_id": "EMP-000187",
+    "status": "blocked"
+  },
+  {
+    "case_id": "ONB-2026-000188",
+    "created_date": "2026-09-30",
+    "effective_from": "2026-09-30",
+    "effective_to": null,
+    "employee_id": "EMP-000188",
+    "status": "blocked"
+  },
+  {
+    "case_id": "ONB-2026-000189",
+    "created_date": "2026-08-26",
+    "effective_from": "2026-08-26",
+    "effective_to": null,
+    "employee_id": "EMP-000189",
+    "status": "cancelled"
+  },
+  {
+    "case_id": "ONB-2026-000190",
+    "created_date": "2026-09-28",
+    "effective_from": "2026-09-28",
+    "effective_to": null,
+    "employee_id": "EMP-000190",
+    "status": "blocked"
+  },
+  {
+    "case_id": "ONB-2026-000191",
+    "created_date": "2026-10-22",
+    "effective_from": "2026-10-22",
+    "effective_to": null,
+    "employee_id": "EMP-000191",
+    "status": "blocked"
+  },
+  {
+    "case_id": "ONB-2026-000192",
+    "created_date": "2026-10-16",
+    "effective_from": "2026-10-16",
+    "effective_to": null,
+    "employee_id": "EMP-000192",
+    "status": "blocked"
+  },
+  {
+    "case_id": "ONB-2026-000193",
+    "created_date": "2026-08-18",
+    "effective_from": "2026-08-18",
+    "effective_to": null,
+    "employee_id": "EMP-000193",
+    "status": "blocked"
+  },
+  {
+    "case_id": "ONB-2026-000194",
+    "created_date": "2026-07-31",
+    "effective_from": "2026-07-31",
+    "effective_to": null,
+    "employee_id": "EMP-000194",
+    "status": "blocked"
+  },
+  {
+    "case_id": "ONB-2026-000195",
+    "created_date": "2026-10-22",
+    "effective_from": "2026-10-22",
+    "effective_to": null,
+    "employee_id": "EMP-000195",
+    "status": "blocked"
+  },
+  {
+    "case_id": "ONB-2026-000196",
+    "created_date": "2026-10-22",
+    "effective_from": "2026-10-22",
+    "effective_to": null,
+    "employee_id": "EMP-000196",
+    "status": "blocked"
+  },
+  {
+    "case_id": "ONB-2026-000197",
+    "created_date": "2026-08-13",
+    "effective_from": "2026-08-13",
+    "effective_to": null,
+    "employee_id": "EMP-000197",
+    "status": "blocked"
+  },
+  {
+    "case_id": "ONB-2026-000198",
+    "created_date": "2026-08-29",
+    "effective_from": "2026-08-29",
+    "effective_to": null,
+    "employee_id": "EMP-000198",
+    "status": "cancelled"
+  },
+  {
+    "case_id": "ONB-2026-000199",
+    "created_date": "2026-08-19",
+    "effective_from": "2026-08-19",
+    "effective_to": null,
+    "employee_id": "EMP-000199",
+    "status": "in_progress"
+  },
+  {
+    "case_id": "ONB-2026-000200",
+    "created_date": "2026-10-11",
+    "effective_from": "2026-10-11",
+    "effective_to": null,
+    "employee_id": "EMP-000200",
+    "status": "blocked"
+  },
+  {
+    "case_id": "ONB-2026-000201",
+    "created_date": "2026-09-07",
+    "effective_from": "2026-09-07",
+    "effective_to": null,
+    "employee_id": "EMP-000201",
+    "status": "blocked"
+  },
+  {
+    "case_id": "ONB-2026-000202",
+    "created_date": "2026-07-21",
+    "effective_from": "2026-07-21",
+    "effective_to": null,
+    "employee_id": "EMP-000202",
+    "status": "blocked"
+  },
+  {
+    "case_id": "ONB-2026-000203",
+    "created_date": "2026-08-04",
+    "effective_from": "2026-08-04",
+    "effective_to": null,
+    "employee_id": "EMP-000203",
+    "status": "blocked"
+  },
+  {
+    "case_id": "ONB-2026-000204",
+    "created_date": "2026-09-05",
+    "effective_from": "2026-09-05",
+    "effective_to": null,
+    "employee_id": "EMP-000204",
+    "status": "blocked"
+  },
+  {
+    "case_id": "ONB-2026-000205",
+    "created_date": "2026-10-22",
+    "effective_from": "2026-10-22",
+    "effective_to": null,
+    "employee_id": "EMP-000205",
+    "status": "blocked"
+  },
+  {
+    "case_id": "ONB-2026-000206",
+    "created_date": "2026-09-12",
+    "effective_from": "2026-09-12",
+    "effective_to": null,
+    "employee_id": "EMP-000206",
+    "status": "blocked"
+  },
+  {
+    "case_id": "ONB-2026-000207",
+    "created_date": "2026-08-05",
+    "effective_from": "2026-08-05",
+    "effective_to": null,
+    "employee_id": "EMP-000207",
+    "status": "cancelled"
+  },
+  {
+    "case_id": "ONB-2026-000208",
+    "created_date": "2026-10-22",
+    "effective_from": "2026-10-22",
+    "effective_to": null,
+    "employee_id": "EMP-000208",
+    "status": "blocked"
+  },
+  {
+    "case_id": "ONB-2026-000209",
+    "created_date": "2026-10-22",
+    "effective_from": "2026-10-22",
+    "effective_to": null,
+    "employee_id": "EMP-000209",
+    "status": "blocked"
+  },
+  {
+    "case_id": "ONB-2026-000210",
+    "created_date": "2026-09-26",
+    "effective_from": "2026-09-26",
+    "effective_to": null,
+    "employee_id": "EMP-000210",
+    "status": "in_progress"
+  },
+  {
+    "case_id": "ONB-2026-000211",
+    "created_date": "2026-10-22",
+    "effective_from": "2026-10-22",
+    "effective_to": null,
+    "employee_id": "EMP-000211",
+    "status": "blocked"
+  },
+  {
+    "case_id": "ONB-2026-000212",
+    "created_date": "2026-10-22",
+    "effective_from": "2026-10-22",
+    "effective_to": null,
+    "employee_id": "EMP-000212",
+    "status": "blocked"
+  },
+  {
+    "case_id": "ONB-2026-000213",
+    "created_date": "2026-09-26",
+    "effective_from": "2026-09-26",
+    "effective_to": null,
+    "employee_id": "EMP-000213",
+    "status": "blocked"
+  },
+  {
+    "case_id": "ONB-2026-000214",
+    "created_date": "2026-08-28",
+    "effective_from": "2026-08-28",
+    "effective_to": null,
+    "employee_id": "EMP-000214",
+    "status": "blocked"
+  },
+  {
+    "case_id": "ONB-2026-000215",
+    "created_date": "2026-10-04",
+    "effective_from": "2026-10-04",
+    "effective_to": null,
+    "employee_id": "EMP-000215",
+    "status": "blocked"
+  },
+  {
+    "case_id": "ONB-2026-000216",
+    "created_date": "2026-07-15",
+    "effective_from": "2026-07-15",
+    "effective_to": null,
+    "employee_id": "EMP-000216",
+    "status": "cancelled"
+  },
+  {
+    "case_id": "ONB-2026-000217",
+    "created_date": "2026-08-03",
+    "effective_from": "2026-08-03",
+    "effective_to": null,
+    "employee_id": "EMP-000217",
+    "status": "blocked"
+  },
+  {
+    "case_id": "ONB-2026-000218",
+    "created_date": "2026-10-14",
+    "effective_from": "2026-10-14",
+    "effective_to": null,
+    "employee_id": "EMP-000218",
+    "status": "blocked"
+  },
+  {
+    "case_id": "ONB-2026-000219",
+    "created_date": "2026-09-27",
+    "effective_from": "2026-09-27",
+    "effective_to": null,
+    "employee_id": "EMP-000219",
+    "status": "blocked"
+  },
+  {
+    "case_id": "ONB-2026-000220",
+    "created_date": "2026-10-11",
+    "effective_from": "2026-10-11",
+    "effective_to": null,
+    "employee_id": "EMP-000220",
+    "status": "in_progress"
+  },
+  {
+    "case_id": "ONB-2026-000221",
+    "created_date": "2026-07-20",
+    "effective_from": "2026-07-20",
+    "effective_to": null,
+    "employee_id": "EMP-000221",
+    "status": "blocked"
+  },
+  {
+    "case_id": "ONB-2026-000222",
+    "created_date": "2026-10-22",
+    "effective_from": "2026-10-22",
+    "effective_to": null,
+    "employee_id": "EMP-000222",
+    "status": "blocked"
+  },
+  {
+    "case_id": "ONB-2026-000223",
+    "created_date": "2026-08-22",
+    "effective_from": "2026-08-22",
+    "effective_to": null,
+    "employee_id": "EMP-000223",
+    "status": "blocked"
+  },
+  {
+    "case_id": "ONB-2026-000224",
+    "created_date": "2026-10-22",
+    "effective_from": "2026-10-22",
+    "effective_to": null,
+    "employee_id": "EMP-000224",
+    "status": "in_progress"
+  },
+  {
+    "case_id": "ONB-2026-000225",
+    "created_date": "2026-07-30",
+    "effective_from": "2026-07-30",
+    "effective_to": null,
+    "employee_id": "EMP-000225",
+    "status": "cancelled"
+  },
+  {
+    "case_id": "ONB-2026-000226",
+    "created_date": "2026-10-22",
+    "effective_from": "2026-10-22",
+    "effective_to": null,
+    "employee_id": "EMP-000226",
+    "status": "blocked"
+  },
+  {
+    "case_id": "ONB-2026-000227",
+    "created_date": "2026-07-12",
+    "effective_from": "2026-07-12",
+    "effective_to": null,
+    "employee_id": "EMP-000227",
+    "status": "blocked"
+  },
+  {
+    "case_id": "ONB-2026-000228",
+    "created_date": "2026-10-22",
+    "effective_from": "2026-10-22",
+    "effective_to": null,
+    "employee_id": "EMP-000228",
+    "status": "blocked"
+  },
+  {
+    "case_id": "ONB-2026-000229",
+    "created_date": "2026-08-09",
+    "effective_from": "2026-08-09",
+    "effective_to": null,
+    "employee_id": "EMP-000229",
+    "status": "blocked"
+  },
+  {
+    "case_id": "ONB-2026-000230",
+    "created_date": "2026-09-30",
+    "effective_from": "2026-09-30",
+    "effective_to": null,
+    "employee_id": "EMP-000230",
+    "status": "blocked"
+  },
+  {
+    "case_id": "ONB-2026-000231",
+    "created_date": "2026-10-11",
+    "effective_from": "2026-10-11",
+    "effective_to": null,
+    "employee_id": "EMP-000231",
+    "status": "in_progress"
+  },
+  {
+    "case_id": "ONB-2026-000232",
+    "created_date": "2026-07-17",
+    "effective_from": "2026-07-17",
+    "effective_to": null,
+    "employee_id": "EMP-000232",
+    "status": "blocked"
+  },
+  {
+    "case_id": "ONB-2026-000233",
+    "created_date": "2026-07-26",
+    "effective_from": "2026-07-26",
+    "effective_to": null,
+    "employee_id": "EMP-000233",
+    "status": "blocked"
+  },
+  {
+    "case_id": "ONB-2026-000234",
+    "created_date": "2026-08-20",
+    "effective_from": "2026-08-20",
+    "effective_to": null,
+    "employee_id": "EMP-000234",
+    "status": "cancelled"
+  },
+  {
+    "case_id": "ONB-2026-000235",
+    "created_date": "2026-10-22",
+    "effective_from": "2026-10-22",
+    "effective_to": null,
+    "employee_id": "EMP-000235",
+    "status": "blocked"
+  },
+  {
+    "case_id": "ONB-2026-000236",
+    "created_date": "2026-07-20",
+    "effective_from": "2026-07-20",
+    "effective_to": null,
+    "employee_id": "EMP-000236",
+    "status": "blocked"
+  },
+  {
+    "case_id": "ONB-2026-000237",
+    "created_date": "2026-10-22",
+    "effective_from": "2026-10-22",
+    "effective_to": null,
+    "employee_id": "EMP-000237",
+    "status": "blocked"
+  },
+  {
+    "case_id": "ONB-2026-000238",
+    "created_date": "2026-10-22",
+    "effective_from": "2026-10-22",
+    "effective_to": null,
+    "employee_id": "EMP-000238",
+    "status": "blocked"
+  },
+  {
+    "case_id": "ONB-2026-000239",
+    "created_date": "2026-10-22",
+    "effective_from": "2026-10-22",
+    "effective_to": null,
+    "employee_id": "EMP-000239",
+    "status": "blocked"
+  },
+  {
+    "case_id": "ONB-2026-000240",
+    "created_date": "2026-10-12",
+    "effective_from": "2026-10-12",
+    "effective_to": null,
+    "employee_id": "EMP-000240",
+    "status": "blocked"
+  },
+  {
+    "case_id": "ONB-2026-000241",
+    "created_date": "2026-09-20",
+    "effective_from": "2026-09-20",
+    "effective_to": null,
+    "employee_id": "EMP-000241",
+    "status": "blocked"
+  },
+  {
+    "case_id": "ONB-2026-000242",
+    "created_date": "2026-08-09",
+    "effective_from": "2026-08-09",
+    "effective_to": null,
+    "employee_id": "EMP-000242",
+    "status": "in_progress"
+  },
+  {
+    "case_id": "ONB-2026-000243",
+    "created_date": "2026-08-09",
+    "effective_from": "2026-08-09",
+    "effective_to": null,
+    "employee_id": "EMP-000243",
+    "status": "cancelled"
+  },
+  {
+    "case_id": "ONB-2026-000244",
+    "created_date": "2026-09-07",
+    "effective_from": "2026-09-07",
+    "effective_to": null,
+    "employee_id": "EMP-000244",
+    "status": "blocked"
+  },
+  {
+    "case_id": "ONB-2026-000245",
+    "created_date": "2026-09-20",
+    "effective_from": "2026-09-20",
+    "effective_to": null,
+    "employee_id": "EMP-000245",
+    "status": "completed"
+  },
+  {
+    "case_id": "ONB-2026-000246",
+    "created_date": "2026-10-05",
+    "effective_from": "2026-10-05",
+    "effective_to": null,
+    "employee_id": "EMP-000246",
+    "status": "blocked"
+  },
+  {
+    "case_id": "ONB-2026-000247",
+    "created_date": "2026-09-10",
+    "effective_from": "2026-09-10",
+    "effective_to": null,
+    "employee_id": "EMP-000247",
+    "status": "blocked"
+  },
+  {
+    "case_id": "ONB-2026-000248",
+    "created_date": "2026-08-16",
+    "effective_from": "2026-08-16",
+    "effective_to": null,
+    "employee_id": "EMP-000248",
+    "status": "blocked"
+  },
+  {
+    "case_id": "ONB-2026-000249",
+    "created_date": "2026-10-22",
+    "effective_from": "2026-10-22",
+    "effective_to": null,
+    "employee_id": "EMP-000249",
+    "status": "blocked"
+  },
+  {
+    "case_id": "ONB-2026-000250",
+    "created_date": "2026-10-22",
+    "effective_from": "2026-10-22",
+    "effective_to": null,
+    "employee_id": "EMP-000250",
+    "status": "blocked"
+  },
+  {
+    "case_id": "ONB-2026-000251",
+    "created_date": "2026-10-22",
+    "effective_from": "2026-10-22",
+    "effective_to": null,
+    "employee_id": "EMP-000251",
+    "status": "blocked"
+  },
+  {
+    "case_id": "ONB-2026-000252",
+    "created_date": "2026-10-01",
+    "effective_from": "2026-10-01",
+    "effective_to": null,
+    "employee_id": "EMP-000252",
+    "status": "cancelled"
+  },
+  {
+    "case_id": "ONB-2026-000253",
+    "created_date": "2026-10-22",
+    "effective_from": "2026-10-22",
+    "effective_to": null,
+    "employee_id": "EMP-000253",
+    "status": "blocked"
+  },
+  {
+    "case_id": "ONB-2026-000254",
+    "created_date": "2026-10-22",
+    "effective_from": "2026-10-22",
+    "effective_to": null,
+    "employee_id": "EMP-000254",
+    "status": "blocked"
+  },
+  {
+    "case_id": "ONB-2026-000255",
+    "created_date": "2026-09-14",
+    "effective_from": "2026-09-14",
+    "effective_to": null,
+    "employee_id": "EMP-000255",
+    "status": "blocked"
+  },
+  {
+    "case_id": "ONB-2026-000256",
+    "created_date": "2026-10-22",
+    "effective_from": "2026-10-22",
+    "effective_to": null,
+    "employee_id": "EMP-000256",
+    "status": "blocked"
+  },
+  {
+    "case_id": "ONB-2026-000257",
+    "created_date": "2026-10-22",
+    "effective_from": "2026-10-22",
+    "effective_to": null,
+    "employee_id": "EMP-000257",
+    "status": "blocked"
+  },
+  {
+    "case_id": "ONB-2026-000258",
+    "created_date": "2026-10-18",
+    "effective_from": "2026-10-18",
+    "effective_to": null,
+    "employee_id": "EMP-000258",
+    "status": "blocked"
+  },
+  {
+    "case_id": "ONB-2026-000259",
+    "created_date": "2026-10-07",
+    "effective_from": "2026-10-07",
+    "effective_to": null,
+    "employee_id": "EMP-000259",
+    "status": "blocked"
+  },
+  {
+    "case_id": "ONB-2026-000260",
+    "created_date": "2026-10-10",
+    "effective_from": "2026-10-10",
+    "effective_to": null,
+    "employee_id": "EMP-000260",
+    "status": "blocked"
+  },
+  {
+    "case_id": "ONB-2026-000261",
+    "created_date": "2026-08-11",
+    "effective_from": "2026-08-11",
+    "effective_to": null,
+    "employee_id": "EMP-000261",
+    "status": "cancelled"
+  },
+  {
+    "case_id": "ONB-2026-000262",
+    "created_date": "2026-10-09",
+    "effective_from": "2026-10-09",
+    "effective_to": null,
+    "employee_id": "EMP-000262",
+    "status": "blocked"
+  },
+  {
+    "case_id": "ONB-2026-000263",
+    "created_date": "2026-10-22",
+    "effective_from": "2026-10-22",
+    "effective_to": null,
+    "employee_id": "EMP-000263",
+    "status": "blocked"
+  },
+  {
+    "case_id": "ONB-2026-000264",
+    "created_date": "2026-08-19",
+    "effective_from": "2026-08-19",
+    "effective_to": null,
+    "employee_id": "EMP-000264",
+    "status": "in_progress"
+  },
+  {
+    "case_id": "ONB-2026-000265",
+    "created_date": "2026-10-21",
+    "effective_from": "2026-10-21",
+    "effective_to": null,
+    "employee_id": "EMP-000265",
+    "status": "blocked"
+  },
+  {
+    "case_id": "ONB-2026-000266",
+    "created_date": "2026-07-19",
+    "effective_from": "2026-07-19",
+    "effective_to": null,
+    "employee_id": "EMP-000266",
+    "status": "in_progress"
+  },
+  {
+    "case_id": "ONB-2026-000267",
+    "created_date": "2026-10-22",
+    "effective_from": "2026-10-22",
+    "effective_to": null,
+    "employee_id": "EMP-000267",
+    "status": "blocked"
+  },
+  {
+    "case_id": "ONB-2026-000268",
+    "created_date": "2026-10-22",
+    "effective_from": "2026-10-22",
+    "effective_to": null,
+    "employee_id": "EMP-000268",
+    "status": "blocked"
+  },
+  {
+    "case_id": "ONB-2026-000269",
+    "created_date": "2026-10-22",
+    "effective_from": "2026-10-22",
+    "effective_to": null,
+    "employee_id": "EMP-000269",
+    "status": "blocked"
+  },
+  {
+    "case_id": "ONB-2026-000270",
+    "created_date": "2026-08-21",
+    "effective_from": "2026-08-21",
+    "effective_to": null,
+    "employee_id": "EMP-000270",
+    "status": "cancelled"
+  },
+  {
+    "case_id": "ONB-2026-000271",
+    "created_date": "2026-09-17",
+    "effective_from": "2026-09-17",
+    "effective_to": null,
+    "employee_id": "EMP-000271",
+    "status": "blocked"
+  },
+  {
+    "case_id": "ONB-2026-000272",
+    "created_date": "2026-08-23",
+    "effective_from": "2026-08-23",
+    "effective_to": null,
+    "employee_id": "EMP-000272",
+    "status": "blocked"
+  },
+  {
+    "case_id": "ONB-2026-000273",
+    "created_date": "2026-10-22",
+    "effective_from": "2026-10-22",
+    "effective_to": null,
+    "employee_id": "EMP-000273",
+    "status": "blocked"
+  },
+  {
+    "case_id": "ONB-2026-000274",
+    "created_date": "2026-10-22",
+    "effective_from": "2026-10-22",
+    "effective_to": null,
+    "employee_id": "EMP-000274",
+    "status": "blocked"
+  },
+  {
+    "case_id": "ONB-2026-000275",
+    "created_date": "2026-10-22",
+    "effective_from": "2026-10-22",
+    "effective_to": null,
+    "employee_id": "EMP-000275",
+    "status": "blocked"
+  },
+  {
+    "case_id": "ONB-2026-000276",
+    "created_date": "2026-08-11",
+    "effective_from": "2026-08-11",
+    "effective_to": null,
+    "employee_id": "EMP-000276",
+    "status": "in_progress"
+  },
+  {
+    "case_id": "ONB-2026-000277",
+    "created_date": "2026-10-08",
+    "effective_from": "2026-10-08",
+    "effective_to": null,
+    "employee_id": "EMP-000277",
+    "status": "blocked"
+  },
+  {
+    "case_id": "ONB-2026-000278",
+    "created_date": "2026-10-22",
+    "effective_from": "2026-10-22",
+    "effective_to": null,
+    "employee_id": "EMP-000278",
+    "status": "blocked"
+  },
+  {
+    "case_id": "ONB-2026-000279",
+    "created_date": "2026-09-07",
+    "effective_from": "2026-09-07",
+    "effective_to": null,
+    "employee_id": "EMP-000279",
+    "status": "cancelled"
+  },
+  {
+    "case_id": "ONB-2026-000280",
+    "created_date": "2026-10-12",
+    "effective_from": "2026-10-12",
+    "effective_to": null,
+    "employee_id": "EMP-000280",
+    "status": "blocked"
+  },
+  {
+    "case_id": "ONB-2026-000281",
+    "created_date": "2026-10-22",
+    "effective_from": "2026-10-22",
+    "effective_to": null,
+    "employee_id": "EMP-000281",
+    "status": "blocked"
+  },
+  {
+    "case_id": "ONB-2026-000282",
+    "created_date": "2026-10-22",
+    "effective_from": "2026-10-22",
+    "effective_to": null,
+    "employee_id": "EMP-000282",
+    "status": "blocked"
+  },
+  {
+    "case_id": "ONB-2026-000283",
+    "created_date": "2026-07-19",
+    "effective_from": "2026-07-19",
+    "effective_to": null,
+    "employee_id": "EMP-000283",
+    "status": "blocked"
+  },
+  {
+    "case_id": "ONB-2026-000284",
+    "created_date": "2026-10-22",
+    "effective_from": "2026-10-22",
+    "effective_to": null,
+    "employee_id": "EMP-000284",
+    "status": "blocked"
+  },
+  {
+    "case_id": "ONB-2026-000285",
+    "created_date": "2026-09-24",
+    "effective_from": "2026-09-24",
+    "effective_to": null,
+    "employee_id": "EMP-000285",
+    "status": "blocked"
+  },
+  {
+    "case_id": "ONB-2026-000286",
+    "created_date": "2026-09-18",
+    "effective_from": "2026-09-18",
+    "effective_to": null,
+    "employee_id": "EMP-000286",
+    "status": "blocked"
+  },
+  {
+    "case_id": "ONB-2026-000287",
+    "created_date": "2026-08-10",
+    "effective_from": "2026-08-10",
+    "effective_to": null,
+    "employee_id": "EMP-000287",
+    "status": "blocked"
+  },
+  {
+    "case_id": "ONB-2026-000288",
+    "created_date": "2026-09-05",
+    "effective_from": "2026-09-05",
+    "effective_to": null,
+    "employee_id": "EMP-000288",
+    "status": "cancelled"
+  },
+  {
+    "case_id": "ONB-2026-000289",
+    "created_date": "2026-10-22",
+    "effective_from": "2026-10-22",
+    "effective_to": null,
+    "employee_id": "EMP-000289",
+    "status": "blocked"
+  },
+  {
+    "case_id": "ONB-2026-000290",
+    "created_date": "2026-08-02",
+    "effective_from": "2026-08-02",
+    "effective_to": null,
+    "employee_id": "EMP-000290",
+    "status": "blocked"
+  },
+  {
+    "case_id": "ONB-2026-000291",
+    "created_date": "2026-08-15",
+    "effective_from": "2026-08-15",
+    "effective_to": null,
+    "employee_id": "EMP-000291",
+    "status": "blocked"
+  },
+  {
+    "case_id": "ONB-2026-000292",
+    "created_date": "2026-08-09",
+    "effective_from": "2026-08-09",
+    "effective_to": null,
+    "employee_id": "EMP-000292",
+    "status": "blocked"
+  },
+  {
+    "case_id": "ONB-2026-000293",
+    "created_date": "2026-10-01",
+    "effective_from": "2026-10-01",
+    "effective_to": null,
+    "employee_id": "EMP-000293",
+    "status": "blocked"
+  },
+  {
+    "case_id": "ONB-2026-000294",
+    "created_date": "2026-10-22",
+    "effective_from": "2026-10-22",
+    "effective_to": null,
+    "employee_id": "EMP-000294",
+    "status": "blocked"
+  },
+  {
+    "case_id": "ONB-2026-000295",
+    "created_date": "2026-09-21",
+    "effective_from": "2026-09-21",
+    "effective_to": null,
+    "employee_id": "EMP-000295",
+    "status": "blocked"
+  },
+  {
+    "case_id": "ONB-2026-000296",
+    "created_date": "2026-09-15",
+    "effective_from": "2026-09-15",
+    "effective_to": null,
+    "employee_id": "EMP-000296",
+    "status": "blocked"
+  },
+  {
+    "case_id": "ONB-2026-000297",
+    "created_date": "2026-07-24",
+    "effective_from": "2026-07-24",
+    "effective_to": null,
+    "employee_id": "EMP-000297",
+    "status": "cancelled"
+  },
+  {
+    "case_id": "ONB-2026-000298",
+    "created_date": "2026-10-22",
+    "effective_from": "2026-10-22",
+    "effective_to": null,
+    "employee_id": "EMP-000298",
+    "status": "in_progress"
+  },
+  {
+    "case_id": "ONB-2026-000299",
+    "created_date": "2026-10-22",
+    "effective_from": "2026-10-22",
+    "effective_to": null,
+    "employee_id": "EMP-000299",
+    "status": "blocked"
+  },
+  {
+    "case_id": "ONB-2026-000300",
+    "created_date": "2026-10-12",
+    "effective_from": "2026-10-12",
+    "effective_to": null,
+    "employee_id": "EMP-000300",
+    "status": "blocked"
+  },
+  {
+    "case_id": "ONB-2026-000301",
+    "created_date": "2026-10-22",
+    "effective_from": "2026-10-22",
+    "effective_to": null,
+    "employee_id": "EMP-000301",
+    "status": "blocked"
+  },
+  {
+    "case_id": "ONB-2026-000302",
+    "created_date": "2026-07-23",
+    "effective_from": "2026-07-23",
+    "effective_to": null,
+    "employee_id": "EMP-000302",
+    "status": "blocked"
+  },
+  {
+    "case_id": "ONB-2026-000303",
+    "created_date": "2026-10-22",
+    "effective_from": "2026-10-22",
+    "effective_to": null,
+    "employee_id": "EMP-000303",
+    "status": "blocked"
+  },
+  {
+    "case_id": "ONB-2026-000304",
+    "created_date": "2026-10-22",
+    "effective_from": "2026-10-22",
+    "effective_to": null,
+    "employee_id": "EMP-000304",
+    "status": "in_progress"
+  },
+  {
+    "case_id": "ONB-2026-000305",
+    "created_date": "2026-09-20",
+    "effective_from": "2026-09-20",
+    "effective_to": null,
+    "employee_id": "EMP-000305",
+    "status": "blocked"
+  },
+  {
+    "case_id": "ONB-2026-000306",
+    "created_date": "2026-09-12",
+    "effective_from": "2026-09-12",
+    "effective_to": null,
+    "employee_id": "EMP-000306",
+    "status": "cancelled"
+  },
+  {
+    "case_id": "ONB-2026-000307",
+    "created_date": "2026-10-22",
+    "effective_from": "2026-10-22",
+    "effective_to": null,
+    "employee_id": "EMP-000307",
+    "status": "blocked"
+  },
+  {
+    "case_id": "ONB-2026-000308",
+    "created_date": "2026-09-27",
+    "effective_from": "2026-09-27",
+    "effective_to": null,
+    "employee_id": "EMP-000308",
+    "status": "blocked"
+  },
+  {
+    "case_id": "ONB-2026-000309",
+    "created_date": "2026-08-14",
+    "effective_from": "2026-08-14",
+    "effective_to": null,
+    "employee_id": "EMP-000309",
+    "status": "in_progress"
+  },
+  {
+    "case_id": "ONB-2026-000310",
+    "created_date": "2026-10-22",
+    "effective_from": "2026-10-22",
+    "effective_to": null,
+    "employee_id": "EMP-000310",
+    "status": "blocked"
+  },
+  {
+    "case_id": "ONB-2026-000311",
+    "created_date": "2026-07-21",
+    "effective_from": "2026-07-21",
+    "effective_to": null,
+    "employee_id": "EMP-000311",
+    "status": "blocked"
+  },
+  {
+    "case_id": "ONB-2026-000312",
+    "created_date": "2026-10-22",
+    "effective_from": "2026-10-22",
+    "effective_to": null,
+    "employee_id": "EMP-000312",
+    "status": "blocked"
+  },
+  {
+    "case_id": "ONB-2026-000313",
+    "created_date": "2026-10-22",
+    "effective_from": "2026-10-22",
+    "effective_to": null,
+    "employee_id": "EMP-000313",
+    "status": "blocked"
+  },
+  {
+    "case_id": "ONB-2026-000314",
+    "created_date": "2026-09-18",
+    "effective_from": "2026-09-18",
+    "effective_to": null,
+    "employee_id": "EMP-000314",
+    "status": "blocked"
+  },
+  {
+    "case_id": "ONB-2026-000315",
+    "created_date": "2026-08-31",
+    "effective_from": "2026-08-31",
+    "effective_to": null,
+    "employee_id": "EMP-000315",
+    "status": "cancelled"
+  },
+  {
+    "case_id": "ONB-2026-000316",
+    "created_date": "2026-10-22",
+    "effective_from": "2026-10-22",
+    "effective_to": null,
+    "employee_id": "EMP-000316",
+    "status": "blocked"
+  },
+  {
+    "case_id": "ONB-2026-000317",
+    "created_date": "2026-10-22",
+    "effective_from": "2026-10-22",
+    "effective_to": null,
+    "employee_id": "EMP-000317",
+    "status": "blocked"
+  },
+  {
+    "case_id": "ONB-2026-000318",
+    "created_date": "2026-10-22",
+    "effective_from": "2026-10-22",
+    "effective_to": null,
+    "employee_id": "EMP-000318",
+    "status": "blocked"
+  },
+  {
+    "case_id": "ONB-2026-000319",
+    "created_date": "2026-08-19",
+    "effective_from": "2026-08-19",
+    "effective_to": null,
+    "employee_id": "EMP-000319",
+    "status": "blocked"
+  },
+  {
+    "case_id": "ONB-2026-000320",
+    "created_date": "2026-10-12",
+    "effective_from": "2026-10-12",
+    "effective_to": null,
+    "employee_id": "EMP-000320",
+    "status": "blocked"
+  },
+  {
+    "case_id": "ONB-2026-000321",
+    "created_date": "2026-07-28",
+    "effective_from": "2026-07-28",
+    "effective_to": null,
+    "employee_id": "EMP-000321",
+    "status": "blocked"
+  },
+  {
+    "case_id": "ONB-2026-000322",
+    "created_date": "2026-07-17",
+    "effective_from": "2026-07-17",
+    "effective_to": null,
+    "employee_id": "EMP-000322",
+    "status": "blocked"
+  },
+  {
+    "case_id": "ONB-2026-000323",
+    "created_date": "2026-10-22",
+    "effective_from": "2026-10-22",
+    "effective_to": null,
+    "employee_id": "EMP-000323",
+    "status": "blocked"
+  },
+  {
+    "case_id": "ONB-2026-000324",
+    "created_date": "2026-09-18",
+    "effective_from": "2026-09-18",
+    "effective_to": null,
+    "employee_id": "EMP-000324",
+    "status": "cancelled"
+  },
+  {
+    "case_id": "ONB-2026-000325",
+    "created_date": "2026-08-23",
+    "effective_from": "2026-08-23",
+    "effective_to": null,
+    "employee_id": "EMP-000325",
+    "status": "blocked"
+  },
+  {
+    "case_id": "ONB-2026-000326",
+    "created_date": "2026-10-22",
+    "effective_from": "2026-10-22",
+    "effective_to": null,
+    "employee_id": "EMP-000326",
+    "status": "blocked"
+  },
+  {
+    "case_id": "ONB-2026-000327",
+    "created_date": "2026-08-02",
+    "effective_from": "2026-08-02",
+    "effective_to": null,
+    "employee_id": "EMP-000327",
+    "status": "blocked"
+  },
+  {
+    "case_id": "ONB-2026-000328",
+    "created_date": "2026-10-03",
+    "effective_from": "2026-10-03",
+    "effective_to": null,
+    "employee_id": "EMP-000328",
+    "status": "blocked"
+  },
+  {
+    "case_id": "ONB-2026-000329",
+    "created_date": "2026-10-22",
+    "effective_from": "2026-10-22",
+    "effective_to": null,
+    "employee_id": "EMP-000329",
+    "status": "in_progress"
+  },
+  {
+    "case_id": "ONB-2026-000330",
+    "created_date": "2026-10-22",
+    "effective_from": "2026-10-22",
+    "effective_to": null,
+    "employee_id": "EMP-000330",
+    "status": "blocked"
+  },
+  {
+    "case_id": "ONB-2026-000331",
+    "created_date": "2026-09-05",
+    "effective_from": "2026-09-05",
+    "effective_to": null,
+    "employee_id": "EMP-000331",
+    "status": "blocked"
+  },
+  {
+    "case_id": "ONB-2026-000332",
+    "created_date": "2026-08-13",
+    "effective_from": "2026-08-13",
+    "effective_to": null,
+    "employee_id": "EMP-000332",
+    "status": "blocked"
+  },
+  {
+    "case_id": "ONB-2026-000333",
+    "created_date": "2026-08-16",
+    "effective_from": "2026-08-16",
+    "effective_to": null,
+    "employee_id": "EMP-000333",
+    "status": "cancelled"
+  },
+  {
+    "case_id": "ONB-2026-000334",
+    "created_date": "2026-07-31",
+    "effective_from": "2026-07-31",
+    "effective_to": null,
+    "employee_id": "EMP-000334",
+    "status": "in_progress"
+  },
+  {
+    "case_id": "ONB-2026-000335",
+    "created_date": "2026-10-05",
+    "effective_from": "2026-10-05",
+    "effective_to": null,
+    "employee_id": "EMP-000335",
+    "status": "blocked"
+  },
+  {
+    "case_id": "ONB-2026-000336",
+    "created_date": "2026-07-18",
+    "effective_from": "2026-07-18",
+    "effective_to": null,
+    "employee_id": "EMP-000336",
+    "status": "completed"
+  },
+  {
+    "case_id": "ONB-2026-000337",
+    "created_date": "2026-10-22",
+    "effective_from": "2026-10-22",
+    "effective_to": null,
+    "employee_id": "EMP-000337",
+    "status": "blocked"
+  },
+  {
+    "case_id": "ONB-2026-000338",
+    "created_date": "2026-10-22",
+    "effective_from": "2026-10-22",
+    "effective_to": null,
+    "employee_id": "EMP-000338",
+    "status": "blocked"
+  },
+  {
+    "case_id": "ONB-2026-000339",
+    "created_date": "2026-10-22",
+    "effective_from": "2026-10-22",
+    "effective_to": null,
+    "employee_id": "EMP-000339",
+    "status": "blocked"
+  },
+  {
+    "case_id": "ONB-2026-000340",
+    "created_date": "2026-10-12",
+    "effective_from": "2026-10-12",
+    "effective_to": null,
+    "employee_id": "EMP-000340",
+    "status": "blocked"
+  },
+  {
+    "case_id": "ONB-2026-000341",
+    "created_date": "2026-10-21",
+    "effective_from": "2026-10-21",
+    "effective_to": null,
+    "employee_id": "EMP-000341",
+    "status": "blocked"
+  },
+  {
+    "case_id": "ONB-2026-000342",
+    "created_date": "2026-08-03",
+    "effective_from": "2026-08-03",
+    "effective_to": null,
+    "employee_id": "EMP-000342",
+    "status": "cancelled"
+  },
+  {
+    "case_id": "ONB-2026-000343",
+    "created_date": "2026-09-04",
+    "effective_from": "2026-09-04",
+    "effective_to": null,
+    "employee_id": "EMP-000343",
+    "status": "blocked"
+  },
+  {
+    "case_id": "ONB-2026-000344",
+    "created_date": "2026-10-22",
+    "effective_from": "2026-10-22",
+    "effective_to": null,
+    "employee_id": "EMP-000344",
+    "status": "blocked"
+  },
+  {
+    "case_id": "ONB-2026-000345",
+    "created_date": "2026-08-07",
+    "effective_from": "2026-08-07",
+    "effective_to": null,
+    "employee_id": "EMP-000345",
+    "status": "blocked"
+  },
+  {
+    "case_id": "ONB-2026-000346",
+    "created_date": "2026-10-22",
+    "effective_from": "2026-10-22",
+    "effective_to": null,
+    "employee_id": "EMP-000346",
+    "status": "blocked"
+  },
+  {
+    "case_id": "ONB-2026-000347",
+    "created_date": "2026-10-22",
+    "effective_from": "2026-10-22",
+    "effective_to": null,
+    "employee_id": "EMP-000347",
+    "status": "blocked"
+  },
+  {
+    "case_id": "ONB-2026-000348",
+    "created_date": "2026-09-30",
+    "effective_from": "2026-09-30",
+    "effective_to": null,
+    "employee_id": "EMP-000348",
+    "status": "blocked"
+  },
+  {
+    "case_id": "ONB-2026-000349",
+    "created_date": "2026-10-22",
+    "effective_from": "2026-10-22",
+    "effective_to": null,
+    "employee_id": "EMP-000349",
+    "status": "blocked"
+  },
+  {
+    "case_id": "ONB-2026-000350",
+    "created_date": "2026-10-22",
+    "effective_from": "2026-10-22",
+    "effective_to": null,
+    "employee_id": "EMP-000350",
+    "status": "blocked"
+  },
+  {
+    "case_id": "ONB-2026-000351",
+    "created_date": "2026-07-21",
+    "effective_from": "2026-07-21",
+    "effective_to": null,
+    "employee_id": "EMP-000351",
+    "status": "cancelled"
+  },
+  {
+    "case_id": "ONB-2026-000352",
+    "created_date": "2026-07-17",
+    "effective_from": "2026-07-17",
+    "effective_to": null,
+    "employee_id": "EMP-000352",
+    "status": "in_progress"
+  },
+  {
+    "case_id": "ONB-2026-000353",
+    "created_date": "2026-10-22",
+    "effective_from": "2026-10-22",
+    "effective_to": null,
+    "employee_id": "EMP-000353",
+    "status": "blocked"
+  },
+  {
+    "case_id": "ONB-2026-000354",
+    "created_date": "2026-10-22",
+    "effective_from": "2026-10-22",
+    "effective_to": null,
+    "employee_id": "EMP-000354",
+    "status": "blocked"
+  },
+  {
+    "case_id": "ONB-2026-000355",
+    "created_date": "2026-10-22",
+    "effective_from": "2026-10-22",
+    "effective_to": null,
+    "employee_id": "EMP-000355",
+    "status": "in_progress"
+  },
+  {
+    "case_id": "ONB-2026-000356",
+    "created_date": "2026-07-17",
+    "effective_from": "2026-07-17",
+    "effective_to": null,
+    "employee_id": "EMP-000356",
+    "status": "blocked"
+  },
+  {
+    "case_id": "ONB-2026-000357",
+    "created_date": "2026-09-04",
+    "effective_from": "2026-09-04",
+    "effective_to": null,
+    "employee_id": "EMP-000357",
+    "status": "blocked"
+  },
+  {
+    "case_id": "ONB-2026-000358",
+    "created_date": "2026-10-22",
+    "effective_from": "2026-10-22",
+    "effective_to": null,
+    "employee_id": "EMP-000358",
+    "status": "blocked"
+  },
+  {
+    "case_id": "ONB-2026-000359",
+    "created_date": "2026-09-17",
+    "effective_from": "2026-09-17",
+    "effective_to": null,
+    "employee_id": "EMP-000359",
+    "status": "blocked"
+  },
+  {
+    "case_id": "ONB-2026-000360",
+    "created_date": "2026-09-08",
+    "effective_from": "2026-09-08",
+    "effective_to": null,
+    "employee_id": "EMP-000360",
+    "status": "cancelled"
+  },
+  {
+    "case_id": "ONB-2026-000361",
+    "created_date": "2026-08-06",
+    "effective_from": "2026-08-06",
+    "effective_to": null,
+    "employee_id": "EMP-000361",
+    "status": "blocked"
+  },
+  {
+    "case_id": "ONB-2026-000362",
+    "created_date": "2026-10-22",
+    "effective_from": "2026-10-22",
+    "effective_to": null,
+    "employee_id": "EMP-000362",
+    "status": "blocked"
+  },
+  {
+    "case_id": "ONB-2026-000363",
+    "created_date": "2026-07-19",
+    "effective_from": "2026-07-19",
+    "effective_to": null,
+    "employee_id": "EMP-000363",
+    "status": "blocked"
+  },
+  {
+    "case_id": "ONB-2026-000364",
+    "created_date": "2026-10-22",
+    "effective_from": "2026-10-22",
+    "effective_to": null,
+    "employee_id": "EMP-000364",
+    "status": "blocked"
+  },
+  {
+    "case_id": "ONB-2026-000365",
+    "created_date": "2026-10-21",
+    "effective_from": "2026-10-21",
+    "effective_to": null,
+    "employee_id": "EMP-000365",
+    "status": "blocked"
+  },
+  {
+    "case_id": "ONB-2026-000366",
+    "created_date": "2026-10-22",
+    "effective_from": "2026-10-22",
+    "effective_to": null,
+    "employee_id": "EMP-000366",
+    "status": "blocked"
+  },
+  {
+    "case_id": "ONB-2026-000367",
+    "created_date": "2026-10-22",
+    "effective_from": "2026-10-22",
+    "effective_to": null,
+    "employee_id": "EMP-000367",
+    "status": "blocked"
+  },
+  {
+    "case_id": "ONB-2026-000368",
+    "created_date": "2026-10-22",
+    "effective_from": "2026-10-22",
+    "effective_to": null,
+    "employee_id": "EMP-000368",
+    "status": "blocked"
+  },
+  {
+    "case_id": "ONB-2026-000369",
+    "created_date": "2026-08-15",
+    "effective_from": "2026-08-15",
+    "effective_to": null,
+    "employee_id": "EMP-000369",
+    "status": "cancelled"
+  },
+  {
+    "case_id": "ONB-2026-000370",
+    "created_date": "2026-10-22",
+    "effective_from": "2026-10-22",
+    "effective_to": null,
+    "employee_id": "EMP-000370",
+    "status": "blocked"
+  },
+  {
+    "case_id": "ONB-2026-000371",
+    "created_date": "2026-10-22",
+    "effective_from": "2026-10-22",
+    "effective_to": null,
+    "employee_id": "EMP-000371",
+    "status": "blocked"
+  },
+  {
+    "case_id": "ONB-2026-000372",
+    "created_date": "2026-10-22",
+    "effective_from": "2026-10-22",
+    "effective_to": null,
+    "employee_id": "EMP-000372",
+    "status": "blocked"
+  },
+  {
+    "case_id": "ONB-2026-000373",
+    "created_date": "2026-10-22",
+    "effective_from": "2026-10-22",
+    "effective_to": null,
+    "employee_id": "EMP-000373",
+    "status": "blocked"
+  },
+  {
+    "case_id": "ONB-2026-000374",
+    "created_date": "2026-09-06",
+    "effective_from": "2026-09-06",
+    "effective_to": null,
+    "employee_id": "EMP-000374",
+    "status": "blocked"
+  },
+  {
+    "case_id": "ONB-2026-000375",
+    "created_date": "2026-10-15",
+    "effective_from": "2026-10-15",
+    "effective_to": null,
+    "employee_id": "EMP-000375",
+    "status": "blocked"
+  },
+  {
+    "case_id": "ONB-2026-000376",
+    "created_date": "2026-10-22",
+    "effective_from": "2026-10-22",
+    "effective_to": null,
+    "employee_id": "EMP-000376",
+    "status": "blocked"
+  },
+  {
+    "case_id": "ONB-2026-000377",
+    "created_date": "2026-10-22",
+    "effective_from": "2026-10-22",
+    "effective_to": null,
+    "employee_id": "EMP-000377",
+    "status": "blocked"
+  },
+  {
+    "case_id": "ONB-2026-000378",
+    "created_date": "2026-09-10",
+    "effective_from": "2026-09-10",
+    "effective_to": null,
+    "employee_id": "EMP-000378",
+    "status": "cancelled"
+  },
+  {
+    "case_id": "ONB-2026-000379",
+    "created_date": "2026-10-22",
+    "effective_from": "2026-10-22",
+    "effective_to": null,
+    "employee_id": "EMP-000379",
+    "status": "blocked"
+  },
+  {
+    "case_id": "ONB-2026-000380",
+    "created_date": "2026-10-09",
+    "effective_from": "2026-10-09",
+    "effective_to": null,
+    "employee_id": "EMP-000380",
+    "status": "blocked"
+  },
+  {
+    "case_id": "ONB-2026-000381",
+    "created_date": "2026-08-20",
+    "effective_from": "2026-08-20",
+    "effective_to": null,
+    "employee_id": "EMP-000381",
+    "status": "in_progress"
+  },
+  {
+    "case_id": "ONB-2026-000382",
+    "created_date": "2026-10-22",
+    "effective_from": "2026-10-22",
+    "effective_to": null,
+    "employee_id": "EMP-000382",
+    "status": "blocked"
+  },
+  {
+    "case_id": "ONB-2026-000383",
+    "created_date": "2026-10-18",
+    "effective_from": "2026-10-18",
+    "effective_to": null,
+    "employee_id": "EMP-000383",
+    "status": "blocked"
+  },
+  {
+    "case_id": "ONB-2026-000384",
+    "created_date": "2026-10-22",
+    "effective_from": "2026-10-22",
+    "effective_to": null,
+    "employee_id": "EMP-000384",
+    "status": "blocked"
+  },
+  {
+    "case_id": "ONB-2026-000385",
+    "created_date": "2026-09-04",
+    "effective_from": "2026-09-04",
+    "effective_to": null,
+    "employee_id": "EMP-000385",
+    "status": "blocked"
+  },
+  {
+    "case_id": "ONB-2026-000386",
+    "created_date": "2026-08-26",
+    "effective_from": "2026-08-26",
+    "effective_to": null,
+    "employee_id": "EMP-000386",
+    "status": "blocked"
+  },
+  {
+    "case_id": "ONB-2026-000387",
+    "created_date": "2026-09-20",
+    "effective_from": "2026-09-20",
+    "effective_to": null,
+    "employee_id": "EMP-000387",
+    "status": "cancelled"
+  },
+  {
+    "case_id": "ONB-2026-000388",
+    "created_date": "2026-07-16",
+    "effective_from": "2026-07-16",
+    "effective_to": null,
+    "employee_id": "EMP-000388",
+    "status": "blocked"
+  },
+  {
+    "case_id": "ONB-2026-000389",
+    "created_date": "2026-08-30",
+    "effective_from": "2026-08-30",
+    "effective_to": null,
+    "employee_id": "EMP-000389",
+    "status": "blocked"
+  },
+  {
+    "case_id": "ONB-2026-000390",
+    "created_date": "2026-07-16",
+    "effective_from": "2026-07-16",
+    "effective_to": null,
+    "employee_id": "EMP-000390",
+    "status": "blocked"
+  },
+  {
+    "case_id": "ONB-2026-000391",
+    "created_date": "2026-10-13",
+    "effective_from": "2026-10-13",
+    "effective_to": null,
+    "employee_id": "EMP-000391",
+    "status": "blocked"
+  },
+  {
+    "case_id": "ONB-2026-000392",
+    "created_date": "2026-08-04",
+    "effective_from": "2026-08-04",
+    "effective_to": null,
+    "employee_id": "EMP-000392",
+    "status": "blocked"
+  },
+  {
+    "case_id": "ONB-2026-000393",
+    "created_date": "2026-08-14",
+    "effective_from": "2026-08-14",
+    "effective_to": null,
+    "employee_id": "EMP-000393",
+    "status": "blocked"
+  },
+  {
+    "case_id": "ONB-2026-000394",
+    "created_date": "2026-10-22",
+    "effective_from": "2026-10-22",
+    "effective_to": null,
+    "employee_id": "EMP-000394",
+    "status": "blocked"
+  },
+  {
+    "case_id": "ONB-2026-000395",
+    "created_date": "2026-10-22",
+    "effective_from": "2026-10-22",
+    "effective_to": null,
+    "employee_id": "EMP-000395",
+    "status": "blocked"
+  },
+  {
+    "case_id": "ONB-2026-000396",
+    "created_date": "2026-08-03",
+    "effective_from": "2026-08-03",
+    "effective_to": null,
+    "employee_id": "EMP-000396",
+    "status": "cancelled"
+  },
+  {
+    "case_id": "ONB-2026-000397",
+    "created_date": "2026-08-20",
+    "effective_from": "2026-08-20",
+    "effective_to": null,
+    "employee_id": "EMP-000397",
+    "status": "blocked"
+  },
+  {
+    "case_id": "ONB-2026-000398",
+    "created_date": "2026-10-07",
+    "effective_from": "2026-10-07",
+    "effective_to": null,
+    "employee_id": "EMP-000398",
+    "status": "blocked"
+  },
+  {
+    "case_id": "ONB-2026-000399",
+    "created_date": "2026-10-22",
+    "effective_from": "2026-10-22",
+    "effective_to": null,
+    "employee_id": "EMP-000399",
+    "status": "blocked"
+  },
+  {
+    "case_id": "ONB-2026-000400",
+    "created_date": "2026-10-08",
+    "effective_from": "2026-10-08",
+    "effective_to": null,
+    "employee_id": "EMP-000400",
+    "status": "blocked"
+  },
+  {
+    "case_id": "ONB-2026-000401",
+    "created_date": "2026-09-01",
+    "effective_from": "2026-09-01",
+    "effective_to": null,
+    "employee_id": "EMP-000401",
+    "status": "blocked"
+  },
+  {
+    "case_id": "ONB-2026-000402",
+    "created_date": "2026-10-22",
+    "effective_from": "2026-10-22",
+    "effective_to": null,
+    "employee_id": "EMP-000402",
+    "status": "blocked"
+  },
+  {
+    "case_id": "ONB-2026-000403",
+    "created_date": "2026-10-22",
+    "effective_from": "2026-10-22",
+    "effective_to": null,
+    "employee_id": "EMP-000403",
+    "status": "blocked"
+  },
+  {
+    "case_id": "ONB-2026-000404",
+    "created_date": "2026-10-22",
+    "effective_from": "2026-10-22",
+    "effective_to": null,
+    "employee_id": "EMP-000404",
+    "status": "blocked"
+  },
+  {
+    "case_id": "ONB-2026-000405",
+    "created_date": "2026-09-02",
+    "effective_from": "2026-09-02",
+    "effective_to": null,
+    "employee_id": "EMP-000405",
+    "status": "cancelled"
+  },
+  {
+    "case_id": "ONB-2026-000406",
+    "created_date": "2026-10-22",
+    "effective_from": "2026-10-22",
+    "effective_to": null,
+    "employee_id": "EMP-000406",
+    "status": "blocked"
+  },
+  {
+    "case_id": "ONB-2026-000407",
+    "created_date": "2026-09-24",
+    "effective_from": "2026-09-24",
+    "effective_to": null,
+    "employee_id": "EMP-000407",
+    "status": "blocked"
+  },
+  {
+    "case_id": "ONB-2026-000408",
+    "created_date": "2026-10-22",
+    "effective_from": "2026-10-22",
+    "effective_to": null,
+    "employee_id": "EMP-000408",
+    "status": "blocked"
+  },
+  {
+    "case_id": "ONB-2026-000409",
+    "created_date": "2026-09-02",
+    "effective_from": "2026-09-02",
+    "effective_to": null,
+    "employee_id": "EMP-000409",
+    "status": "in_progress"
+  },
+  {
+    "case_id": "ONB-2026-000410",
+    "created_date": "2026-09-10",
+    "effective_from": "2026-09-10",
+    "effective_to": null,
+    "employee_id": "EMP-000410",
+    "status": "blocked"
+  },
+  {
+    "case_id": "ONB-2026-000411",
+    "created_date": "2026-10-22",
+    "effective_from": "2026-10-22",
+    "effective_to": null,
+    "employee_id": "EMP-000411",
+    "status": "blocked"
+  },
+  {
+    "case_id": "ONB-2026-000412",
+    "created_date": "2026-10-22",
+    "effective_from": "2026-10-22",
+    "effective_to": null,
+    "employee_id": "EMP-000412",
+    "status": "blocked"
+  },
+  {
+    "case_id": "ONB-2026-000413",
+    "created_date": "2026-10-22",
+    "effective_from": "2026-10-22",
+    "effective_to": null,
+    "employee_id": "EMP-000413",
+    "status": "blocked"
+  },
+  {
+    "case_id": "ONB-2026-000414",
+    "created_date": "2026-08-05",
+    "effective_from": "2026-08-05",
+    "effective_to": null,
+    "employee_id": "EMP-000414",
+    "status": "cancelled"
+  },
+  {
+    "case_id": "ONB-2026-000415",
+    "created_date": "2026-10-22",
+    "effective_from": "2026-10-22",
+    "effective_to": null,
+    "employee_id": "EMP-000415",
+    "status": "blocked"
+  },
+  {
+    "case_id": "ONB-2026-000416",
+    "created_date": "2026-10-11",
+    "effective_from": "2026-10-11",
+    "effective_to": null,
+    "employee_id": "EMP-000416",
+    "status": "blocked"
+  },
+  {
+    "case_id": "ONB-2026-000417",
+    "created_date": "2026-10-22",
+    "effective_from": "2026-10-22",
+    "effective_to": null,
+    "employee_id": "EMP-000417",
+    "status": "blocked"
+  },
+  {
+    "case_id": "ONB-2026-000418",
+    "created_date": "2026-10-08",
+    "effective_from": "2026-10-08",
+    "effective_to": null,
+    "employee_id": "EMP-000418",
+    "status": "blocked"
+  },
+  {
+    "case_id": "ONB-2026-000419",
+    "created_date": "2026-10-22",
+    "effective_from": "2026-10-22",
+    "effective_to": null,
+    "employee_id": "EMP-000419",
+    "status": "blocked"
+  },
+  {
+    "case_id": "ONB-2026-000420",
+    "created_date": "2026-10-10",
+    "effective_from": "2026-10-10",
+    "effective_to": null,
+    "employee_id": "EMP-000420",
+    "status": "blocked"
+  },
+  {
+    "case_id": "ONB-2026-000421",
+    "created_date": "2026-08-23",
+    "effective_from": "2026-08-23",
+    "effective_to": null,
+    "employee_id": "EMP-000421",
+    "status": "in_progress"
+  },
+  {
+    "case_id": "ONB-2026-000422",
+    "created_date": "2026-10-22",
+    "effective_from": "2026-10-22",
+    "effective_to": null,
+    "employee_id": "EMP-000422",
+    "status": "blocked"
+  },
+  {
+    "case_id": "ONB-2026-000423",
+    "created_date": "2026-08-31",
+    "effective_from": "2026-08-31",
+    "effective_to": null,
+    "employee_id": "EMP-000423",
+    "status": "cancelled"
+  },
+  {
+    "case_id": "ONB-2026-000424",
+    "created_date": "2026-09-16",
+    "effective_from": "2026-09-16",
+    "effective_to": null,
+    "employee_id": "EMP-000424",
+    "status": "in_progress"
+  },
+  {
+    "case_id": "ONB-2026-000425",
+    "created_date": "2026-10-22",
+    "effective_from": "2026-10-22",
+    "effective_to": null,
+    "employee_id": "EMP-000425",
+    "status": "blocked"
+  },
+  {
+    "case_id": "ONB-2026-000426",
+    "created_date": "2026-10-22",
+    "effective_from": "2026-10-22",
+    "effective_to": null,
+    "employee_id": "EMP-000426",
+    "status": "blocked"
+  },
+  {
+    "case_id": "ONB-2026-000427",
+    "created_date": "2026-10-04",
+    "effective_from": "2026-10-04",
+    "effective_to": null,
+    "employee_id": "EMP-000427",
+    "status": "blocked"
+  },
+  {
+    "case_id": "ONB-2026-000428",
+    "created_date": "2026-10-22",
+    "effective_from": "2026-10-22",
+    "effective_to": null,
+    "employee_id": "EMP-000428",
+    "status": "blocked"
+  },
+  {
+    "case_id": "ONB-2026-000429",
+    "created_date": "2026-09-29",
+    "effective_from": "2026-09-29",
+    "effective_to": null,
+    "employee_id": "EMP-000429",
+    "status": "blocked"
+  },
+  {
+    "case_id": "ONB-2026-000430",
+    "created_date": "2026-08-22",
+    "effective_from": "2026-08-22",
+    "effective_to": null,
+    "employee_id": "EMP-000430",
+    "status": "blocked"
+  },
+  {
+    "case_id": "ONB-2026-000431",
+    "created_date": "2026-10-22",
+    "effective_from": "2026-10-22",
+    "effective_to": null,
+    "employee_id": "EMP-000431",
+    "status": "blocked"
+  },
+  {
+    "case_id": "ONB-2026-000432",
+    "created_date": "2026-07-16",
+    "effective_from": "2026-07-16",
+    "effective_to": null,
+    "employee_id": "EMP-000432",
+    "status": "cancelled"
+  },
+  {
+    "case_id": "ONB-2026-000433",
+    "created_date": "2026-09-09",
+    "effective_from": "2026-09-09",
+    "effective_to": null,
+    "employee_id": "EMP-000433",
+    "status": "in_progress"
+  },
+  {
+    "case_id": "ONB-2026-000434",
+    "created_date": "2026-09-29",
+    "effective_from": "2026-09-29",
+    "effective_to": null,
+    "employee_id": "EMP-000434",
+    "status": "blocked"
+  },
+  {
+    "case_id": "ONB-2026-000435",
+    "created_date": "2026-10-08",
+    "effective_from": "2026-10-08",
+    "effective_to": null,
+    "employee_id": "EMP-000435",
+    "status": "blocked"
+  },
+  {
+    "case_id": "ONB-2026-000436",
+    "created_date": "2026-10-22",
+    "effective_from": "2026-10-22",
+    "effective_to": null,
+    "employee_id": "EMP-000436",
+    "status": "blocked"
+  },
+  {
+    "case_id": "ONB-2026-000437",
+    "created_date": "2026-10-08",
+    "effective_from": "2026-10-08",
+    "effective_to": null,
+    "employee_id": "EMP-000437",
+    "status": "blocked"
+  },
+  {
+    "case_id": "ONB-2026-000438",
+    "created_date": "2026-10-22",
+    "effective_from": "2026-10-22",
+    "effective_to": null,
+    "employee_id": "EMP-000438",
+    "status": "blocked"
+  },
+  {
+    "case_id": "ONB-2026-000439",
+    "created_date": "2026-08-19",
+    "effective_from": "2026-08-19",
+    "effective_to": null,
+    "employee_id": "EMP-000439",
+    "status": "blocked"
+  },
+  {
+    "case_id": "ONB-2026-000440",
+    "created_date": "2026-10-10",
+    "effective_from": "2026-10-10",
+    "effective_to": null,
+    "employee_id": "EMP-000440",
+    "status": "in_progress"
+  },
+  {
+    "case_id": "ONB-2026-000441",
+    "created_date": "2026-08-20",
+    "effective_from": "2026-08-20",
+    "effective_to": null,
+    "employee_id": "EMP-000441",
+    "status": "cancelled"
+  },
+  {
+    "case_id": "ONB-2026-000442",
+    "created_date": "2026-10-22",
+    "effective_from": "2026-10-22",
+    "effective_to": null,
+    "employee_id": "EMP-000442",
+    "status": "blocked"
+  },
+  {
+    "case_id": "ONB-2026-000443",
+    "created_date": "2026-08-01",
+    "effective_from": "2026-08-01",
+    "effective_to": null,
+    "employee_id": "EMP-000443",
+    "status": "blocked"
+  },
+  {
+    "case_id": "ONB-2026-000444",
+    "created_date": "2026-08-21",
+    "effective_from": "2026-08-21",
+    "effective_to": null,
+    "employee_id": "EMP-000444",
+    "status": "blocked"
+  },
+  {
+    "case_id": "ONB-2026-000445",
+    "created_date": "2026-10-22",
+    "effective_from": "2026-10-22",
+    "effective_to": null,
+    "employee_id": "EMP-000445",
+    "status": "blocked"
+  },
+  {
+    "case_id": "ONB-2026-000446",
+    "created_date": "2026-08-15",
+    "effective_from": "2026-08-15",
+    "effective_to": null,
+    "employee_id": "EMP-000446",
+    "status": "in_progress"
+  },
+  {
+    "case_id": "ONB-2026-000447",
+    "created_date": "2026-10-03",
+    "effective_from": "2026-10-03",
+    "effective_to": null,
+    "employee_id": "EMP-000447",
+    "status": "in_progress"
+  },
+  {
+    "case_id": "ONB-2026-000448",
+    "created_date": "2026-10-05",
+    "effective_from": "2026-10-05",
+    "effective_to": null,
+    "employee_id": "EMP-000448",
+    "status": "in_progress"
+  },
+  {
+    "case_id": "ONB-2026-000449",
+    "created_date": "2026-07-31",
+    "effective_from": "2026-07-31",
+    "effective_to": null,
+    "employee_id": "EMP-000449",
+    "status": "blocked"
+  },
+  {
+    "case_id": "ONB-2026-000450",
+    "created_date": "2026-08-26",
+    "effective_from": "2026-08-26",
+    "effective_to": null,
+    "employee_id": "EMP-000450",
+    "status": "cancelled"
+  },
+  {
+    "case_id": "ONB-2026-000451",
+    "created_date": "2026-10-03",
+    "effective_from": "2026-10-03",
+    "effective_to": null,
+    "employee_id": "EMP-000451",
+    "status": "blocked"
+  },
+  {
+    "case_id": "ONB-2026-000452",
+    "created_date": "2026-07-29",
+    "effective_from": "2026-07-29",
+    "effective_to": null,
+    "employee_id": "EMP-000452",
+    "status": "blocked"
+  },
+  {
+    "case_id": "ONB-2026-000453",
+    "created_date": "2026-10-22",
+    "effective_from": "2026-10-22",
+    "effective_to": null,
+    "employee_id": "EMP-000453",
+    "status": "blocked"
+  },
+  {
+    "case_id": "ONB-2026-000454",
+    "created_date": "2026-10-22",
+    "effective_from": "2026-10-22",
+    "effective_to": null,
+    "employee_id": "EMP-000454",
+    "status": "blocked"
+  },
+  {
+    "case_id": "ONB-2026-000455",
+    "created_date": "2026-08-19",
+    "effective_from": "2026-08-19",
+    "effective_to": null,
+    "employee_id": "EMP-000455",
+    "status": "blocked"
+  },
+  {
+    "case_id": "ONB-2026-000456",
+    "created_date": "2026-09-01",
+    "effective_from": "2026-09-01",
+    "effective_to": null,
+    "employee_id": "EMP-000456",
+    "status": "blocked"
+  },
+  {
+    "case_id": "ONB-2026-000457",
+    "created_date": "2026-10-22",
+    "effective_from": "2026-10-22",
+    "effective_to": null,
+    "employee_id": "EMP-000457",
+    "status": "blocked"
+  },
+  {
+    "case_id": "ONB-2026-000458",
+    "created_date": "2026-10-03",
+    "effective_from": "2026-10-03",
+    "effective_to": null,
+    "employee_id": "EMP-000458",
+    "status": "blocked"
+  },
+  {
+    "case_id": "ONB-2026-000459",
+    "created_date": "2026-09-18",
+    "effective_from": "2026-09-18",
+    "effective_to": null,
+    "employee_id": "EMP-000459",
+    "status": "cancelled"
+  },
+  {
+    "case_id": "ONB-2026-000460",
+    "created_date": "2026-10-12",
+    "effective_from": "2026-10-12",
+    "effective_to": null,
+    "employee_id": "EMP-000460",
+    "status": "blocked"
+  },
+  {
+    "case_id": "ONB-2026-000461",
+    "created_date": "2026-10-12",
+    "effective_from": "2026-10-12",
+    "effective_to": null,
+    "employee_id": "EMP-000461",
+    "status": "in_progress"
+  },
+  {
+    "case_id": "ONB-2026-000462",
+    "created_date": "2026-10-22",
+    "effective_from": "2026-10-22",
+    "effective_to": null,
+    "employee_id": "EMP-000462",
+    "status": "blocked"
+  },
+  {
+    "case_id": "ONB-2026-000463",
+    "created_date": "2026-10-22",
+    "effective_from": "2026-10-22",
+    "effective_to": null,
+    "employee_id": "EMP-000463",
+    "status": "blocked"
+  },
+  {
+    "case_id": "ONB-2026-000464",
+    "created_date": "2026-08-29",
+    "effective_from": "2026-08-29",
+    "effective_to": null,
+    "employee_id": "EMP-000464",
+    "status": "blocked"
+  },
+  {
+    "case_id": "ONB-2026-000465",
+    "created_date": "2026-10-16",
+    "effective_from": "2026-10-16",
+    "effective_to": null,
+    "employee_id": "EMP-000465",
+    "status": "blocked"
+  },
+  {
+    "case_id": "ONB-2026-000466",
+    "created_date": "2026-10-22",
+    "effective_from": "2026-10-22",
+    "effective_to": null,
+    "employee_id": "EMP-000466",
+    "status": "blocked"
+  },
+  {
+    "case_id": "ONB-2026-000467",
+    "created_date": "2026-10-05",
+    "effective_from": "2026-10-05",
+    "effective_to": null,
+    "employee_id": "EMP-000467",
+    "status": "blocked"
+  },
+  {
+    "case_id": "ONB-2026-000468",
+    "created_date": "2026-07-27",
+    "effective_from": "2026-07-27",
+    "effective_to": null,
+    "employee_id": "EMP-000468",
+    "status": "cancelled"
+  },
+  {
+    "case_id": "ONB-2026-000469",
+    "created_date": "2026-10-04",
+    "effective_from": "2026-10-04",
+    "effective_to": null,
+    "employee_id": "EMP-000469",
+    "status": "in_progress"
+  },
+  {
+    "case_id": "ONB-2026-000470",
+    "created_date": "2026-08-11",
+    "effective_from": "2026-08-11",
+    "effective_to": null,
+    "employee_id": "EMP-000470",
+    "status": "blocked"
+  },
+  {
+    "case_id": "ONB-2026-000471",
+    "created_date": "2026-09-24",
+    "effective_from": "2026-09-24",
+    "effective_to": null,
+    "employee_id": "EMP-000471",
+    "status": "blocked"
+  },
+  {
+    "case_id": "ONB-2026-000472",
+    "created_date": "2026-10-20",
+    "effective_from": "2026-10-20",
+    "effective_to": null,
+    "employee_id": "EMP-000472",
+    "status": "blocked"
+  },
+  {
+    "case_id": "ONB-2026-000473",
+    "created_date": "2026-10-22",
+    "effective_from": "2026-10-22",
+    "effective_to": null,
+    "employee_id": "EMP-000473",
+    "status": "blocked"
+  },
+  {
+    "case_id": "ONB-2026-000474",
+    "created_date": "2026-10-22",
+    "effective_from": "2026-10-22",
+    "effective_to": null,
+    "employee_id": "EMP-000474",
+    "status": "blocked"
+  },
+  {
+    "case_id": "ONB-2026-000475",
+    "created_date": "2026-08-12",
+    "effective_from": "2026-08-12",
+    "effective_to": null,
+    "employee_id": "EMP-000475",
+    "status": "in_progress"
+  },
+  {
+    "case_id": "ONB-2026-000476",
+    "created_date": "2026-10-22",
+    "effective_from": "2026-10-22",
+    "effective_to": null,
+    "employee_id": "EMP-000476",
+    "status": "blocked"
+  },
+  {
+    "case_id": "ONB-2026-000477",
+    "created_date": "2026-08-26",
+    "effective_from": "2026-08-26",
+    "effective_to": null,
+    "employee_id": "EMP-000477",
+    "status": "cancelled"
+  },
+  {
+    "case_id": "ONB-2026-000478",
+    "created_date": "2026-10-15",
+    "effective_from": "2026-10-15",
+    "effective_to": null,
+    "employee_id": "EMP-000478",
+    "status": "blocked"
+  },
+  {
+    "case_id": "ONB-2026-000479",
+    "created_date": "2026-07-17",
+    "effective_from": "2026-07-17",
+    "effective_to": null,
+    "employee_id": "EMP-000479",
+    "status": "blocked"
+  },
+  {
+    "case_id": "ONB-2026-000480",
+    "created_date": "2026-10-10",
+    "effective_from": "2026-10-10",
+    "effective_to": null,
+    "employee_id": "EMP-000480",
+    "status": "in_progress"
+  },
+  {
+    "case_id": "ONB-2026-000481",
+    "created_date": "2026-07-29",
+    "effective_from": "2026-07-29",
+    "effective_to": null,
+    "employee_id": "EMP-000481",
+    "status": "in_progress"
+  },
+  {
+    "case_id": "ONB-2026-000482",
+    "created_date": "2026-10-22",
+    "effective_from": "2026-10-22",
+    "effective_to": null,
+    "employee_id": "EMP-000482",
+    "status": "blocked"
+  },
+  {
+    "case_id": "ONB-2026-000483",
+    "created_date": "2026-08-05",
+    "effective_from": "2026-08-05",
+    "effective_to": null,
+    "employee_id": "EMP-000483",
+    "status": "blocked"
+  },
+  {
+    "case_id": "ONB-2026-000484",
+    "created_date": "2026-08-01",
+    "effective_from": "2026-08-01",
+    "effective_to": null,
+    "employee_id": "EMP-000484",
+    "status": "blocked"
+  },
+  {
+    "case_id": "ONB-2026-000485",
+    "created_date": "2026-08-16",
+    "effective_from": "2026-08-16",
+    "effective_to": null,
+    "employee_id": "EMP-000485",
+    "status": "blocked"
+  },
+  {
+    "case_id": "ONB-2026-000486",
+    "created_date": "2026-09-19",
+    "effective_from": "2026-09-19",
+    "effective_to": null,
+    "employee_id": "EMP-000486",
+    "status": "cancelled"
+  },
+  {
+    "case_id": "ONB-2026-000487",
+    "created_date": "2026-09-24",
+    "effective_from": "2026-09-24",
+    "effective_to": null,
+    "employee_id": "EMP-000487",
+    "status": "blocked"
+  },
+  {
+    "case_id": "ONB-2026-000488",
+    "created_date": "2026-07-16",
+    "effective_from": "2026-07-16",
+    "effective_to": null,
+    "employee_id": "EMP-000488",
+    "status": "blocked"
+  },
+  {
+    "case_id": "ONB-2026-000489",
+    "created_date": "2026-09-20",
+    "effective_from": "2026-09-20",
+    "effective_to": null,
+    "employee_id": "EMP-000489",
+    "status": "blocked"
+  },
+  {
+    "case_id": "ONB-2026-000490",
+    "created_date": "2026-09-23",
+    "effective_from": "2026-09-23",
+    "effective_to": null,
+    "employee_id": "EMP-000490",
+    "status": "blocked"
+  },
+  {
+    "case_id": "ONB-2026-000491",
+    "created_date": "2026-07-15",
+    "effective_from": "2026-07-15",
+    "effective_to": null,
+    "employee_id": "EMP-000491",
+    "status": "blocked"
+  },
+  {
+    "case_id": "ONB-2026-000492",
+    "created_date": "2026-10-22",
+    "effective_from": "2026-10-22",
+    "effective_to": null,
+    "employee_id": "EMP-000492",
+    "status": "blocked"
+  },
+  {
+    "case_id": "ONB-2026-000493",
+    "created_date": "2026-10-22",
+    "effective_from": "2026-10-22",
+    "effective_to": null,
+    "employee_id": "EMP-000493",
+    "status": "blocked"
+  },
+  {
+    "case_id": "ONB-2026-000494",
+    "created_date": "2026-10-22",
+    "effective_from": "2026-10-22",
+    "effective_to": null,
+    "employee_id": "EMP-000494",
+    "status": "blocked"
+  },
+  {
+    "case_id": "ONB-2026-000495",
+    "created_date": "2026-09-11",
+    "effective_from": "2026-09-11",
+    "effective_to": null,
+    "employee_id": "EMP-000495",
+    "status": "cancelled"
+  },
+  {
+    "case_id": "ONB-2026-000496",
+    "created_date": "2026-10-22",
+    "effective_from": "2026-10-22",
+    "effective_to": null,
+    "employee_id": "EMP-000496",
+    "status": "blocked"
+  },
+  {
+    "case_id": "ONB-2026-000497",
+    "created_date": "2026-10-22",
+    "effective_from": "2026-10-22",
+    "effective_to": null,
+    "employee_id": "EMP-000497",
+    "status": "blocked"
+  },
+  {
+    "case_id": "ONB-2026-000498",
+    "created_date": "2026-10-01",
+    "effective_from": "2026-10-01",
+    "effective_to": null,
+    "employee_id": "EMP-000498",
+    "status": "blocked"
+  },
+  {
+    "case_id": "ONB-2026-000499",
+    "created_date": "2026-08-24",
+    "effective_from": "2026-08-24",
+    "effective_to": null,
+    "employee_id": "EMP-000499",
+    "status": "in_progress"
+  },
+  {
+    "case_id": "ONB-2026-000500",
+    "created_date": "2026-10-08",
+    "effective_from": "2026-10-08",
+    "effective_to": null,
+    "employee_id": "EMP-000500",
+    "status": "blocked"
+  }
+]

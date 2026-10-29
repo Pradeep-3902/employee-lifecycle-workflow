@@ -1,0 +1,3509 @@
+[
+  {
+    "change_reason": "initial_assignment",
+    "department_id": "DEPT-006",
+    "effective_from": "2026-12-31",
+    "effective_to": null,
+    "employee_id": "EMP-000001"
+  },
+  {
+    "change_reason": "initial_assignment",
+    "department_id": "DEPT-004",
+    "effective_from": "2026-10-07",
+    "effective_to": null,
+    "employee_id": "EMP-000002"
+  },
+  {
+    "change_reason": "initial_assignment",
+    "department_id": "DEPT-004",
+    "effective_from": "2026-08-29",
+    "effective_to": "2026-10-21",
+    "employee_id": "EMP-000003"
+  },
+  {
+    "change_reason": "initial_assignment",
+    "department_id": "DEPT-002",
+    "effective_from": "2026-08-17",
+    "effective_to": null,
+    "employee_id": "EMP-000004"
+  },
+  {
+    "change_reason": "initial_assignment",
+    "department_id": "DEPT-002",
+    "effective_from": "2026-12-07",
+    "effective_to": null,
+    "employee_id": "EMP-000005"
+  },
+  {
+    "change_reason": "initial_assignment",
+    "department_id": "DEPT-001",
+    "effective_from": "2026-07-24",
+    "effective_to": null,
+    "employee_id": "EMP-000006"
+  },
+  {
+    "change_reason": "initial_assignment",
+    "department_id": "DEPT-002",
+    "effective_from": "2026-07-26",
+    "effective_to": null,
+    "employee_id": "EMP-000007"
+  },
+  {
+    "change_reason": "initial_assignment",
+    "department_id": "DEPT-007",
+    "effective_from": "2026-08-24",
+    "effective_to": null,
+    "employee_id": "EMP-000008"
+  },
+  {
+    "change_reason": "initial_assignment",
+    "department_id": "DEPT-001",
+    "effective_from": "2026-07-28",
+    "effective_to": null,
+    "employee_id": "EMP-000009"
+  },
+  {
+    "change_reason": "initial_assignment",
+    "department_id": "DEPT-006",
+    "effective_from": "2026-07-28",
+    "effective_to": null,
+    "employee_id": "EMP-000010"
+  },
+  {
+    "change_reason": "initial_assignment",
+    "department_id": "DEPT-002",
+    "effective_from": "2026-08-04",
+    "effective_to": null,
+    "employee_id": "EMP-000011"
+  },
+  {
+    "change_reason": "initial_assignment",
+    "department_id": "DEPT-002",
+    "effective_from": "2026-12-17",
+    "effective_to": null,
+    "employee_id": "EMP-000012"
+  },
+  {
+    "change_reason": "initial_assignment",
+    "department_id": "DEPT-007",
+    "effective_from": "2026-07-20",
+    "effective_to": null,
+    "employee_id": "EMP-000013"
+  },
+  {
+    "change_reason": "initial_assignment",
+    "department_id": "DEPT-001",
+    "effective_from": "2026-09-08",
+    "effective_to": null,
+    "employee_id": "EMP-000014"
+  },
+  {
+    "change_reason": "initial_assignment",
+    "department_id": "DEPT-006",
+    "effective_from": "2026-11-19",
+    "effective_to": null,
+    "employee_id": "EMP-000015"
+  },
+  {
+    "change_reason": "initial_assignment",
+    "department_id": "DEPT-002",
+    "effective_from": "2026-07-13",
+    "effective_to": null,
+    "employee_id": "EMP-000016"
+  },
+  {
+    "change_reason": "initial_assignment",
+    "department_id": "DEPT-001",
+    "effective_from": "2026-11-16",
+    "effective_to": null,
+    "employee_id": "EMP-000017"
+  },
+  {
+    "change_reason": "initial_assignment",
+    "department_id": "DEPT-006",
+    "effective_from": "2026-07-15",
+    "effective_to": null,
+    "employee_id": "EMP-000018"
+  },
+  {
+    "change_reason": "initial_assignment",
+    "department_id": "DEPT-005",
+    "effective_from": "2026-09-19",
+    "effective_to": null,
+    "employee_id": "EMP-000019"
+  },
+  {
+    "change_reason": "initial_assignment",
+    "department_id": "DEPT-003",
+    "effective_from": "2026-10-07",
+    "effective_to": null,
+    "employee_id": "EMP-000020"
+  },
+  {
+    "change_reason": "initial_assignment",
+    "department_id": "DEPT-003",
+    "effective_from": "2026-11-02",
+    "effective_to": null,
+    "employee_id": "EMP-000021"
+  },
+  {
+    "change_reason": "initial_assignment",
+    "department_id": "DEPT-005",
+    "effective_from": "2027-01-03",
+    "effective_to": null,
+    "employee_id": "EMP-000022"
+  },
+  {
+    "change_reason": "initial_assignment",
+    "department_id": "DEPT-007",
+    "effective_from": "2026-11-11",
+    "effective_to": null,
+    "employee_id": "EMP-000023"
+  },
+  {
+    "change_reason": "initial_assignment",
+    "department_id": "DEPT-004",
+    "effective_from": "2026-11-10",
+    "effective_to": null,
+    "employee_id": "EMP-000024"
+  },
+  {
+    "change_reason": "initial_assignment",
+    "department_id": "DEPT-006",
+    "effective_from": "2026-11-15",
+    "effective_to": null,
+    "employee_id": "EMP-000025"
+  },
+  {
+    "change_reason": "initial_assignment",
+    "department_id": "DEPT-006",
+    "effective_from": "2026-07-24",
+    "effective_to": null,
+    "employee_id": "EMP-000026"
+  },
+  {
+    "change_reason": "initial_assignment",
+    "department_id": "DEPT-007",
+    "effective_from": "2026-08-22",
+    "effective_to": null,
+    "employee_id": "EMP-000027"
+  },
+  {
+    "change_reason": "initial_assignment",
+    "department_id": "DEPT-001",
+    "effective_from": "2026-12-16",
+    "effective_to": null,
+    "employee_id": "EMP-000028"
+  },
+  {
+    "change_reason": "initial_assignment",
+    "department_id": "DEPT-002",
+    "effective_from": "2026-10-21",
+    "effective_to": null,
+    "employee_id": "EMP-000029"
+  },
+  {
+    "change_reason": "initial_assignment",
+    "department_id": "DEPT-007",
+    "effective_from": "2026-08-16",
+    "effective_to": null,
+    "employee_id": "EMP-000030"
+  },
+  {
+    "change_reason": "initial_assignment",
+    "department_id": "DEPT-005",
+    "effective_from": "2026-10-03",
+    "effective_to": null,
+    "employee_id": "EMP-000031"
+  },
+  {
+    "change_reason": "initial_assignment",
+    "department_id": "DEPT-004",
+    "effective_from": "2026-11-19",
+    "effective_to": null,
+    "employee_id": "EMP-000032"
+  },
+  {
+    "change_reason": "initial_assignment",
+    "department_id": "DEPT-008",
+    "effective_from": "2026-08-24",
+    "effective_to": null,
+    "employee_id": "EMP-000033"
+  },
+  {
+    "change_reason": "initial_assignment",
+    "department_id": "DEPT-001",
+    "effective_from": "2026-10-01",
+    "effective_to": null,
+    "employee_id": "EMP-000034"
+  },
+  {
+    "change_reason": "initial_assignment",
+    "department_id": "DEPT-008",
+    "effective_from": "2026-10-17",
+    "effective_to": null,
+    "employee_id": "EMP-000035"
+  },
+  {
+    "change_reason": "initial_assignment",
+    "department_id": "DEPT-008",
+    "effective_from": "2026-08-02",
+    "effective_to": null,
+    "employee_id": "EMP-000036"
+  },
+  {
+    "change_reason": "initial_assignment",
+    "department_id": "DEPT-006",
+    "effective_from": "2026-08-20",
+    "effective_to": null,
+    "employee_id": "EMP-000037"
+  },
+  {
+    "change_reason": "initial_assignment",
+    "department_id": "DEPT-001",
+    "effective_from": "2026-07-20",
+    "effective_to": null,
+    "employee_id": "EMP-000038"
+  },
+  {
+    "change_reason": "initial_assignment",
+    "department_id": "DEPT-003",
+    "effective_from": "2026-09-26",
+    "effective_to": null,
+    "employee_id": "EMP-000039"
+  },
+  {
+    "change_reason": "initial_assignment",
+    "department_id": "DEPT-003",
+    "effective_from": "2026-10-10",
+    "effective_to": null,
+    "employee_id": "EMP-000040"
+  },
+  {
+    "change_reason": "initial_assignment",
+    "department_id": "DEPT-006",
+    "effective_from": "2026-11-02",
+    "effective_to": null,
+    "employee_id": "EMP-000041"
+  },
+  {
+    "change_reason": "initial_assignment",
+    "department_id": "DEPT-002",
+    "effective_from": "2026-08-30",
+    "effective_to": null,
+    "employee_id": "EMP-000042"
+  },
+  {
+    "change_reason": "initial_assignment",
+    "department_id": "DEPT-006",
+    "effective_from": "2026-11-09",
+    "effective_to": null,
+    "employee_id": "EMP-000043"
+  },
+  {
+    "change_reason": "initial_assignment",
+    "department_id": "DEPT-008",
+    "effective_from": "2026-09-12",
+    "effective_to": null,
+    "employee_id": "EMP-000044"
+  },
+  {
+    "change_reason": "initial_assignment",
+    "department_id": "DEPT-008",
+    "effective_from": "2026-07-29",
+    "effective_to": null,
+    "employee_id": "EMP-000045"
+  },
+  {
+    "change_reason": "initial_assignment",
+    "department_id": "DEPT-006",
+    "effective_from": "2026-08-09",
+    "effective_to": null,
+    "employee_id": "EMP-000046"
+  },
+  {
+    "change_reason": "initial_assignment",
+    "department_id": "DEPT-007",
+    "effective_from": "2026-12-28",
+    "effective_to": null,
+    "employee_id": "EMP-000047"
+  },
+  {
+    "change_reason": "initial_assignment",
+    "department_id": "DEPT-003",
+    "effective_from": "2026-08-16",
+    "effective_to": null,
+    "employee_id": "EMP-000048"
+  },
+  {
+    "change_reason": "initial_assignment",
+    "department_id": "DEPT-002",
+    "effective_from": "2026-09-19",
+    "effective_to": null,
+    "employee_id": "EMP-000049"
+  },
+  {
+    "change_reason": "initial_assignment",
+    "department_id": "DEPT-001",
+    "effective_from": "2026-10-17",
+    "effective_to": null,
+    "employee_id": "EMP-000050"
+  },
+  {
+    "change_reason": "initial_assignment",
+    "department_id": "DEPT-008",
+    "effective_from": "2026-11-30",
+    "effective_to": null,
+    "employee_id": "EMP-000051"
+  },
+  {
+    "change_reason": "initial_assignment",
+    "department_id": "DEPT-001",
+    "effective_from": "2026-10-13",
+    "effective_to": null,
+    "employee_id": "EMP-000052"
+  },
+  {
+    "change_reason": "initial_assignment",
+    "department_id": "DEPT-006",
+    "effective_from": "2026-08-05",
+    "effective_to": null,
+    "employee_id": "EMP-000053"
+  },
+  {
+    "change_reason": "initial_assignment",
+    "department_id": "DEPT-006",
+    "effective_from": "2026-08-18",
+    "effective_to": null,
+    "employee_id": "EMP-000054"
+  },
+  {
+    "change_reason": "initial_assignment",
+    "department_id": "DEPT-005",
+    "effective_from": "2026-12-12",
+    "effective_to": null,
+    "employee_id": "EMP-000055"
+  },
+  {
+    "change_reason": "initial_assignment",
+    "department_id": "DEPT-007",
+    "effective_from": "2026-09-04",
+    "effective_to": null,
+    "employee_id": "EMP-000056"
+  },
+  {
+    "change_reason": "initial_assignment",
+    "department_id": "DEPT-001",
+    "effective_from": "2026-08-09",
+    "effective_to": null,
+    "employee_id": "EMP-000057"
+  },
+  {
+    "change_reason": "initial_assignment",
+    "department_id": "DEPT-001",
+    "effective_from": "2026-11-15",
+    "effective_to": null,
+    "employee_id": "EMP-000058"
+  },
+  {
+    "change_reason": "initial_assignment",
+    "department_id": "DEPT-007",
+    "effective_from": "2026-10-03",
+    "effective_to": null,
+    "employee_id": "EMP-000059"
+  },
+  {
+    "change_reason": "initial_assignment",
+    "department_id": "DEPT-005",
+    "effective_from": "2026-10-07",
+    "effective_to": null,
+    "employee_id": "EMP-000060"
+  },
+  {
+    "change_reason": "initial_assignment",
+    "department_id": "DEPT-007",
+    "effective_from": "2026-08-22",
+    "effective_to": null,
+    "employee_id": "EMP-000061"
+  },
+  {
+    "change_reason": "initial_assignment",
+    "department_id": "DEPT-003",
+    "effective_from": "2026-07-10",
+    "effective_to": null,
+    "employee_id": "EMP-000062"
+  },
+  {
+    "change_reason": "initial_assignment",
+    "department_id": "DEPT-001",
+    "effective_from": "2026-08-09",
+    "effective_to": null,
+    "employee_id": "EMP-000063"
+  },
+  {
+    "change_reason": "initial_assignment",
+    "department_id": "DEPT-004",
+    "effective_from": "2026-07-16",
+    "effective_to": null,
+    "employee_id": "EMP-000064"
+  },
+  {
+    "change_reason": "initial_assignment",
+    "department_id": "DEPT-008",
+    "effective_from": "2026-12-07",
+    "effective_to": null,
+    "employee_id": "EMP-000065"
+  },
+  {
+    "change_reason": "initial_assignment",
+    "department_id": "DEPT-003",
+    "effective_from": "2026-09-29",
+    "effective_to": null,
+    "employee_id": "EMP-000066"
+  },
+  {
+    "change_reason": "initial_assignment",
+    "department_id": "DEPT-004",
+    "effective_from": "2026-12-18",
+    "effective_to": null,
+    "employee_id": "EMP-000067"
+  },
+  {
+    "change_reason": "initial_assignment",
+    "department_id": "DEPT-003",
+    "effective_from": "2026-08-21",
+    "effective_to": null,
+    "employee_id": "EMP-000068"
+  },
+  {
+    "change_reason": "initial_assignment",
+    "department_id": "DEPT-008",
+    "effective_from": "2026-10-11",
+    "effective_to": null,
+    "employee_id": "EMP-000069"
+  },
+  {
+    "change_reason": "initial_assignment",
+    "department_id": "DEPT-005",
+    "effective_from": "2026-10-20",
+    "effective_to": null,
+    "employee_id": "EMP-000070"
+  },
+  {
+    "change_reason": "initial_assignment",
+    "department_id": "DEPT-004",
+    "effective_from": "2026-09-08",
+    "effective_to": null,
+    "employee_id": "EMP-000071"
+  },
+  {
+    "change_reason": "initial_assignment",
+    "department_id": "DEPT-001",
+    "effective_from": "2026-09-15",
+    "effective_to": null,
+    "employee_id": "EMP-000072"
+  },
+  {
+    "change_reason": "initial_assignment",
+    "department_id": "DEPT-004",
+    "effective_from": "2026-11-03",
+    "effective_to": null,
+    "employee_id": "EMP-000073"
+  },
+  {
+    "change_reason": "initial_assignment",
+    "department_id": "DEPT-001",
+    "effective_from": "2026-08-19",
+    "effective_to": null,
+    "employee_id": "EMP-000074"
+  },
+  {
+    "change_reason": "initial_assignment",
+    "department_id": "DEPT-008",
+    "effective_from": "2026-08-30",
+    "effective_to": null,
+    "employee_id": "EMP-000075"
+  },
+  {
+    "change_reason": "initial_assignment",
+    "department_id": "DEPT-005",
+    "effective_from": "2026-08-14",
+    "effective_to": null,
+    "employee_id": "EMP-000076"
+  },
+  {
+    "change_reason": "initial_assignment",
+    "department_id": "DEPT-006",
+    "effective_from": "2026-11-09",
+    "effective_to": null,
+    "employee_id": "EMP-000077"
+  },
+  {
+    "change_reason": "initial_assignment",
+    "department_id": "DEPT-004",
+    "effective_from": "2026-12-25",
+    "effective_to": null,
+    "employee_id": "EMP-000078"
+  },
+  {
+    "change_reason": "initial_assignment",
+    "department_id": "DEPT-004",
+    "effective_from": "2026-12-12",
+    "effective_to": null,
+    "employee_id": "EMP-000079"
+  },
+  {
+    "change_reason": "initial_assignment",
+    "department_id": "DEPT-007",
+    "effective_from": "2026-10-06",
+    "effective_to": null,
+    "employee_id": "EMP-000080"
+  },
+  {
+    "change_reason": "initial_assignment",
+    "department_id": "DEPT-004",
+    "effective_from": "2026-07-31",
+    "effective_to": null,
+    "employee_id": "EMP-000081"
+  },
+  {
+    "change_reason": "initial_assignment",
+    "department_id": "DEPT-005",
+    "effective_from": "2026-12-02",
+    "effective_to": null,
+    "employee_id": "EMP-000082"
+  },
+  {
+    "change_reason": "initial_assignment",
+    "department_id": "DEPT-007",
+    "effective_from": "2026-09-18",
+    "effective_to": null,
+    "employee_id": "EMP-000083"
+  },
+  {
+    "change_reason": "initial_assignment",
+    "department_id": "DEPT-003",
+    "effective_from": "2026-12-08",
+    "effective_to": null,
+    "employee_id": "EMP-000084"
+  },
+  {
+    "change_reason": "initial_assignment",
+    "department_id": "DEPT-005",
+    "effective_from": "2026-12-29",
+    "effective_to": null,
+    "employee_id": "EMP-000085"
+  },
+  {
+    "change_reason": "initial_assignment",
+    "department_id": "DEPT-004",
+    "effective_from": "2026-07-23",
+    "effective_to": null,
+    "employee_id": "EMP-000086"
+  },
+  {
+    "change_reason": "initial_assignment",
+    "department_id": "DEPT-005",
+    "effective_from": "2026-08-22",
+    "effective_to": null,
+    "employee_id": "EMP-000087"
+  },
+  {
+    "change_reason": "initial_assignment",
+    "department_id": "DEPT-007",
+    "effective_from": "2026-09-05",
+    "effective_to": null,
+    "employee_id": "EMP-000088"
+  },
+  {
+    "change_reason": "initial_assignment",
+    "department_id": "DEPT-002",
+    "effective_from": "2026-09-04",
+    "effective_to": null,
+    "employee_id": "EMP-000089"
+  },
+  {
+    "change_reason": "initial_assignment",
+    "department_id": "DEPT-002",
+    "effective_from": "2026-09-11",
+    "effective_to": null,
+    "employee_id": "EMP-000090"
+  },
+  {
+    "change_reason": "initial_assignment",
+    "department_id": "DEPT-005",
+    "effective_from": "2026-07-19",
+    "effective_to": null,
+    "employee_id": "EMP-000091"
+  },
+  {
+    "change_reason": "initial_assignment",
+    "department_id": "DEPT-005",
+    "effective_from": "2027-01-04",
+    "effective_to": null,
+    "employee_id": "EMP-000092"
+  },
+  {
+    "change_reason": "initial_assignment",
+    "department_id": "DEPT-003",
+    "effective_from": "2027-01-01",
+    "effective_to": null,
+    "employee_id": "EMP-000093"
+  },
+  {
+    "change_reason": "initial_assignment",
+    "department_id": "DEPT-003",
+    "effective_from": "2026-08-21",
+    "effective_to": null,
+    "employee_id": "EMP-000094"
+  },
+  {
+    "change_reason": "initial_assignment",
+    "department_id": "DEPT-005",
+    "effective_from": "2026-08-03",
+    "effective_to": null,
+    "employee_id": "EMP-000095"
+  },
+  {
+    "change_reason": "initial_assignment",
+    "department_id": "DEPT-004",
+    "effective_from": "2026-08-07",
+    "effective_to": null,
+    "employee_id": "EMP-000096"
+  },
+  {
+    "change_reason": "initial_assignment",
+    "department_id": "DEPT-003",
+    "effective_from": "2026-11-14",
+    "effective_to": null,
+    "employee_id": "EMP-000097"
+  },
+  {
+    "change_reason": "initial_assignment",
+    "department_id": "DEPT-002",
+    "effective_from": "2026-07-12",
+    "effective_to": null,
+    "employee_id": "EMP-000098"
+  },
+  {
+    "change_reason": "initial_assignment",
+    "department_id": "DEPT-004",
+    "effective_from": "2026-09-03",
+    "effective_to": null,
+    "employee_id": "EMP-000099"
+  },
+  {
+    "change_reason": "initial_assignment",
+    "department_id": "DEPT-002",
+    "effective_from": "2026-10-10",
+    "effective_to": null,
+    "employee_id": "EMP-000100"
+  },
+  {
+    "change_reason": "initial_assignment",
+    "department_id": "DEPT-004",
+    "effective_from": "2026-08-01",
+    "effective_to": null,
+    "employee_id": "EMP-000101"
+  },
+  {
+    "change_reason": "initial_assignment",
+    "department_id": "DEPT-005",
+    "effective_from": "2026-08-06",
+    "effective_to": null,
+    "employee_id": "EMP-000102"
+  },
+  {
+    "change_reason": "initial_assignment",
+    "department_id": "DEPT-005",
+    "effective_from": "2026-07-19",
+    "effective_to": null,
+    "employee_id": "EMP-000103"
+  },
+  {
+    "change_reason": "initial_assignment",
+    "department_id": "DEPT-003",
+    "effective_from": "2026-11-10",
+    "effective_to": null,
+    "employee_id": "EMP-000104"
+  },
+  {
+    "change_reason": "initial_assignment",
+    "department_id": "DEPT-004",
+    "effective_from": "2026-07-26",
+    "effective_to": null,
+    "employee_id": "EMP-000105"
+  },
+  {
+    "change_reason": "initial_assignment",
+    "department_id": "DEPT-007",
+    "effective_from": "2026-10-31",
+    "effective_to": null,
+    "employee_id": "EMP-000106"
+  },
+  {
+    "change_reason": "initial_assignment",
+    "department_id": "DEPT-003",
+    "effective_from": "2026-07-15",
+    "effective_to": null,
+    "employee_id": "EMP-000107"
+  },
+  {
+    "change_reason": "initial_assignment",
+    "department_id": "DEPT-004",
+    "effective_from": "2026-07-30",
+    "effective_to": null,
+    "employee_id": "EMP-000108"
+  },
+  {
+    "change_reason": "initial_assignment",
+    "department_id": "DEPT-001",
+    "effective_from": "2026-12-05",
+    "effective_to": null,
+    "employee_id": "EMP-000109"
+  },
+  {
+    "change_reason": "initial_assignment",
+    "department_id": "DEPT-004",
+    "effective_from": "2027-01-05",
+    "effective_to": null,
+    "employee_id": "EMP-000110"
+  },
+  {
+    "change_reason": "initial_assignment",
+    "department_id": "DEPT-008",
+    "effective_from": "2026-11-13",
+    "effective_to": null,
+    "employee_id": "EMP-000111"
+  },
+  {
+    "change_reason": "initial_assignment",
+    "department_id": "DEPT-003",
+    "effective_from": "2026-08-28",
+    "effective_to": null,
+    "employee_id": "EMP-000112"
+  },
+  {
+    "change_reason": "initial_assignment",
+    "department_id": "DEPT-008",
+    "effective_from": "2026-08-22",
+    "effective_to": null,
+    "employee_id": "EMP-000113"
+  },
+  {
+    "change_reason": "initial_assignment",
+    "department_id": "DEPT-007",
+    "effective_from": "2026-07-18",
+    "effective_to": null,
+    "employee_id": "EMP-000114"
+  },
+  {
+    "change_reason": "initial_assignment",
+    "department_id": "DEPT-004",
+    "effective_from": "2026-10-04",
+    "effective_to": null,
+    "employee_id": "EMP-000115"
+  },
+  {
+    "change_reason": "initial_assignment",
+    "department_id": "DEPT-008",
+    "effective_from": "2026-11-23",
+    "effective_to": null,
+    "employee_id": "EMP-000116"
+  },
+  {
+    "change_reason": "initial_assignment",
+    "department_id": "DEPT-001",
+    "effective_from": "2026-07-20",
+    "effective_to": null,
+    "employee_id": "EMP-000117"
+  },
+  {
+    "change_reason": "initial_assignment",
+    "department_id": "DEPT-007",
+    "effective_from": "2026-08-17",
+    "effective_to": null,
+    "employee_id": "EMP-000118"
+  },
+  {
+    "change_reason": "initial_assignment",
+    "department_id": "DEPT-006",
+    "effective_from": "2026-12-19",
+    "effective_to": null,
+    "employee_id": "EMP-000119"
+  },
+  {
+    "change_reason": "initial_assignment",
+    "department_id": "DEPT-007",
+    "effective_from": "2026-10-09",
+    "effective_to": null,
+    "employee_id": "EMP-000120"
+  },
+  {
+    "change_reason": "initial_assignment",
+    "department_id": "DEPT-006",
+    "effective_from": "2026-10-22",
+    "effective_to": null,
+    "employee_id": "EMP-000121"
+  },
+  {
+    "change_reason": "initial_assignment",
+    "department_id": "DEPT-005",
+    "effective_from": "2026-11-02",
+    "effective_to": null,
+    "employee_id": "EMP-000122"
+  },
+  {
+    "change_reason": "initial_assignment",
+    "department_id": "DEPT-001",
+    "effective_from": "2026-08-15",
+    "effective_to": null,
+    "employee_id": "EMP-000123"
+  },
+  {
+    "change_reason": "initial_assignment",
+    "department_id": "DEPT-002",
+    "effective_from": "2026-08-23",
+    "effective_to": null,
+    "employee_id": "EMP-000124"
+  },
+  {
+    "change_reason": "initial_assignment",
+    "department_id": "DEPT-007",
+    "effective_from": "2026-09-10",
+    "effective_to": null,
+    "employee_id": "EMP-000125"
+  },
+  {
+    "change_reason": "initial_assignment",
+    "department_id": "DEPT-006",
+    "effective_from": "2026-10-03",
+    "effective_to": null,
+    "employee_id": "EMP-000126"
+  },
+  {
+    "change_reason": "initial_assignment",
+    "department_id": "DEPT-005",
+    "effective_from": "2026-09-04",
+    "effective_to": null,
+    "employee_id": "EMP-000127"
+  },
+  {
+    "change_reason": "initial_assignment",
+    "department_id": "DEPT-001",
+    "effective_from": "2026-09-22",
+    "effective_to": null,
+    "employee_id": "EMP-000128"
+  },
+  {
+    "change_reason": "initial_assignment",
+    "department_id": "DEPT-005",
+    "effective_from": "2026-07-26",
+    "effective_to": null,
+    "employee_id": "EMP-000129"
+  },
+  {
+    "change_reason": "initial_assignment",
+    "department_id": "DEPT-005",
+    "effective_from": "2026-07-29",
+    "effective_to": null,
+    "employee_id": "EMP-000130"
+  },
+  {
+    "change_reason": "initial_assignment",
+    "department_id": "DEPT-004",
+    "effective_from": "2026-10-28",
+    "effective_to": null,
+    "employee_id": "EMP-000131"
+  },
+  {
+    "change_reason": "initial_assignment",
+    "department_id": "DEPT-003",
+    "effective_from": "2026-12-01",
+    "effective_to": null,
+    "employee_id": "EMP-000132"
+  },
+  {
+    "change_reason": "initial_assignment",
+    "department_id": "DEPT-007",
+    "effective_from": "2026-08-16",
+    "effective_to": null,
+    "employee_id": "EMP-000133"
+  },
+  {
+    "change_reason": "initial_assignment",
+    "department_id": "DEPT-007",
+    "effective_from": "2026-12-24",
+    "effective_to": null,
+    "employee_id": "EMP-000134"
+  },
+  {
+    "change_reason": "initial_assignment",
+    "department_id": "DEPT-007",
+    "effective_from": "2026-07-29",
+    "effective_to": null,
+    "employee_id": "EMP-000135"
+  },
+  {
+    "change_reason": "initial_assignment",
+    "department_id": "DEPT-003",
+    "effective_from": "2026-12-29",
+    "effective_to": null,
+    "employee_id": "EMP-000136"
+  },
+  {
+    "change_reason": "initial_assignment",
+    "department_id": "DEPT-007",
+    "effective_from": "2026-10-15",
+    "effective_to": null,
+    "employee_id": "EMP-000137"
+  },
+  {
+    "change_reason": "initial_assignment",
+    "department_id": "DEPT-006",
+    "effective_from": "2026-11-22",
+    "effective_to": null,
+    "employee_id": "EMP-000138"
+  },
+  {
+    "change_reason": "initial_assignment",
+    "department_id": "DEPT-007",
+    "effective_from": "2026-11-27",
+    "effective_to": null,
+    "employee_id": "EMP-000139"
+  },
+  {
+    "change_reason": "initial_assignment",
+    "department_id": "DEPT-004",
+    "effective_from": "2026-10-06",
+    "effective_to": null,
+    "employee_id": "EMP-000140"
+  },
+  {
+    "change_reason": "initial_assignment",
+    "department_id": "DEPT-007",
+    "effective_from": "2027-01-04",
+    "effective_to": null,
+    "employee_id": "EMP-000141"
+  },
+  {
+    "change_reason": "initial_assignment",
+    "department_id": "DEPT-008",
+    "effective_from": "2026-12-25",
+    "effective_to": null,
+    "employee_id": "EMP-000142"
+  },
+  {
+    "change_reason": "initial_assignment",
+    "department_id": "DEPT-003",
+    "effective_from": "2026-08-03",
+    "effective_to": null,
+    "employee_id": "EMP-000143"
+  },
+  {
+    "change_reason": "initial_assignment",
+    "department_id": "DEPT-007",
+    "effective_from": "2026-07-26",
+    "effective_to": null,
+    "employee_id": "EMP-000144"
+  },
+  {
+    "change_reason": "initial_assignment",
+    "department_id": "DEPT-007",
+    "effective_from": "2026-09-08",
+    "effective_to": null,
+    "employee_id": "EMP-000145"
+  },
+  {
+    "change_reason": "initial_assignment",
+    "department_id": "DEPT-004",
+    "effective_from": "2027-01-02",
+    "effective_to": null,
+    "employee_id": "EMP-000146"
+  },
+  {
+    "change_reason": "initial_assignment",
+    "department_id": "DEPT-005",
+    "effective_from": "2026-12-15",
+    "effective_to": null,
+    "employee_id": "EMP-000147"
+  },
+  {
+    "change_reason": "initial_assignment",
+    "department_id": "DEPT-007",
+    "effective_from": "2026-12-09",
+    "effective_to": null,
+    "employee_id": "EMP-000148"
+  },
+  {
+    "change_reason": "initial_assignment",
+    "department_id": "DEPT-002",
+    "effective_from": "2026-08-26",
+    "effective_to": null,
+    "employee_id": "EMP-000149"
+  },
+  {
+    "change_reason": "initial_assignment",
+    "department_id": "DEPT-004",
+    "effective_from": "2026-10-02",
+    "effective_to": null,
+    "employee_id": "EMP-000150"
+  },
+  {
+    "change_reason": "initial_assignment",
+    "department_id": "DEPT-007",
+    "effective_from": "2026-12-10",
+    "effective_to": null,
+    "employee_id": "EMP-000151"
+  },
+  {
+    "change_reason": "initial_assignment",
+    "department_id": "DEPT-002",
+    "effective_from": "2026-12-23",
+    "effective_to": null,
+    "employee_id": "EMP-000152"
+  },
+  {
+    "change_reason": "initial_assignment",
+    "department_id": "DEPT-006",
+    "effective_from": "2026-08-04",
+    "effective_to": null,
+    "employee_id": "EMP-000153"
+  },
+  {
+    "change_reason": "initial_assignment",
+    "department_id": "DEPT-004",
+    "effective_from": "2026-12-26",
+    "effective_to": null,
+    "employee_id": "EMP-000154"
+  },
+  {
+    "change_reason": "initial_assignment",
+    "department_id": "DEPT-003",
+    "effective_from": "2026-07-29",
+    "effective_to": null,
+    "employee_id": "EMP-000155"
+  },
+  {
+    "change_reason": "initial_assignment",
+    "department_id": "DEPT-008",
+    "effective_from": "2026-08-11",
+    "effective_to": null,
+    "employee_id": "EMP-000156"
+  },
+  {
+    "change_reason": "initial_assignment",
+    "department_id": "DEPT-004",
+    "effective_from": "2026-09-19",
+    "effective_to": null,
+    "employee_id": "EMP-000157"
+  },
+  {
+    "change_reason": "initial_assignment",
+    "department_id": "DEPT-006",
+    "effective_from": "2026-12-01",
+    "effective_to": null,
+    "employee_id": "EMP-000158"
+  },
+  {
+    "change_reason": "initial_assignment",
+    "department_id": "DEPT-008",
+    "effective_from": "2026-08-17",
+    "effective_to": null,
+    "employee_id": "EMP-000159"
+  },
+  {
+    "change_reason": "initial_assignment",
+    "department_id": "DEPT-003",
+    "effective_from": "2026-10-07",
+    "effective_to": null,
+    "employee_id": "EMP-000160"
+  },
+  {
+    "change_reason": "initial_assignment",
+    "department_id": "DEPT-008",
+    "effective_from": "2026-07-29",
+    "effective_to": null,
+    "employee_id": "EMP-000161"
+  },
+  {
+    "change_reason": "initial_assignment",
+    "department_id": "DEPT-003",
+    "effective_from": "2026-09-03",
+    "effective_to": null,
+    "employee_id": "EMP-000162"
+  },
+  {
+    "change_reason": "initial_assignment",
+    "department_id": "DEPT-001",
+    "effective_from": "2026-09-19",
+    "effective_to": null,
+    "employee_id": "EMP-000163"
+  },
+  {
+    "change_reason": "initial_assignment",
+    "department_id": "DEPT-003",
+    "effective_from": "2026-08-03",
+    "effective_to": null,
+    "employee_id": "EMP-000164"
+  },
+  {
+    "change_reason": "initial_assignment",
+    "department_id": "DEPT-007",
+    "effective_from": "2026-08-15",
+    "effective_to": null,
+    "employee_id": "EMP-000165"
+  },
+  {
+    "change_reason": "initial_assignment",
+    "department_id": "DEPT-002",
+    "effective_from": "2026-10-03",
+    "effective_to": null,
+    "employee_id": "EMP-000166"
+  },
+  {
+    "change_reason": "initial_assignment",
+    "department_id": "DEPT-001",
+    "effective_from": "2026-11-15",
+    "effective_to": null,
+    "employee_id": "EMP-000167"
+  },
+  {
+    "change_reason": "initial_assignment",
+    "department_id": "DEPT-003",
+    "effective_from": "2027-01-01",
+    "effective_to": null,
+    "employee_id": "EMP-000168"
+  },
+  {
+    "change_reason": "initial_assignment",
+    "department_id": "DEPT-004",
+    "effective_from": "2026-12-19",
+    "effective_to": null,
+    "employee_id": "EMP-000169"
+  },
+  {
+    "change_reason": "initial_assignment",
+    "department_id": "DEPT-008",
+    "effective_from": "2026-10-28",
+    "effective_to": null,
+    "employee_id": "EMP-000170"
+  },
+  {
+    "change_reason": "initial_assignment",
+    "department_id": "DEPT-003",
+    "effective_from": "2026-09-05",
+    "effective_to": null,
+    "employee_id": "EMP-000171"
+  },
+  {
+    "change_reason": "initial_assignment",
+    "department_id": "DEPT-004",
+    "effective_from": "2026-08-29",
+    "effective_to": null,
+    "employee_id": "EMP-000172"
+  },
+  {
+    "change_reason": "initial_assignment",
+    "department_id": "DEPT-006",
+    "effective_from": "2026-12-24",
+    "effective_to": null,
+    "employee_id": "EMP-000173"
+  },
+  {
+    "change_reason": "initial_assignment",
+    "department_id": "DEPT-001",
+    "effective_from": "2026-11-15",
+    "effective_to": null,
+    "employee_id": "EMP-000174"
+  },
+  {
+    "change_reason": "initial_assignment",
+    "department_id": "DEPT-006",
+    "effective_from": "2026-07-29",
+    "effective_to": null,
+    "employee_id": "EMP-000175"
+  },
+  {
+    "change_reason": "initial_assignment",
+    "department_id": "DEPT-001",
+    "effective_from": "2026-12-16",
+    "effective_to": null,
+    "employee_id": "EMP-000176"
+  },
+  {
+    "change_reason": "initial_assignment",
+    "department_id": "DEPT-002",
+    "effective_from": "2026-08-22",
+    "effective_to": null,
+    "employee_id": "EMP-000177"
+  },
+  {
+    "change_reason": "initial_assignment",
+    "department_id": "DEPT-003",
+    "effective_from": "2026-09-09",
+    "effective_to": null,
+    "employee_id": "EMP-000178"
+  },
+  {
+    "change_reason": "initial_assignment",
+    "department_id": "DEPT-005",
+    "effective_from": "2026-08-31",
+    "effective_to": null,
+    "employee_id": "EMP-000179"
+  },
+  {
+    "change_reason": "initial_assignment",
+    "department_id": "DEPT-004",
+    "effective_from": "2026-08-31",
+    "effective_to": null,
+    "employee_id": "EMP-000180"
+  },
+  {
+    "change_reason": "initial_assignment",
+    "department_id": "DEPT-008",
+    "effective_from": "2026-10-15",
+    "effective_to": null,
+    "employee_id": "EMP-000181"
+  },
+  {
+    "change_reason": "initial_assignment",
+    "department_id": "DEPT-008",
+    "effective_from": "2026-10-24",
+    "effective_to": null,
+    "employee_id": "EMP-000182"
+  },
+  {
+    "change_reason": "initial_assignment",
+    "department_id": "DEPT-003",
+    "effective_from": "2026-08-31",
+    "effective_to": null,
+    "employee_id": "EMP-000183"
+  },
+  {
+    "change_reason": "initial_assignment",
+    "department_id": "DEPT-005",
+    "effective_from": "2026-11-01",
+    "effective_to": null,
+    "employee_id": "EMP-000184"
+  },
+  {
+    "change_reason": "initial_assignment",
+    "department_id": "DEPT-008",
+    "effective_from": "2026-08-06",
+    "effective_to": null,
+    "employee_id": "EMP-000185"
+  },
+  {
+    "change_reason": "initial_assignment",
+    "department_id": "DEPT-007",
+    "effective_from": "2026-11-09",
+    "effective_to": null,
+    "employee_id": "EMP-000186"
+  },
+  {
+    "change_reason": "initial_assignment",
+    "department_id": "DEPT-005",
+    "effective_from": "2026-12-15",
+    "effective_to": null,
+    "employee_id": "EMP-000187"
+  },
+  {
+    "change_reason": "initial_assignment",
+    "department_id": "DEPT-007",
+    "effective_from": "2026-09-28",
+    "effective_to": null,
+    "employee_id": "EMP-000188"
+  },
+  {
+    "change_reason": "initial_assignment",
+    "department_id": "DEPT-003",
+    "effective_from": "2026-08-24",
+    "effective_to": null,
+    "employee_id": "EMP-000189"
+  },
+  {
+    "change_reason": "initial_assignment",
+    "department_id": "DEPT-003",
+    "effective_from": "2026-09-26",
+    "effective_to": null,
+    "employee_id": "EMP-000190"
+  },
+  {
+    "change_reason": "initial_assignment",
+    "department_id": "DEPT-008",
+    "effective_from": "2026-11-05",
+    "effective_to": null,
+    "employee_id": "EMP-000191"
+  },
+  {
+    "change_reason": "initial_assignment",
+    "department_id": "DEPT-004",
+    "effective_from": "2026-10-14",
+    "effective_to": null,
+    "employee_id": "EMP-000192"
+  },
+  {
+    "change_reason": "initial_assignment",
+    "department_id": "DEPT-005",
+    "effective_from": "2026-08-16",
+    "effective_to": null,
+    "employee_id": "EMP-000193"
+  },
+  {
+    "change_reason": "initial_assignment",
+    "department_id": "DEPT-001",
+    "effective_from": "2026-07-29",
+    "effective_to": null,
+    "employee_id": "EMP-000194"
+  },
+  {
+    "change_reason": "initial_assignment",
+    "department_id": "DEPT-005",
+    "effective_from": "2026-12-16",
+    "effective_to": null,
+    "employee_id": "EMP-000195"
+  },
+  {
+    "change_reason": "initial_assignment",
+    "department_id": "DEPT-001",
+    "effective_from": "2026-11-10",
+    "effective_to": null,
+    "employee_id": "EMP-000196"
+  },
+  {
+    "change_reason": "initial_assignment",
+    "department_id": "DEPT-004",
+    "effective_from": "2026-08-11",
+    "effective_to": null,
+    "employee_id": "EMP-000197"
+  },
+  {
+    "change_reason": "initial_assignment",
+    "department_id": "DEPT-007",
+    "effective_from": "2026-08-27",
+    "effective_to": null,
+    "employee_id": "EMP-000198"
+  },
+  {
+    "change_reason": "initial_assignment",
+    "department_id": "DEPT-006",
+    "effective_from": "2026-08-17",
+    "effective_to": null,
+    "employee_id": "EMP-000199"
+  },
+  {
+    "change_reason": "initial_assignment",
+    "department_id": "DEPT-003",
+    "effective_from": "2026-10-09",
+    "effective_to": null,
+    "employee_id": "EMP-000200"
+  },
+  {
+    "change_reason": "initial_assignment",
+    "department_id": "DEPT-007",
+    "effective_from": "2026-09-05",
+    "effective_to": null,
+    "employee_id": "EMP-000201"
+  },
+  {
+    "change_reason": "initial_assignment",
+    "department_id": "DEPT-004",
+    "effective_from": "2026-07-19",
+    "effective_to": null,
+    "employee_id": "EMP-000202"
+  },
+  {
+    "change_reason": "initial_assignment",
+    "department_id": "DEPT-005",
+    "effective_from": "2026-08-02",
+    "effective_to": null,
+    "employee_id": "EMP-000203"
+  },
+  {
+    "change_reason": "initial_assignment",
+    "department_id": "DEPT-002",
+    "effective_from": "2026-09-03",
+    "effective_to": null,
+    "employee_id": "EMP-000204"
+  },
+  {
+    "change_reason": "initial_assignment",
+    "department_id": "DEPT-002",
+    "effective_from": "2026-10-25",
+    "effective_to": null,
+    "employee_id": "EMP-000205"
+  },
+  {
+    "change_reason": "initial_assignment",
+    "department_id": "DEPT-008",
+    "effective_from": "2026-09-10",
+    "effective_to": null,
+    "employee_id": "EMP-000206"
+  },
+  {
+    "change_reason": "initial_assignment",
+    "department_id": "DEPT-002",
+    "effective_from": "2026-08-03",
+    "effective_to": null,
+    "employee_id": "EMP-000207"
+  },
+  {
+    "change_reason": "initial_assignment",
+    "department_id": "DEPT-003",
+    "effective_from": "2026-11-04",
+    "effective_to": null,
+    "employee_id": "EMP-000208"
+  },
+  {
+    "change_reason": "initial_assignment",
+    "department_id": "DEPT-004",
+    "effective_from": "2026-11-29",
+    "effective_to": null,
+    "employee_id": "EMP-000209"
+  },
+  {
+    "change_reason": "initial_assignment",
+    "department_id": "DEPT-002",
+    "effective_from": "2026-09-24",
+    "effective_to": null,
+    "employee_id": "EMP-000210"
+  },
+  {
+    "change_reason": "initial_assignment",
+    "department_id": "DEPT-002",
+    "effective_from": "2026-11-10",
+    "effective_to": null,
+    "employee_id": "EMP-000211"
+  },
+  {
+    "change_reason": "initial_assignment",
+    "department_id": "DEPT-005",
+    "effective_from": "2026-12-13",
+    "effective_to": null,
+    "employee_id": "EMP-000212"
+  },
+  {
+    "change_reason": "initial_assignment",
+    "department_id": "DEPT-008",
+    "effective_from": "2026-09-24",
+    "effective_to": null,
+    "employee_id": "EMP-000213"
+  },
+  {
+    "change_reason": "initial_assignment",
+    "department_id": "DEPT-007",
+    "effective_from": "2026-08-26",
+    "effective_to": null,
+    "employee_id": "EMP-000214"
+  },
+  {
+    "change_reason": "initial_assignment",
+    "department_id": "DEPT-005",
+    "effective_from": "2026-10-02",
+    "effective_to": null,
+    "employee_id": "EMP-000215"
+  },
+  {
+    "change_reason": "initial_assignment",
+    "department_id": "DEPT-008",
+    "effective_from": "2026-07-13",
+    "effective_to": null,
+    "employee_id": "EMP-000216"
+  },
+  {
+    "change_reason": "initial_assignment",
+    "department_id": "DEPT-001",
+    "effective_from": "2026-08-01",
+    "effective_to": null,
+    "employee_id": "EMP-000217"
+  },
+  {
+    "change_reason": "initial_assignment",
+    "department_id": "DEPT-005",
+    "effective_from": "2026-10-12",
+    "effective_to": null,
+    "employee_id": "EMP-000218"
+  },
+  {
+    "change_reason": "initial_assignment",
+    "department_id": "DEPT-005",
+    "effective_from": "2026-09-25",
+    "effective_to": null,
+    "employee_id": "EMP-000219"
+  },
+  {
+    "change_reason": "initial_assignment",
+    "department_id": "DEPT-003",
+    "effective_from": "2026-10-09",
+    "effective_to": null,
+    "employee_id": "EMP-000220"
+  },
+  {
+    "change_reason": "initial_assignment",
+    "department_id": "DEPT-001",
+    "effective_from": "2026-07-18",
+    "effective_to": null,
+    "employee_id": "EMP-000221"
+  },
+  {
+    "change_reason": "initial_assignment",
+    "department_id": "DEPT-004",
+    "effective_from": "2027-01-02",
+    "effective_to": null,
+    "employee_id": "EMP-000222"
+  },
+  {
+    "change_reason": "initial_assignment",
+    "department_id": "DEPT-006",
+    "effective_from": "2026-08-20",
+    "effective_to": null,
+    "employee_id": "EMP-000223"
+  },
+  {
+    "change_reason": "initial_assignment",
+    "department_id": "DEPT-003",
+    "effective_from": "2026-11-06",
+    "effective_to": null,
+    "employee_id": "EMP-000224"
+  },
+  {
+    "change_reason": "initial_assignment",
+    "department_id": "DEPT-002",
+    "effective_from": "2026-07-28",
+    "effective_to": null,
+    "employee_id": "EMP-000225"
+  },
+  {
+    "change_reason": "initial_assignment",
+    "department_id": "DEPT-008",
+    "effective_from": "2026-12-05",
+    "effective_to": null,
+    "employee_id": "EMP-000226"
+  },
+  {
+    "change_reason": "initial_assignment",
+    "department_id": "DEPT-007",
+    "effective_from": "2026-07-10",
+    "effective_to": null,
+    "employee_id": "EMP-000227"
+  },
+  {
+    "change_reason": "initial_assignment",
+    "department_id": "DEPT-002",
+    "effective_from": "2026-11-26",
+    "effective_to": null,
+    "employee_id": "EMP-000228"
+  },
+  {
+    "change_reason": "initial_assignment",
+    "department_id": "DEPT-008",
+    "effective_from": "2026-08-07",
+    "effective_to": null,
+    "employee_id": "EMP-000229"
+  },
+  {
+    "change_reason": "initial_assignment",
+    "department_id": "DEPT-007",
+    "effective_from": "2026-09-28",
+    "effective_to": null,
+    "employee_id": "EMP-000230"
+  },
+  {
+    "change_reason": "initial_assignment",
+    "department_id": "DEPT-008",
+    "effective_from": "2026-10-09",
+    "effective_to": null,
+    "employee_id": "EMP-000231"
+  },
+  {
+    "change_reason": "initial_assignment",
+    "department_id": "DEPT-006",
+    "effective_from": "2026-07-15",
+    "effective_to": null,
+    "employee_id": "EMP-000232"
+  },
+  {
+    "change_reason": "initial_assignment",
+    "department_id": "DEPT-006",
+    "effective_from": "2026-07-24",
+    "effective_to": null,
+    "employee_id": "EMP-000233"
+  },
+  {
+    "change_reason": "initial_assignment",
+    "department_id": "DEPT-002",
+    "effective_from": "2026-08-18",
+    "effective_to": null,
+    "employee_id": "EMP-000234"
+  },
+  {
+    "change_reason": "initial_assignment",
+    "department_id": "DEPT-007",
+    "effective_from": "2027-01-01",
+    "effective_to": null,
+    "employee_id": "EMP-000235"
+  },
+  {
+    "change_reason": "initial_assignment",
+    "department_id": "DEPT-002",
+    "effective_from": "2026-07-18",
+    "effective_to": null,
+    "employee_id": "EMP-000236"
+  },
+  {
+    "change_reason": "initial_assignment",
+    "department_id": "DEPT-003",
+    "effective_from": "2026-12-09",
+    "effective_to": null,
+    "employee_id": "EMP-000237"
+  },
+  {
+    "change_reason": "initial_assignment",
+    "department_id": "DEPT-007",
+    "effective_from": "2026-11-07",
+    "effective_to": null,
+    "employee_id": "EMP-000238"
+  },
+  {
+    "change_reason": "initial_assignment",
+    "department_id": "DEPT-004",
+    "effective_from": "2026-11-19",
+    "effective_to": null,
+    "employee_id": "EMP-000239"
+  },
+  {
+    "change_reason": "initial_assignment",
+    "department_id": "DEPT-008",
+    "effective_from": "2026-10-10",
+    "effective_to": null,
+    "employee_id": "EMP-000240"
+  },
+  {
+    "change_reason": "initial_assignment",
+    "department_id": "DEPT-002",
+    "effective_from": "2026-09-18",
+    "effective_to": null,
+    "employee_id": "EMP-000241"
+  },
+  {
+    "change_reason": "initial_assignment",
+    "department_id": "DEPT-004",
+    "effective_from": "2026-08-07",
+    "effective_to": null,
+    "employee_id": "EMP-000242"
+  },
+  {
+    "change_reason": "initial_assignment",
+    "department_id": "DEPT-007",
+    "effective_from": "2026-08-07",
+    "effective_to": null,
+    "employee_id": "EMP-000243"
+  },
+  {
+    "change_reason": "initial_assignment",
+    "department_id": "DEPT-005",
+    "effective_from": "2026-09-05",
+    "effective_to": null,
+    "employee_id": "EMP-000244"
+  },
+  {
+    "change_reason": "initial_assignment",
+    "department_id": "DEPT-001",
+    "effective_from": "2026-09-18",
+    "effective_to": null,
+    "employee_id": "EMP-000245"
+  },
+  {
+    "change_reason": "initial_assignment",
+    "department_id": "DEPT-003",
+    "effective_from": "2026-10-03",
+    "effective_to": null,
+    "employee_id": "EMP-000246"
+  },
+  {
+    "change_reason": "initial_assignment",
+    "department_id": "DEPT-007",
+    "effective_from": "2026-09-08",
+    "effective_to": null,
+    "employee_id": "EMP-000247"
+  },
+  {
+    "change_reason": "initial_assignment",
+    "department_id": "DEPT-007",
+    "effective_from": "2026-08-14",
+    "effective_to": null,
+    "employee_id": "EMP-000248"
+  },
+  {
+    "change_reason": "initial_assignment",
+    "department_id": "DEPT-007",
+    "effective_from": "2026-12-03",
+    "effective_to": null,
+    "employee_id": "EMP-000249"
+  },
+  {
+    "change_reason": "initial_assignment",
+    "department_id": "DEPT-007",
+    "effective_from": "2026-11-26",
+    "effective_to": null,
+    "employee_id": "EMP-000250"
+  },
+  {
+    "change_reason": "initial_assignment",
+    "department_id": "DEPT-001",
+    "effective_from": "2026-12-01",
+    "effective_to": null,
+    "employee_id": "EMP-000251"
+  },
+  {
+    "change_reason": "initial_assignment",
+    "department_id": "DEPT-008",
+    "effective_from": "2026-09-29",
+    "effective_to": null,
+    "employee_id": "EMP-000252"
+  },
+  {
+    "change_reason": "initial_assignment",
+    "department_id": "DEPT-007",
+    "effective_from": "2026-12-03",
+    "effective_to": null,
+    "employee_id": "EMP-000253"
+  },
+  {
+    "change_reason": "initial_assignment",
+    "department_id": "DEPT-007",
+    "effective_from": "2027-01-06",
+    "effective_to": null,
+    "employee_id": "EMP-000254"
+  },
+  {
+    "change_reason": "initial_assignment",
+    "department_id": "DEPT-003",
+    "effective_from": "2026-09-12",
+    "effective_to": null,
+    "employee_id": "EMP-000255"
+  },
+  {
+    "change_reason": "initial_assignment",
+    "department_id": "DEPT-006",
+    "effective_from": "2026-11-30",
+    "effective_to": null,
+    "employee_id": "EMP-000256"
+  },
+  {
+    "change_reason": "initial_assignment",
+    "department_id": "DEPT-008",
+    "effective_from": "2026-11-13",
+    "effective_to": null,
+    "employee_id": "EMP-000257"
+  },
+  {
+    "change_reason": "initial_assignment",
+    "department_id": "DEPT-003",
+    "effective_from": "2026-10-16",
+    "effective_to": null,
+    "employee_id": "EMP-000258"
+  },
+  {
+    "change_reason": "initial_assignment",
+    "department_id": "DEPT-004",
+    "effective_from": "2026-10-05",
+    "effective_to": null,
+    "employee_id": "EMP-000259"
+  },
+  {
+    "change_reason": "initial_assignment",
+    "department_id": "DEPT-002",
+    "effective_from": "2026-10-08",
+    "effective_to": null,
+    "employee_id": "EMP-000260"
+  },
+  {
+    "change_reason": "initial_assignment",
+    "department_id": "DEPT-002",
+    "effective_from": "2026-08-09",
+    "effective_to": null,
+    "employee_id": "EMP-000261"
+  },
+  {
+    "change_reason": "initial_assignment",
+    "department_id": "DEPT-005",
+    "effective_from": "2026-10-07",
+    "effective_to": null,
+    "employee_id": "EMP-000262"
+  },
+  {
+    "change_reason": "initial_assignment",
+    "department_id": "DEPT-002",
+    "effective_from": "2026-11-04",
+    "effective_to": null,
+    "employee_id": "EMP-000263"
+  },
+  {
+    "change_reason": "initial_assignment",
+    "department_id": "DEPT-003",
+    "effective_from": "2026-08-17",
+    "effective_to": null,
+    "employee_id": "EMP-000264"
+  },
+  {
+    "change_reason": "initial_assignment",
+    "department_id": "DEPT-006",
+    "effective_from": "2026-10-19",
+    "effective_to": null,
+    "employee_id": "EMP-000265"
+  },
+  {
+    "change_reason": "initial_assignment",
+    "department_id": "DEPT-003",
+    "effective_from": "2026-07-17",
+    "effective_to": null,
+    "employee_id": "EMP-000266"
+  },
+  {
+    "change_reason": "initial_assignment",
+    "department_id": "DEPT-006",
+    "effective_from": "2026-11-24",
+    "effective_to": null,
+    "employee_id": "EMP-000267"
+  },
+  {
+    "change_reason": "initial_assignment",
+    "department_id": "DEPT-004",
+    "effective_from": "2026-12-15",
+    "effective_to": null,
+    "employee_id": "EMP-000268"
+  },
+  {
+    "change_reason": "initial_assignment",
+    "department_id": "DEPT-007",
+    "effective_from": "2026-11-29",
+    "effective_to": null,
+    "employee_id": "EMP-000269"
+  },
+  {
+    "change_reason": "initial_assignment",
+    "department_id": "DEPT-005",
+    "effective_from": "2026-08-19",
+    "effective_to": null,
+    "employee_id": "EMP-000270"
+  },
+  {
+    "change_reason": "initial_assignment",
+    "department_id": "DEPT-005",
+    "effective_from": "2026-09-15",
+    "effective_to": null,
+    "employee_id": "EMP-000271"
+  },
+  {
+    "change_reason": "initial_assignment",
+    "department_id": "DEPT-002",
+    "effective_from": "2026-08-21",
+    "effective_to": null,
+    "employee_id": "EMP-000272"
+  },
+  {
+    "change_reason": "initial_assignment",
+    "department_id": "DEPT-002",
+    "effective_from": "2027-01-02",
+    "effective_to": null,
+    "employee_id": "EMP-000273"
+  },
+  {
+    "change_reason": "initial_assignment",
+    "department_id": "DEPT-004",
+    "effective_from": "2026-11-09",
+    "effective_to": null,
+    "employee_id": "EMP-000274"
+  },
+  {
+    "change_reason": "initial_assignment",
+    "department_id": "DEPT-004",
+    "effective_from": "2026-12-15",
+    "effective_to": null,
+    "employee_id": "EMP-000275"
+  },
+  {
+    "change_reason": "initial_assignment",
+    "department_id": "DEPT-001",
+    "effective_from": "2026-08-09",
+    "effective_to": null,
+    "employee_id": "EMP-000276"
+  },
+  {
+    "change_reason": "initial_assignment",
+    "department_id": "DEPT-006",
+    "effective_from": "2026-10-06",
+    "effective_to": null,
+    "employee_id": "EMP-000277"
+  },
+  {
+    "change_reason": "initial_assignment",
+    "department_id": "DEPT-001",
+    "effective_from": "2026-11-25",
+    "effective_to": null,
+    "employee_id": "EMP-000278"
+  },
+  {
+    "change_reason": "initial_assignment",
+    "department_id": "DEPT-006",
+    "effective_from": "2026-09-05",
+    "effective_to": null,
+    "employee_id": "EMP-000279"
+  },
+  {
+    "change_reason": "initial_assignment",
+    "department_id": "DEPT-008",
+    "effective_from": "2026-10-10",
+    "effective_to": null,
+    "employee_id": "EMP-000280"
+  },
+  {
+    "change_reason": "initial_assignment",
+    "department_id": "DEPT-003",
+    "effective_from": "2026-12-31",
+    "effective_to": null,
+    "employee_id": "EMP-000281"
+  },
+  {
+    "change_reason": "initial_assignment",
+    "department_id": "DEPT-008",
+    "effective_from": "2026-10-22",
+    "effective_to": null,
+    "employee_id": "EMP-000282"
+  },
+  {
+    "change_reason": "initial_assignment",
+    "department_id": "DEPT-001",
+    "effective_from": "2026-07-17",
+    "effective_to": null,
+    "employee_id": "EMP-000283"
+  },
+  {
+    "change_reason": "initial_assignment",
+    "department_id": "DEPT-002",
+    "effective_from": "2026-11-17",
+    "effective_to": null,
+    "employee_id": "EMP-000284"
+  },
+  {
+    "change_reason": "initial_assignment",
+    "department_id": "DEPT-002",
+    "effective_from": "2026-09-22",
+    "effective_to": null,
+    "employee_id": "EMP-000285"
+  },
+  {
+    "change_reason": "initial_assignment",
+    "department_id": "DEPT-005",
+    "effective_from": "2026-09-16",
+    "effective_to": null,
+    "employee_id": "EMP-000286"
+  },
+  {
+    "change_reason": "initial_assignment",
+    "department_id": "DEPT-003",
+    "effective_from": "2026-08-08",
+    "effective_to": null,
+    "employee_id": "EMP-000287"
+  },
+  {
+    "change_reason": "initial_assignment",
+    "department_id": "DEPT-001",
+    "effective_from": "2026-09-03",
+    "effective_to": null,
+    "employee_id": "EMP-000288"
+  },
+  {
+    "change_reason": "initial_assignment",
+    "department_id": "DEPT-006",
+    "effective_from": "2026-11-27",
+    "effective_to": null,
+    "employee_id": "EMP-000289"
+  },
+  {
+    "change_reason": "initial_assignment",
+    "department_id": "DEPT-003",
+    "effective_from": "2026-07-31",
+    "effective_to": null,
+    "employee_id": "EMP-000290"
+  },
+  {
+    "change_reason": "initial_assignment",
+    "department_id": "DEPT-006",
+    "effective_from": "2026-08-13",
+    "effective_to": null,
+    "employee_id": "EMP-000291"
+  },
+  {
+    "change_reason": "initial_assignment",
+    "department_id": "DEPT-006",
+    "effective_from": "2026-08-07",
+    "effective_to": null,
+    "employee_id": "EMP-000292"
+  },
+  {
+    "change_reason": "initial_assignment",
+    "department_id": "DEPT-006",
+    "effective_from": "2026-09-29",
+    "effective_to": null,
+    "employee_id": "EMP-000293"
+  },
+  {
+    "change_reason": "initial_assignment",
+    "department_id": "DEPT-005",
+    "effective_from": "2026-12-17",
+    "effective_to": null,
+    "employee_id": "EMP-000294"
+  },
+  {
+    "change_reason": "initial_assignment",
+    "department_id": "DEPT-002",
+    "effective_from": "2026-09-19",
+    "effective_to": null,
+    "employee_id": "EMP-000295"
+  },
+  {
+    "change_reason": "initial_assignment",
+    "department_id": "DEPT-002",
+    "effective_from": "2026-09-13",
+    "effective_to": null,
+    "employee_id": "EMP-000296"
+  },
+  {
+    "change_reason": "initial_assignment",
+    "department_id": "DEPT-008",
+    "effective_from": "2026-07-22",
+    "effective_to": null,
+    "employee_id": "EMP-000297"
+  },
+  {
+    "change_reason": "initial_assignment",
+    "department_id": "DEPT-002",
+    "effective_from": "2026-10-26",
+    "effective_to": null,
+    "employee_id": "EMP-000298"
+  },
+  {
+    "change_reason": "initial_assignment",
+    "department_id": "DEPT-002",
+    "effective_from": "2026-10-24",
+    "effective_to": null,
+    "employee_id": "EMP-000299"
+  },
+  {
+    "change_reason": "initial_assignment",
+    "department_id": "DEPT-005",
+    "effective_from": "2026-10-10",
+    "effective_to": null,
+    "employee_id": "EMP-000300"
+  },
+  {
+    "change_reason": "initial_assignment",
+    "department_id": "DEPT-006",
+    "effective_from": "2026-10-28",
+    "effective_to": null,
+    "employee_id": "EMP-000301"
+  },
+  {
+    "change_reason": "initial_assignment",
+    "department_id": "DEPT-002",
+    "effective_from": "2026-07-21",
+    "effective_to": null,
+    "employee_id": "EMP-000302"
+  },
+  {
+    "change_reason": "initial_assignment",
+    "department_id": "DEPT-006",
+    "effective_from": "2026-10-30",
+    "effective_to": null,
+    "employee_id": "EMP-000303"
+  },
+  {
+    "change_reason": "initial_assignment",
+    "department_id": "DEPT-007",
+    "effective_from": "2026-12-19",
+    "effective_to": null,
+    "employee_id": "EMP-000304"
+  },
+  {
+    "change_reason": "initial_assignment",
+    "department_id": "DEPT-003",
+    "effective_from": "2026-09-18",
+    "effective_to": null,
+    "employee_id": "EMP-000305"
+  },
+  {
+    "change_reason": "initial_assignment",
+    "department_id": "DEPT-004",
+    "effective_from": "2026-09-10",
+    "effective_to": null,
+    "employee_id": "EMP-000306"
+  },
+  {
+    "change_reason": "initial_assignment",
+    "department_id": "DEPT-007",
+    "effective_from": "2027-01-04",
+    "effective_to": null,
+    "employee_id": "EMP-000307"
+  },
+  {
+    "change_reason": "initial_assignment",
+    "department_id": "DEPT-002",
+    "effective_from": "2026-09-25",
+    "effective_to": null,
+    "employee_id": "EMP-000308"
+  },
+  {
+    "change_reason": "initial_assignment",
+    "department_id": "DEPT-002",
+    "effective_from": "2026-08-12",
+    "effective_to": null,
+    "employee_id": "EMP-000309"
+  },
+  {
+    "change_reason": "initial_assignment",
+    "department_id": "DEPT-008",
+    "effective_from": "2026-11-27",
+    "effective_to": null,
+    "employee_id": "EMP-000310"
+  },
+  {
+    "change_reason": "initial_assignment",
+    "department_id": "DEPT-002",
+    "effective_from": "2026-07-19",
+    "effective_to": null,
+    "employee_id": "EMP-000311"
+  },
+  {
+    "change_reason": "initial_assignment",
+    "department_id": "DEPT-006",
+    "effective_from": "2026-12-24",
+    "effective_to": null,
+    "employee_id": "EMP-000312"
+  },
+  {
+    "change_reason": "initial_assignment",
+    "department_id": "DEPT-002",
+    "effective_from": "2026-12-30",
+    "effective_to": null,
+    "employee_id": "EMP-000313"
+  },
+  {
+    "change_reason": "initial_assignment",
+    "department_id": "DEPT-005",
+    "effective_from": "2026-09-16",
+    "effective_to": null,
+    "employee_id": "EMP-000314"
+  },
+  {
+    "change_reason": "initial_assignment",
+    "department_id": "DEPT-001",
+    "effective_from": "2026-08-29",
+    "effective_to": null,
+    "employee_id": "EMP-000315"
+  },
+  {
+    "change_reason": "initial_assignment",
+    "department_id": "DEPT-005",
+    "effective_from": "2026-10-31",
+    "effective_to": null,
+    "employee_id": "EMP-000316"
+  },
+  {
+    "change_reason": "initial_assignment",
+    "department_id": "DEPT-002",
+    "effective_from": "2026-10-23",
+    "effective_to": null,
+    "employee_id": "EMP-000317"
+  },
+  {
+    "change_reason": "initial_assignment",
+    "department_id": "DEPT-006",
+    "effective_from": "2026-12-07",
+    "effective_to": null,
+    "employee_id": "EMP-000318"
+  },
+  {
+    "change_reason": "initial_assignment",
+    "department_id": "DEPT-006",
+    "effective_from": "2026-08-17",
+    "effective_to": null,
+    "employee_id": "EMP-000319"
+  },
+  {
+    "change_reason": "initial_assignment",
+    "department_id": "DEPT-003",
+    "effective_from": "2026-10-10",
+    "effective_to": null,
+    "employee_id": "EMP-000320"
+  },
+  {
+    "change_reason": "initial_assignment",
+    "department_id": "DEPT-008",
+    "effective_from": "2026-07-26",
+    "effective_to": null,
+    "employee_id": "EMP-000321"
+  },
+  {
+    "change_reason": "initial_assignment",
+    "department_id": "DEPT-004",
+    "effective_from": "2026-07-15",
+    "effective_to": null,
+    "employee_id": "EMP-000322"
+  },
+  {
+    "change_reason": "initial_assignment",
+    "department_id": "DEPT-008",
+    "effective_from": "2026-12-10",
+    "effective_to": null,
+    "employee_id": "EMP-000323"
+  },
+  {
+    "change_reason": "initial_assignment",
+    "department_id": "DEPT-001",
+    "effective_from": "2026-09-16",
+    "effective_to": null,
+    "employee_id": "EMP-000324"
+  },
+  {
+    "change_reason": "initial_assignment",
+    "department_id": "DEPT-001",
+    "effective_from": "2026-08-21",
+    "effective_to": null,
+    "employee_id": "EMP-000325"
+  },
+  {
+    "change_reason": "initial_assignment",
+    "department_id": "DEPT-001",
+    "effective_from": "2026-11-03",
+    "effective_to": null,
+    "employee_id": "EMP-000326"
+  },
+  {
+    "change_reason": "initial_assignment",
+    "department_id": "DEPT-002",
+    "effective_from": "2026-07-31",
+    "effective_to": null,
+    "employee_id": "EMP-000327"
+  },
+  {
+    "change_reason": "initial_assignment",
+    "department_id": "DEPT-005",
+    "effective_from": "2026-10-01",
+    "effective_to": null,
+    "employee_id": "EMP-000328"
+  },
+  {
+    "change_reason": "initial_assignment",
+    "department_id": "DEPT-001",
+    "effective_from": "2026-11-18",
+    "effective_to": null,
+    "employee_id": "EMP-000329"
+  },
+  {
+    "change_reason": "initial_assignment",
+    "department_id": "DEPT-003",
+    "effective_from": "2026-10-21",
+    "effective_to": null,
+    "employee_id": "EMP-000330"
+  },
+  {
+    "change_reason": "initial_assignment",
+    "department_id": "DEPT-003",
+    "effective_from": "2026-09-03",
+    "effective_to": null,
+    "employee_id": "EMP-000331"
+  },
+  {
+    "change_reason": "initial_assignment",
+    "department_id": "DEPT-003",
+    "effective_from": "2026-08-11",
+    "effective_to": null,
+    "employee_id": "EMP-000332"
+  },
+  {
+    "change_reason": "initial_assignment",
+    "department_id": "DEPT-008",
+    "effective_from": "2026-08-14",
+    "effective_to": null,
+    "employee_id": "EMP-000333"
+  },
+  {
+    "change_reason": "initial_assignment",
+    "department_id": "DEPT-001",
+    "effective_from": "2026-07-29",
+    "effective_to": null,
+    "employee_id": "EMP-000334"
+  },
+  {
+    "change_reason": "initial_assignment",
+    "department_id": "DEPT-001",
+    "effective_from": "2026-10-03",
+    "effective_to": null,
+    "employee_id": "EMP-000335"
+  },
+  {
+    "change_reason": "initial_assignment",
+    "department_id": "DEPT-006",
+    "effective_from": "2026-07-16",
+    "effective_to": null,
+    "employee_id": "EMP-000336"
+  },
+  {
+    "change_reason": "initial_assignment",
+    "department_id": "DEPT-005",
+    "effective_from": "2026-10-29",
+    "effective_to": null,
+    "employee_id": "EMP-000337"
+  },
+  {
+    "change_reason": "initial_assignment",
+    "department_id": "DEPT-006",
+    "effective_from": "2026-11-18",
+    "effective_to": null,
+    "employee_id": "EMP-000338"
+  },
+  {
+    "change_reason": "initial_assignment",
+    "department_id": "DEPT-004",
+    "effective_from": "2026-10-21",
+    "effective_to": null,
+    "employee_id": "EMP-000339"
+  },
+  {
+    "change_reason": "initial_assignment",
+    "department_id": "DEPT-005",
+    "effective_from": "2026-10-10",
+    "effective_to": null,
+    "employee_id": "EMP-000340"
+  },
+  {
+    "change_reason": "initial_assignment",
+    "department_id": "DEPT-006",
+    "effective_from": "2026-10-19",
+    "effective_to": null,
+    "employee_id": "EMP-000341"
+  },
+  {
+    "change_reason": "initial_assignment",
+    "department_id": "DEPT-004",
+    "effective_from": "2026-08-01",
+    "effective_to": null,
+    "employee_id": "EMP-000342"
+  },
+  {
+    "change_reason": "initial_assignment",
+    "department_id": "DEPT-008",
+    "effective_from": "2026-09-02",
+    "effective_to": null,
+    "employee_id": "EMP-000343"
+  },
+  {
+    "change_reason": "initial_assignment",
+    "department_id": "DEPT-007",
+    "effective_from": "2026-12-09",
+    "effective_to": null,
+    "employee_id": "EMP-000344"
+  },
+  {
+    "change_reason": "initial_assignment",
+    "department_id": "DEPT-002",
+    "effective_from": "2026-08-05",
+    "effective_to": null,
+    "employee_id": "EMP-000345"
+  },
+  {
+    "change_reason": "initial_assignment",
+    "department_id": "DEPT-001",
+    "effective_from": "2026-11-29",
+    "effective_to": null,
+    "employee_id": "EMP-000346"
+  },
+  {
+    "change_reason": "initial_assignment",
+    "department_id": "DEPT-007",
+    "effective_from": "2026-11-26",
+    "effective_to": null,
+    "employee_id": "EMP-000347"
+  },
+  {
+    "change_reason": "initial_assignment",
+    "department_id": "DEPT-007",
+    "effective_from": "2026-09-28",
+    "effective_to": null,
+    "employee_id": "EMP-000348"
+  },
+  {
+    "change_reason": "initial_assignment",
+    "department_id": "DEPT-002",
+    "effective_from": "2026-12-12",
+    "effective_to": null,
+    "employee_id": "EMP-000349"
+  },
+  {
+    "change_reason": "initial_assignment",
+    "department_id": "DEPT-006",
+    "effective_from": "2026-11-29",
+    "effective_to": null,
+    "employee_id": "EMP-000350"
+  },
+  {
+    "change_reason": "initial_assignment",
+    "department_id": "DEPT-004",
+    "effective_from": "2026-07-19",
+    "effective_to": null,
+    "employee_id": "EMP-000351"
+  },
+  {
+    "change_reason": "initial_assignment",
+    "department_id": "DEPT-007",
+    "effective_from": "2026-07-15",
+    "effective_to": null,
+    "employee_id": "EMP-000352"
+  },
+  {
+    "change_reason": "initial_assignment",
+    "department_id": "DEPT-004",
+    "effective_from": "2026-11-22",
+    "effective_to": null,
+    "employee_id": "EMP-000353"
+  },
+  {
+    "change_reason": "initial_assignment",
+    "department_id": "DEPT-001",
+    "effective_from": "2026-11-12",
+    "effective_to": null,
+    "employee_id": "EMP-000354"
+  },
+  {
+    "change_reason": "initial_assignment",
+    "department_id": "DEPT-003",
+    "effective_from": "2026-12-05",
+    "effective_to": null,
+    "employee_id": "EMP-000355"
+  },
+  {
+    "change_reason": "initial_assignment",
+    "department_id": "DEPT-004",
+    "effective_from": "2026-07-15",
+    "effective_to": null,
+    "employee_id": "EMP-000356"
+  },
+  {
+    "change_reason": "initial_assignment",
+    "department_id": "DEPT-006",
+    "effective_from": "2026-09-02",
+    "effective_to": null,
+    "employee_id": "EMP-000357"
+  },
+  {
+    "change_reason": "initial_assignment",
+    "department_id": "DEPT-005",
+    "effective_from": "2026-10-26",
+    "effective_to": null,
+    "employee_id": "EMP-000358"
+  },
+  {
+    "change_reason": "initial_assignment",
+    "department_id": "DEPT-003",
+    "effective_from": "2026-09-15",
+    "effective_to": null,
+    "employee_id": "EMP-000359"
+  },
+  {
+    "change_reason": "initial_assignment",
+    "department_id": "DEPT-006",
+    "effective_from": "2026-09-06",
+    "effective_to": null,
+    "employee_id": "EMP-000360"
+  },
+  {
+    "change_reason": "initial_assignment",
+    "department_id": "DEPT-002",
+    "effective_from": "2026-08-04",
+    "effective_to": null,
+    "employee_id": "EMP-000361"
+  },
+  {
+    "change_reason": "initial_assignment",
+    "department_id": "DEPT-002",
+    "effective_from": "2026-12-10",
+    "effective_to": null,
+    "employee_id": "EMP-000362"
+  },
+  {
+    "change_reason": "initial_assignment",
+    "department_id": "DEPT-007",
+    "effective_from": "2026-07-17",
+    "effective_to": null,
+    "employee_id": "EMP-000363"
+  },
+  {
+    "change_reason": "initial_assignment",
+    "department_id": "DEPT-005",
+    "effective_from": "2026-12-31",
+    "effective_to": null,
+    "employee_id": "EMP-000364"
+  },
+  {
+    "change_reason": "initial_assignment",
+    "department_id": "DEPT-002",
+    "effective_from": "2026-10-19",
+    "effective_to": null,
+    "employee_id": "EMP-000365"
+  },
+  {
+    "change_reason": "initial_assignment",
+    "department_id": "DEPT-005",
+    "effective_from": "2026-11-14",
+    "effective_to": null,
+    "employee_id": "EMP-000366"
+  },
+  {
+    "change_reason": "initial_assignment",
+    "department_id": "DEPT-008",
+    "effective_from": "2026-10-31",
+    "effective_to": null,
+    "employee_id": "EMP-000367"
+  },
+  {
+    "change_reason": "initial_assignment",
+    "department_id": "DEPT-001",
+    "effective_from": "2026-11-03",
+    "effective_to": null,
+    "employee_id": "EMP-000368"
+  },
+  {
+    "change_reason": "initial_assignment",
+    "department_id": "DEPT-003",
+    "effective_from": "2026-08-13",
+    "effective_to": null,
+    "employee_id": "EMP-000369"
+  },
+  {
+    "change_reason": "initial_assignment",
+    "department_id": "DEPT-005",
+    "effective_from": "2026-12-23",
+    "effective_to": null,
+    "employee_id": "EMP-000370"
+  },
+  {
+    "change_reason": "initial_assignment",
+    "department_id": "DEPT-008",
+    "effective_from": "2026-11-22",
+    "effective_to": null,
+    "employee_id": "EMP-000371"
+  },
+  {
+    "change_reason": "initial_assignment",
+    "department_id": "DEPT-008",
+    "effective_from": "2026-11-18",
+    "effective_to": null,
+    "employee_id": "EMP-000372"
+  },
+  {
+    "change_reason": "initial_assignment",
+    "department_id": "DEPT-003",
+    "effective_from": "2026-12-08",
+    "effective_to": null,
+    "employee_id": "EMP-000373"
+  },
+  {
+    "change_reason": "initial_assignment",
+    "department_id": "DEPT-005",
+    "effective_from": "2026-09-04",
+    "effective_to": null,
+    "employee_id": "EMP-000374"
+  },
+  {
+    "change_reason": "initial_assignment",
+    "department_id": "DEPT-005",
+    "effective_from": "2026-10-13",
+    "effective_to": null,
+    "employee_id": "EMP-000375"
+  },
+  {
+    "change_reason": "initial_assignment",
+    "department_id": "DEPT-006",
+    "effective_from": "2026-10-27",
+    "effective_to": null,
+    "employee_id": "EMP-000376"
+  },
+  {
+    "change_reason": "initial_assignment",
+    "department_id": "DEPT-004",
+    "effective_from": "2026-12-15",
+    "effective_to": null,
+    "employee_id": "EMP-000377"
+  },
+  {
+    "change_reason": "initial_assignment",
+    "department_id": "DEPT-004",
+    "effective_from": "2026-09-08",
+    "effective_to": null,
+    "employee_id": "EMP-000378"
+  },
+  {
+    "change_reason": "initial_assignment",
+    "department_id": "DEPT-008",
+    "effective_from": "2026-12-05",
+    "effective_to": null,
+    "employee_id": "EMP-000379"
+  },
+  {
+    "change_reason": "initial_assignment",
+    "department_id": "DEPT-007",
+    "effective_from": "2026-10-07",
+    "effective_to": null,
+    "employee_id": "EMP-000380"
+  },
+  {
+    "change_reason": "initial_assignment",
+    "department_id": "DEPT-002",
+    "effective_from": "2026-08-18",
+    "effective_to": null,
+    "employee_id": "EMP-000381"
+  },
+  {
+    "change_reason": "initial_assignment",
+    "department_id": "DEPT-008",
+    "effective_from": "2026-10-30",
+    "effective_to": null,
+    "employee_id": "EMP-000382"
+  },
+  {
+    "change_reason": "initial_assignment",
+    "department_id": "DEPT-005",
+    "effective_from": "2026-10-16",
+    "effective_to": null,
+    "employee_id": "EMP-000383"
+  },
+  {
+    "change_reason": "initial_assignment",
+    "department_id": "DEPT-003",
+    "effective_from": "2027-01-01",
+    "effective_to": null,
+    "employee_id": "EMP-000384"
+  },
+  {
+    "change_reason": "initial_assignment",
+    "department_id": "DEPT-002",
+    "effective_from": "2026-09-02",
+    "effective_to": null,
+    "employee_id": "EMP-000385"
+  },
+  {
+    "change_reason": "initial_assignment",
+    "department_id": "DEPT-004",
+    "effective_from": "2026-08-24",
+    "effective_to": null,
+    "employee_id": "EMP-000386"
+  },
+  {
+    "change_reason": "initial_assignment",
+    "department_id": "DEPT-008",
+    "effective_from": "2026-09-18",
+    "effective_to": null,
+    "employee_id": "EMP-000387"
+  },
+  {
+    "change_reason": "initial_assignment",
+    "department_id": "DEPT-008",
+    "effective_from": "2026-07-14",
+    "effective_to": null,
+    "employee_id": "EMP-000388"
+  },
+  {
+    "change_reason": "initial_assignment",
+    "department_id": "DEPT-004",
+    "effective_from": "2026-08-28",
+    "effective_to": null,
+    "employee_id": "EMP-000389"
+  },
+  {
+    "change_reason": "initial_assignment",
+    "department_id": "DEPT-005",
+    "effective_from": "2026-07-14",
+    "effective_to": null,
+    "employee_id": "EMP-000390"
+  },
+  {
+    "change_reason": "initial_assignment",
+    "department_id": "DEPT-003",
+    "effective_from": "2026-10-11",
+    "effective_to": null,
+    "employee_id": "EMP-000391"
+  },
+  {
+    "change_reason": "initial_assignment",
+    "department_id": "DEPT-007",
+    "effective_from": "2026-08-02",
+    "effective_to": null,
+    "employee_id": "EMP-000392"
+  },
+  {
+    "change_reason": "initial_assignment",
+    "department_id": "DEPT-007",
+    "effective_from": "2026-08-12",
+    "effective_to": null,
+    "employee_id": "EMP-000393"
+  },
+  {
+    "change_reason": "initial_assignment",
+    "department_id": "DEPT-007",
+    "effective_from": "2026-12-10",
+    "effective_to": null,
+    "employee_id": "EMP-000394"
+  },
+  {
+    "change_reason": "initial_assignment",
+    "department_id": "DEPT-002",
+    "effective_from": "2026-12-07",
+    "effective_to": null,
+    "employee_id": "EMP-000395"
+  },
+  {
+    "change_reason": "initial_assignment",
+    "department_id": "DEPT-003",
+    "effective_from": "2026-08-01",
+    "effective_to": null,
+    "employee_id": "EMP-000396"
+  },
+  {
+    "change_reason": "initial_assignment",
+    "department_id": "DEPT-002",
+    "effective_from": "2026-08-18",
+    "effective_to": null,
+    "employee_id": "EMP-000397"
+  },
+  {
+    "change_reason": "initial_assignment",
+    "department_id": "DEPT-008",
+    "effective_from": "2026-10-05",
+    "effective_to": null,
+    "employee_id": "EMP-000398"
+  },
+  {
+    "change_reason": "initial_assignment",
+    "department_id": "DEPT-008",
+    "effective_from": "2026-12-18",
+    "effective_to": null,
+    "employee_id": "EMP-000399"
+  },
+  {
+    "change_reason": "initial_assignment",
+    "department_id": "DEPT-001",
+    "effective_from": "2026-10-06",
+    "effective_to": null,
+    "employee_id": "EMP-000400"
+  },
+  {
+    "change_reason": "initial_assignment",
+    "department_id": "DEPT-003",
+    "effective_from": "2026-08-30",
+    "effective_to": null,
+    "employee_id": "EMP-000401"
+  },
+  {
+    "change_reason": "initial_assignment",
+    "department_id": "DEPT-002",
+    "effective_from": "2026-11-19",
+    "effective_to": null,
+    "employee_id": "EMP-000402"
+  },
+  {
+    "change_reason": "initial_assignment",
+    "department_id": "DEPT-008",
+    "effective_from": "2026-11-15",
+    "effective_to": null,
+    "employee_id": "EMP-000403"
+  },
+  {
+    "change_reason": "initial_assignment",
+    "department_id": "DEPT-001",
+    "effective_from": "2026-11-04",
+    "effective_to": null,
+    "employee_id": "EMP-000404"
+  },
+  {
+    "change_reason": "initial_assignment",
+    "department_id": "DEPT-008",
+    "effective_from": "2026-08-31",
+    "effective_to": null,
+    "employee_id": "EMP-000405"
+  },
+  {
+    "change_reason": "initial_assignment",
+    "department_id": "DEPT-005",
+    "effective_from": "2027-01-04",
+    "effective_to": null,
+    "employee_id": "EMP-000406"
+  },
+  {
+    "change_reason": "initial_assignment",
+    "department_id": "DEPT-006",
+    "effective_from": "2026-09-22",
+    "effective_to": null,
+    "employee_id": "EMP-000407"
+  },
+  {
+    "change_reason": "initial_assignment",
+    "department_id": "DEPT-001",
+    "effective_from": "2026-11-17",
+    "effective_to": null,
+    "employee_id": "EMP-000408"
+  },
+  {
+    "change_reason": "initial_assignment",
+    "department_id": "DEPT-001",
+    "effective_from": "2026-08-31",
+    "effective_to": null,
+    "employee_id": "EMP-000409"
+  },
+  {
+    "change_reason": "initial_assignment",
+    "department_id": "DEPT-007",
+    "effective_from": "2026-09-08",
+    "effective_to": null,
+    "employee_id": "EMP-000410"
+  },
+  {
+    "change_reason": "initial_assignment",
+    "department_id": "DEPT-007",
+    "effective_from": "2026-11-17",
+    "effective_to": null,
+    "employee_id": "EMP-000411"
+  },
+  {
+    "change_reason": "initial_assignment",
+    "department_id": "DEPT-003",
+    "effective_from": "2026-12-18",
+    "effective_to": null,
+    "employee_id": "EMP-000412"
+  },
+  {
+    "change_reason": "initial_assignment",
+    "department_id": "DEPT-008",
+    "effective_from": "2026-11-21",
+    "effective_to": null,
+    "employee_id": "EMP-000413"
+  },
+  {
+    "change_reason": "initial_assignment",
+    "department_id": "DEPT-008",
+    "effective_from": "2026-08-03",
+    "effective_to": null,
+    "employee_id": "EMP-000414"
+  },
+  {
+    "change_reason": "initial_assignment",
+    "department_id": "DEPT-002",
+    "effective_from": "2026-12-25",
+    "effective_to": null,
+    "employee_id": "EMP-000415"
+  },
+  {
+    "change_reason": "initial_assignment",
+    "department_id": "DEPT-004",
+    "effective_from": "2026-10-09",
+    "effective_to": null,
+    "employee_id": "EMP-000416"
+  },
+  {
+    "change_reason": "initial_assignment",
+    "department_id": "DEPT-003",
+    "effective_from": "2026-11-04",
+    "effective_to": null,
+    "employee_id": "EMP-000417"
+  },
+  {
+    "change_reason": "initial_assignment",
+    "department_id": "DEPT-001",
+    "effective_from": "2026-10-06",
+    "effective_to": null,
+    "employee_id": "EMP-000418"
+  },
+  {
+    "change_reason": "initial_assignment",
+    "department_id": "DEPT-004",
+    "effective_from": "2026-11-07",
+    "effective_to": null,
+    "employee_id": "EMP-000419"
+  },
+  {
+    "change_reason": "initial_assignment",
+    "department_id": "DEPT-005",
+    "effective_from": "2026-10-08",
+    "effective_to": null,
+    "employee_id": "EMP-000420"
+  },
+  {
+    "change_reason": "initial_assignment",
+    "department_id": "DEPT-001",
+    "effective_from": "2026-08-21",
+    "effective_to": null,
+    "employee_id": "EMP-000421"
+  },
+  {
+    "change_reason": "initial_assignment",
+    "department_id": "DEPT-002",
+    "effective_from": "2026-12-20",
+    "effective_to": null,
+    "employee_id": "EMP-000422"
+  },
+  {
+    "change_reason": "initial_assignment",
+    "department_id": "DEPT-001",
+    "effective_from": "2026-08-29",
+    "effective_to": null,
+    "employee_id": "EMP-000423"
+  },
+  {
+    "change_reason": "initial_assignment",
+    "department_id": "DEPT-006",
+    "effective_from": "2026-09-14",
+    "effective_to": null,
+    "employee_id": "EMP-000424"
+  },
+  {
+    "change_reason": "initial_assignment",
+    "department_id": "DEPT-001",
+    "effective_from": "2026-10-22",
+    "effective_to": null,
+    "employee_id": "EMP-000425"
+  },
+  {
+    "change_reason": "initial_assignment",
+    "department_id": "DEPT-008",
+    "effective_from": "2026-10-23",
+    "effective_to": null,
+    "employee_id": "EMP-000426"
+  },
+  {
+    "change_reason": "initial_assignment",
+    "department_id": "DEPT-008",
+    "effective_from": "2026-10-02",
+    "effective_to": null,
+    "employee_id": "EMP-000427"
+  },
+  {
+    "change_reason": "initial_assignment",
+    "department_id": "DEPT-006",
+    "effective_from": "2026-11-11",
+    "effective_to": null,
+    "employee_id": "EMP-000428"
+  },
+  {
+    "change_reason": "initial_assignment",
+    "department_id": "DEPT-004",
+    "effective_from": "2026-09-27",
+    "effective_to": null,
+    "employee_id": "EMP-000429"
+  },
+  {
+    "change_reason": "initial_assignment",
+    "department_id": "DEPT-003",
+    "effective_from": "2026-08-20",
+    "effective_to": null,
+    "employee_id": "EMP-000430"
+  },
+  {
+    "change_reason": "initial_assignment",
+    "department_id": "DEPT-001",
+    "effective_from": "2026-11-25",
+    "effective_to": null,
+    "employee_id": "EMP-000431"
+  },
+  {
+    "change_reason": "initial_assignment",
+    "department_id": "DEPT-007",
+    "effective_from": "2026-07-14",
+    "effective_to": null,
+    "employee_id": "EMP-000432"
+  },
+  {
+    "change_reason": "initial_assignment",
+    "department_id": "DEPT-004",
+    "effective_from": "2026-09-07",
+    "effective_to": null,
+    "employee_id": "EMP-000433"
+  },
+  {
+    "change_reason": "initial_assignment",
+    "department_id": "DEPT-001",
+    "effective_from": "2026-09-27",
+    "effective_to": null,
+    "employee_id": "EMP-000434"
+  },
+  {
+    "change_reason": "initial_assignment",
+    "department_id": "DEPT-007",
+    "effective_from": "2026-10-06",
+    "effective_to": null,
+    "employee_id": "EMP-000435"
+  },
+  {
+    "change_reason": "initial_assignment",
+    "department_id": "DEPT-005",
+    "effective_from": "2026-10-29",
+    "effective_to": null,
+    "employee_id": "EMP-000436"
+  },
+  {
+    "change_reason": "initial_assignment",
+    "department_id": "DEPT-001",
+    "effective_from": "2026-10-06",
+    "effective_to": null,
+    "employee_id": "EMP-000437"
+  },
+  {
+    "change_reason": "initial_assignment",
+    "department_id": "DEPT-005",
+    "effective_from": "2026-10-31",
+    "effective_to": null,
+    "employee_id": "EMP-000438"
+  },
+  {
+    "change_reason": "initial_assignment",
+    "department_id": "DEPT-005",
+    "effective_from": "2026-08-17",
+    "effective_to": null,
+    "employee_id": "EMP-000439"
+  },
+  {
+    "change_reason": "initial_assignment",
+    "department_id": "DEPT-007",
+    "effective_from": "2026-10-08",
+    "effective_to": null,
+    "employee_id": "EMP-000440"
+  },
+  {
+    "change_reason": "initial_assignment",
+    "department_id": "DEPT-001",
+    "effective_from": "2026-08-18",
+    "effective_to": null,
+    "employee_id": "EMP-000441"
+  },
+  {
+    "change_reason": "initial_assignment",
+    "department_id": "DEPT-003",
+    "effective_from": "2026-12-22",
+    "effective_to": null,
+    "employee_id": "EMP-000442"
+  },
+  {
+    "change_reason": "initial_assignment",
+    "department_id": "DEPT-003",
+    "effective_from": "2026-07-30",
+    "effective_to": null,
+    "employee_id": "EMP-000443"
+  },
+  {
+    "change_reason": "initial_assignment",
+    "department_id": "DEPT-001",
+    "effective_from": "2026-08-19",
+    "effective_to": null,
+    "employee_id": "EMP-000444"
+  },
+  {
+    "change_reason": "initial_assignment",
+    "department_id": "DEPT-007",
+    "effective_from": "2026-12-02",
+    "effective_to": null,
+    "employee_id": "EMP-000445"
+  },
+  {
+    "change_reason": "initial_assignment",
+    "department_id": "DEPT-002",
+    "effective_from": "2026-08-13",
+    "effective_to": null,
+    "employee_id": "EMP-000446"
+  },
+  {
+    "change_reason": "initial_assignment",
+    "department_id": "DEPT-005",
+    "effective_from": "2026-10-01",
+    "effective_to": null,
+    "employee_id": "EMP-000447"
+  },
+  {
+    "change_reason": "initial_assignment",
+    "department_id": "DEPT-003",
+    "effective_from": "2026-10-03",
+    "effective_to": null,
+    "employee_id": "EMP-000448"
+  },
+  {
+    "change_reason": "initial_assignment",
+    "department_id": "DEPT-002",
+    "effective_from": "2026-07-29",
+    "effective_to": null,
+    "employee_id": "EMP-000449"
+  },
+  {
+    "change_reason": "initial_assignment",
+    "department_id": "DEPT-008",
+    "effective_from": "2026-08-24",
+    "effective_to": null,
+    "employee_id": "EMP-000450"
+  },
+  {
+    "change_reason": "initial_assignment",
+    "department_id": "DEPT-007",
+    "effective_from": "2026-10-01",
+    "effective_to": null,
+    "employee_id": "EMP-000451"
+  },
+  {
+    "change_reason": "initial_assignment",
+    "department_id": "DEPT-007",
+    "effective_from": "2026-07-27",
+    "effective_to": null,
+    "employee_id": "EMP-000452"
+  },
+  {
+    "change_reason": "initial_assignment",
+    "department_id": "DEPT-001",
+    "effective_from": "2026-12-11",
+    "effective_to": null,
+    "employee_id": "EMP-000453"
+  },
+  {
+    "change_reason": "initial_assignment",
+    "department_id": "DEPT-007",
+    "effective_from": "2026-10-21",
+    "effective_to": null,
+    "employee_id": "EMP-000454"
+  },
+  {
+    "change_reason": "initial_assignment",
+    "department_id": "DEPT-005",
+    "effective_from": "2026-08-17",
+    "effective_to": null,
+    "employee_id": "EMP-000455"
+  },
+  {
+    "change_reason": "initial_assignment",
+    "department_id": "DEPT-001",
+    "effective_from": "2026-08-30",
+    "effective_to": null,
+    "employee_id": "EMP-000456"
+  },
+  {
+    "change_reason": "initial_assignment",
+    "department_id": "DEPT-001",
+    "effective_from": "2026-12-01",
+    "effective_to": null,
+    "employee_id": "EMP-000457"
+  },
+  {
+    "change_reason": "initial_assignment",
+    "department_id": "DEPT-002",
+    "effective_from": "2026-10-01",
+    "effective_to": null,
+    "employee_id": "EMP-000458"
+  },
+  {
+    "change_reason": "initial_assignment",
+    "department_id": "DEPT-001",
+    "effective_from": "2026-09-16",
+    "effective_to": null,
+    "employee_id": "EMP-000459"
+  },
+  {
+    "change_reason": "initial_assignment",
+    "department_id": "DEPT-008",
+    "effective_from": "2026-10-10",
+    "effective_to": null,
+    "employee_id": "EMP-000460"
+  },
+  {
+    "change_reason": "initial_assignment",
+    "department_id": "DEPT-004",
+    "effective_from": "2026-10-10",
+    "effective_to": null,
+    "employee_id": "EMP-000461"
+  },
+  {
+    "change_reason": "initial_assignment",
+    "department_id": "DEPT-007",
+    "effective_from": "2027-01-04",
+    "effective_to": null,
+    "employee_id": "EMP-000462"
+  },
+  {
+    "change_reason": "initial_assignment",
+    "department_id": "DEPT-003",
+    "effective_from": "2026-12-19",
+    "effective_to": null,
+    "employee_id": "EMP-000463"
+  },
+  {
+    "change_reason": "initial_assignment",
+    "department_id": "DEPT-007",
+    "effective_from": "2026-08-27",
+    "effective_to": null,
+    "employee_id": "EMP-000464"
+  },
+  {
+    "change_reason": "initial_assignment",
+    "department_id": "DEPT-005",
+    "effective_from": "2026-10-14",
+    "effective_to": null,
+    "employee_id": "EMP-000465"
+  },
+  {
+    "change_reason": "initial_assignment",
+    "department_id": "DEPT-001",
+    "effective_from": "2026-10-28",
+    "effective_to": null,
+    "employee_id": "EMP-000466"
+  },
+  {
+    "change_reason": "initial_assignment",
+    "department_id": "DEPT-008",
+    "effective_from": "2026-10-03",
+    "effective_to": null,
+    "employee_id": "EMP-000467"
+  },
+  {
+    "change_reason": "initial_assignment",
+    "department_id": "DEPT-005",
+    "effective_from": "2026-07-25",
+    "effective_to": null,
+    "employee_id": "EMP-000468"
+  },
+  {
+    "change_reason": "initial_assignment",
+    "department_id": "DEPT-003",
+    "effective_from": "2026-10-02",
+    "effective_to": null,
+    "employee_id": "EMP-000469"
+  },
+  {
+    "change_reason": "initial_assignment",
+    "department_id": "DEPT-004",
+    "effective_from": "2026-08-09",
+    "effective_to": null,
+    "employee_id": "EMP-000470"
+  },
+  {
+    "change_reason": "initial_assignment",
+    "department_id": "DEPT-007",
+    "effective_from": "2026-09-22",
+    "effective_to": null,
+    "employee_id": "EMP-000471"
+  },
+  {
+    "change_reason": "initial_assignment",
+    "department_id": "DEPT-004",
+    "effective_from": "2026-10-18",
+    "effective_to": null,
+    "employee_id": "EMP-000472"
+  },
+  {
+    "change_reason": "initial_assignment",
+    "department_id": "DEPT-001",
+    "effective_from": "2026-12-03",
+    "effective_to": null,
+    "employee_id": "EMP-000473"
+  },
+  {
+    "change_reason": "initial_assignment",
+    "department_id": "DEPT-003",
+    "effective_from": "2026-10-25",
+    "effective_to": null,
+    "employee_id": "EMP-000474"
+  },
+  {
+    "change_reason": "initial_assignment",
+    "department_id": "DEPT-005",
+    "effective_from": "2026-08-10",
+    "effective_to": null,
+    "employee_id": "EMP-000475"
+  },
+  {
+    "change_reason": "initial_assignment",
+    "department_id": "DEPT-007",
+    "effective_from": "2026-12-14",
+    "effective_to": null,
+    "employee_id": "EMP-000476"
+  },
+  {
+    "change_reason": "initial_assignment",
+    "department_id": "DEPT-005",
+    "effective_from": "2026-08-24",
+    "effective_to": null,
+    "employee_id": "EMP-000477"
+  },
+  {
+    "change_reason": "initial_assignment",
+    "department_id": "DEPT-005",
+    "effective_from": "2026-10-13",
+    "effective_to": null,
+    "employee_id": "EMP-000478"
+  },
+  {
+    "change_reason": "initial_assignment",
+    "department_id": "DEPT-004",
+    "effective_from": "2026-07-15",
+    "effective_to": null,
+    "employee_id": "EMP-000479"
+  },
+  {
+    "change_reason": "initial_assignment",
+    "department_id": "DEPT-003",
+    "effective_from": "2026-10-08",
+    "effective_to": null,
+    "employee_id": "EMP-000480"
+  },
+  {
+    "change_reason": "initial_assignment",
+    "department_id": "DEPT-006",
+    "effective_from": "2026-07-27",
+    "effective_to": null,
+    "employee_id": "EMP-000481"
+  },
+  {
+    "change_reason": "initial_assignment",
+    "department_id": "DEPT-002",
+    "effective_from": "2026-12-14",
+    "effective_to": null,
+    "employee_id": "EMP-000482"
+  },
+  {
+    "change_reason": "initial_assignment",
+    "department_id": "DEPT-006",
+    "effective_from": "2026-08-03",
+    "effective_to": null,
+    "employee_id": "EMP-000483"
+  },
+  {
+    "change_reason": "initial_assignment",
+    "department_id": "DEPT-001",
+    "effective_from": "2026-07-30",
+    "effective_to": null,
+    "employee_id": "EMP-000484"
+  },
+  {
+    "change_reason": "initial_assignment",
+    "department_id": "DEPT-007",
+    "effective_from": "2026-08-14",
+    "effective_to": null,
+    "employee_id": "EMP-000485"
+  },
+  {
+    "change_reason": "initial_assignment",
+    "department_id": "DEPT-007",
+    "effective_from": "2026-09-17",
+    "effective_to": null,
+    "employee_id": "EMP-000486"
+  },
+  {
+    "change_reason": "initial_assignment",
+    "department_id": "DEPT-007",
+    "effective_from": "2026-09-22",
+    "effective_to": null,
+    "employee_id": "EMP-000487"
+  },
+  {
+    "change_reason": "initial_assignment",
+    "department_id": "DEPT-007",
+    "effective_from": "2026-07-14",
+    "effective_to": null,
+    "employee_id": "EMP-000488"
+  },
+  {
+    "change_reason": "initial_assignment",
+    "department_id": "DEPT-004",
+    "effective_from": "2026-09-18",
+    "effective_to": null,
+    "employee_id": "EMP-000489"
+  },
+  {
+    "change_reason": "initial_assignment",
+    "department_id": "DEPT-008",
+    "effective_from": "2026-09-21",
+    "effective_to": null,
+    "employee_id": "EMP-000490"
+  },
+  {
+    "change_reason": "initial_assignment",
+    "department_id": "DEPT-004",
+    "effective_from": "2026-07-13",
+    "effective_to": null,
+    "employee_id": "EMP-000491"
+  },
+  {
+    "change_reason": "initial_assignment",
+    "department_id": "DEPT-005",
+    "effective_from": "2026-11-24",
+    "effective_to": null,
+    "employee_id": "EMP-000492"
+  },
+  {
+    "change_reason": "initial_assignment",
+    "department_id": "DEPT-008",
+    "effective_from": "2026-11-01",
+    "effective_to": null,
+    "employee_id": "EMP-000493"
+  },
+  {
+    "change_reason": "initial_assignment",
+    "department_id": "DEPT-007",
+    "effective_from": "2026-12-25",
+    "effective_to": null,
+    "employee_id": "EMP-000494"
+  },
+  {
+    "change_reason": "initial_assignment",
+    "department_id": "DEPT-006",
+    "effective_from": "2026-09-09",
+    "effective_to": null,
+    "employee_id": "EMP-000495"
+  },
+  {
+    "change_reason": "initial_assignment",
+    "department_id": "DEPT-004",
+    "effective_from": "2026-11-14",
+    "effective_to": null,
+    "employee_id": "EMP-000496"
+  },
+  {
+    "change_reason": "initial_assignment",
+    "department_id": "DEPT-001",
+    "effective_from": "2026-11-18",
+    "effective_to": null,
+    "employee_id": "EMP-000497"
+  },
+  {
+    "change_reason": "initial_assignment",
+    "department_id": "DEPT-003",
+    "effective_from": "2026-09-29",
+    "effective_to": null,
+    "employee_id": "EMP-000498"
+  },
+  {
+    "change_reason": "initial_assignment",
+    "department_id": "DEPT-005",
+    "effective_from": "2026-08-22",
+    "effective_to": null,
+    "employee_id": "EMP-000499"
+  },
+  {
+    "change_reason": "initial_assignment",
+    "department_id": "DEPT-001",
+    "effective_from": "2026-10-06",
+    "effective_to": null,
+    "employee_id": "EMP-000500"
+  },
+  {
+    "change_reason": "department_transfer",
+    "department_id": "DEPT-001",
+    "effective_from": "2026-10-22",
+    "effective_to": null,
+    "employee_id": "EMP-000003"
+  }
+]

@@ -1,0 +1,13 @@
+role_id,name,lifecycle_state,effective_from,effective_to
+ROLE-001,Software Engineer,active,2024-01-01,
+ROLE-002,Data Scientist,active,2024-01-01,
+ROLE-003,Product Manager,active,2024-01-01,
+ROLE-004,Designer,active,2024-01-01,
+ROLE-005,Recruiter,active,2024-01-01,
+ROLE-006,Account Executive,active,2024-01-01,
+ROLE-007,Financial Analyst,active,2024-01-01,
+ROLE-008,IT Specialist,active,2024-01-01,
+ROLE-009,Operations Associate,active,2024-01-01,
+ROLE-010,Legal Counsel,active,2024-01-01,
+ROLE-011,Marketing Manager,active,2024-01-01,
+ROLE-012,Customer Engineer,active,2024-01-01,

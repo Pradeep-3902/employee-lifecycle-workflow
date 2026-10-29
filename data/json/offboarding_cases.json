@@ -1,0 +1,442 @@
+[
+  {
+    "effective_from": "2026-09-29",
+    "effective_to": null,
+    "employee_id": "EMP-000009",
+    "offboarding_case_id": "OFF-2026-000001",
+    "opened_date": "2026-09-29",
+    "status": "open"
+  },
+  {
+    "effective_from": "2026-10-07",
+    "effective_to": null,
+    "employee_id": "EMP-000018",
+    "offboarding_case_id": "OFF-2026-000002",
+    "opened_date": "2026-10-07",
+    "status": "completed"
+  },
+  {
+    "effective_from": "2026-09-28",
+    "effective_to": null,
+    "employee_id": "EMP-000027",
+    "offboarding_case_id": "OFF-2026-000003",
+    "opened_date": "2026-09-28",
+    "status": "completed"
+  },
+  {
+    "effective_from": "2026-10-19",
+    "effective_to": null,
+    "employee_id": "EMP-000036",
+    "offboarding_case_id": "OFF-2026-000004",
+    "opened_date": "2026-10-19",
+    "status": "completed"
+  },
+  {
+    "effective_from": "2026-10-02",
+    "effective_to": null,
+    "employee_id": "EMP-000045",
+    "offboarding_case_id": "OFF-2026-000005",
+    "opened_date": "2026-10-02",
+    "status": "completed"
+  },
+  {
+    "effective_from": "2026-10-14",
+    "effective_to": null,
+    "employee_id": "EMP-000054",
+    "offboarding_case_id": "OFF-2026-000006",
+    "opened_date": "2026-10-14",
+    "status": "completed"
+  },
+  {
+    "effective_from": "2026-10-20",
+    "effective_to": null,
+    "employee_id": "EMP-000063",
+    "offboarding_case_id": "OFF-2026-000007",
+    "opened_date": "2026-10-20",
+    "status": "completed"
+  },
+  {
+    "effective_from": "2026-09-30",
+    "effective_to": null,
+    "employee_id": "EMP-000072",
+    "offboarding_case_id": "OFF-2026-000008",
+    "opened_date": "2026-09-30",
+    "status": "completed"
+  },
+  {
+    "effective_from": "2026-10-03",
+    "effective_to": null,
+    "employee_id": "EMP-000081",
+    "offboarding_case_id": "OFF-2026-000009",
+    "opened_date": "2026-10-03",
+    "status": "completed"
+  },
+  {
+    "effective_from": "2026-10-19",
+    "effective_to": null,
+    "employee_id": "EMP-000090",
+    "offboarding_case_id": "OFF-2026-000010",
+    "opened_date": "2026-10-19",
+    "status": "completed"
+  },
+  {
+    "effective_from": "2026-10-20",
+    "effective_to": null,
+    "employee_id": "EMP-000099",
+    "offboarding_case_id": "OFF-2026-000011",
+    "opened_date": "2026-10-20",
+    "status": "completed"
+  },
+  {
+    "effective_from": "2026-10-14",
+    "effective_to": null,
+    "employee_id": "EMP-000108",
+    "offboarding_case_id": "OFF-2026-000012",
+    "opened_date": "2026-10-14",
+    "status": "completed"
+  },
+  {
+    "effective_from": "2026-10-12",
+    "effective_to": null,
+    "employee_id": "EMP-000117",
+    "offboarding_case_id": "OFF-2026-000013",
+    "opened_date": "2026-10-12",
+    "status": "completed"
+  },
+  {
+    "effective_from": "2026-10-21",
+    "effective_to": null,
+    "employee_id": "EMP-000126",
+    "offboarding_case_id": "OFF-2026-000014",
+    "opened_date": "2026-10-21",
+    "status": "completed"
+  },
+  {
+    "effective_from": "2026-10-21",
+    "effective_to": null,
+    "employee_id": "EMP-000135",
+    "offboarding_case_id": "OFF-2026-000015",
+    "opened_date": "2026-10-21",
+    "status": "completed"
+  },
+  {
+    "effective_from": "2026-10-15",
+    "effective_to": null,
+    "employee_id": "EMP-000144",
+    "offboarding_case_id": "OFF-2026-000016",
+    "opened_date": "2026-10-15",
+    "status": "completed"
+  },
+  {
+    "effective_from": "2026-09-28",
+    "effective_to": null,
+    "employee_id": "EMP-000153",
+    "offboarding_case_id": "OFF-2026-000017",
+    "opened_date": "2026-09-28",
+    "status": "completed"
+  },
+  {
+    "effective_from": "2026-10-20",
+    "effective_to": null,
+    "employee_id": "EMP-000162",
+    "offboarding_case_id": "OFF-2026-000018",
+    "opened_date": "2026-10-20",
+    "status": "completed"
+  },
+  {
+    "effective_from": "2026-10-20",
+    "effective_to": null,
+    "employee_id": "EMP-000171",
+    "offboarding_case_id": "OFF-2026-000019",
+    "opened_date": "2026-10-20",
+    "status": "completed"
+  },
+  {
+    "effective_from": "2026-10-03",
+    "effective_to": null,
+    "employee_id": "EMP-000180",
+    "offboarding_case_id": "OFF-2026-000020",
+    "opened_date": "2026-10-03",
+    "status": "completed"
+  },
+  {
+    "effective_from": "2026-10-01",
+    "effective_to": null,
+    "employee_id": "EMP-000189",
+    "offboarding_case_id": "OFF-2026-000021",
+    "opened_date": "2026-10-01",
+    "status": "completed"
+  },
+  {
+    "effective_from": "2026-10-01",
+    "effective_to": null,
+    "employee_id": "EMP-000198",
+    "offboarding_case_id": "OFF-2026-000022",
+    "opened_date": "2026-10-01",
+    "status": "completed"
+  },
+  {
+    "effective_from": "2026-09-24",
+    "effective_to": null,
+    "employee_id": "EMP-000207",
+    "offboarding_case_id": "OFF-2026-000023",
+    "opened_date": "2026-09-24",
+    "status": "completed"
+  },
+  {
+    "effective_from": "2026-10-13",
+    "effective_to": null,
+    "employee_id": "EMP-000216",
+    "offboarding_case_id": "OFF-2026-000024",
+    "opened_date": "2026-10-13",
+    "status": "completed"
+  },
+  {
+    "effective_from": "2026-10-04",
+    "effective_to": null,
+    "employee_id": "EMP-000225",
+    "offboarding_case_id": "OFF-2026-000025",
+    "opened_date": "2026-10-04",
+    "status": "completed"
+  },
+  {
+    "effective_from": "2026-09-26",
+    "effective_to": null,
+    "employee_id": "EMP-000234",
+    "offboarding_case_id": "OFF-2026-000026",
+    "opened_date": "2026-09-26",
+    "status": "completed"
+  },
+  {
+    "effective_from": "2026-09-27",
+    "effective_to": null,
+    "employee_id": "EMP-000243",
+    "offboarding_case_id": "OFF-2026-000027",
+    "opened_date": "2026-09-27",
+    "status": "completed"
+  },
+  {
+    "effective_from": "2026-10-16",
+    "effective_to": null,
+    "employee_id": "EMP-000252",
+    "offboarding_case_id": "OFF-2026-000028",
+    "opened_date": "2026-10-16",
+    "status": "completed"
+  },
+  {
+    "effective_from": "2026-10-08",
+    "effective_to": null,
+    "employee_id": "EMP-000261",
+    "offboarding_case_id": "OFF-2026-000029",
+    "opened_date": "2026-10-08",
+    "status": "completed"
+  },
+  {
+    "effective_from": "2026-09-28",
+    "effective_to": null,
+    "employee_id": "EMP-000270",
+    "offboarding_case_id": "OFF-2026-000030",
+    "opened_date": "2026-09-28",
+    "status": "completed"
+  },
+  {
+    "effective_from": "2026-10-18",
+    "effective_to": null,
+    "employee_id": "EMP-000279",
+    "offboarding_case_id": "OFF-2026-000031",
+    "opened_date": "2026-10-18",
+    "status": "completed"
+  },
+  {
+    "effective_from": "2026-09-24",
+    "effective_to": null,
+    "employee_id": "EMP-000288",
+    "offboarding_case_id": "OFF-2026-000032",
+    "opened_date": "2026-09-24",
+    "status": "completed"
+  },
+  {
+    "effective_from": "2026-09-23",
+    "effective_to": null,
+    "employee_id": "EMP-000297",
+    "offboarding_case_id": "OFF-2026-000033",
+    "opened_date": "2026-09-23",
+    "status": "completed"
+  },
+  {
+    "effective_from": "2026-10-17",
+    "effective_to": null,
+    "employee_id": "EMP-000306",
+    "offboarding_case_id": "OFF-2026-000034",
+    "opened_date": "2026-10-17",
+    "status": "completed"
+  },
+  {
+    "effective_from": "2026-10-17",
+    "effective_to": null,
+    "employee_id": "EMP-000315",
+    "offboarding_case_id": "OFF-2026-000035",
+    "opened_date": "2026-10-17",
+    "status": "completed"
+  },
+  {
+    "effective_from": "2026-10-11",
+    "effective_to": null,
+    "employee_id": "EMP-000324",
+    "offboarding_case_id": "OFF-2026-000036",
+    "opened_date": "2026-10-11",
+    "status": "completed"
+  },
+  {
+    "effective_from": "2026-09-29",
+    "effective_to": null,
+    "employee_id": "EMP-000333",
+    "offboarding_case_id": "OFF-2026-000037",
+    "opened_date": "2026-09-29",
+    "status": "completed"
+  },
+  {
+    "effective_from": "2026-10-03",
+    "effective_to": null,
+    "employee_id": "EMP-000342",
+    "offboarding_case_id": "OFF-2026-000038",
+    "opened_date": "2026-10-03",
+    "status": "completed"
+  },
+  {
+    "effective_from": "2026-09-22",
+    "effective_to": null,
+    "employee_id": "EMP-000351",
+    "offboarding_case_id": "OFF-2026-000039",
+    "opened_date": "2026-09-22",
+    "status": "completed"
+  },
+  {
+    "effective_from": "2026-10-18",
+    "effective_to": null,
+    "employee_id": "EMP-000360",
+    "offboarding_case_id": "OFF-2026-000040",
+    "opened_date": "2026-10-18",
+    "status": "completed"
+  },
+  {
+    "effective_from": "2026-10-12",
+    "effective_to": null,
+    "employee_id": "EMP-000369",
+    "offboarding_case_id": "OFF-2026-000041",
+    "opened_date": "2026-10-12",
+    "status": "completed"
+  },
+  {
+    "effective_from": "2026-09-30",
+    "effective_to": null,
+    "employee_id": "EMP-000378",
+    "offboarding_case_id": "OFF-2026-000042",
+    "opened_date": "2026-09-30",
+    "status": "completed"
+  },
+  {
+    "effective_from": "2026-10-16",
+    "effective_to": null,
+    "employee_id": "EMP-000387",
+    "offboarding_case_id": "OFF-2026-000043",
+    "opened_date": "2026-10-16",
+    "status": "completed"
+  },
+  {
+    "effective_from": "2026-10-08",
+    "effective_to": null,
+    "employee_id": "EMP-000396",
+    "offboarding_case_id": "OFF-2026-000044",
+    "opened_date": "2026-10-08",
+    "status": "completed"
+  },
+  {
+    "effective_from": "2026-10-17",
+    "effective_to": null,
+    "employee_id": "EMP-000405",
+    "offboarding_case_id": "OFF-2026-000045",
+    "opened_date": "2026-10-17",
+    "status": "completed"
+  },
+  {
+    "effective_from": "2026-10-09",
+    "effective_to": null,
+    "employee_id": "EMP-000414",
+    "offboarding_case_id": "OFF-2026-000046",
+    "opened_date": "2026-10-09",
+    "status": "completed"
+  },
+  {
+    "effective_from": "2026-10-17",
+    "effective_to": null,
+    "employee_id": "EMP-000423",
+    "offboarding_case_id": "OFF-2026-000047",
+    "opened_date": "2026-10-17",
+    "status": "completed"
+  },
+  {
+    "effective_from": "2026-09-25",
+    "effective_to": null,
+    "employee_id": "EMP-000432",
+    "offboarding_case_id": "OFF-2026-000048",
+    "opened_date": "2026-09-25",
+    "status": "completed"
+  },
+  {
+    "effective_from": "2026-10-13",
+    "effective_to": null,
+    "employee_id": "EMP-000441",
+    "offboarding_case_id": "OFF-2026-000049",
+    "opened_date": "2026-10-13",
+    "status": "completed"
+  },
+  {
+    "effective_from": "2026-10-10",
+    "effective_to": null,
+    "employee_id": "EMP-000450",
+    "offboarding_case_id": "OFF-2026-000050",
+    "opened_date": "2026-10-10",
+    "status": "completed"
+  },
+  {
+    "effective_from": "2026-10-21",
+    "effective_to": null,
+    "employee_id": "EMP-000459",
+    "offboarding_case_id": "OFF-2026-000051",
+    "opened_date": "2026-10-21",
+    "status": "completed"
+  },
+  {
+    "effective_from": "2026-10-16",
+    "effective_to": null,
+    "employee_id": "EMP-000468",
+    "offboarding_case_id": "OFF-2026-000052",
+    "opened_date": "2026-10-16",
+    "status": "completed"
+  },
+  {
+    "effective_from": "2026-09-30",
+    "effective_to": null,
+    "employee_id": "EMP-000477",
+    "offboarding_case_id": "OFF-2026-000053",
+    "opened_date": "2026-09-30",
+    "status": "completed"
+  },
+  {
+    "effective_from": "2026-10-15",
+    "effective_to": null,
+    "employee_id": "EMP-000486",
+    "offboarding_case_id": "OFF-2026-000054",
+    "opened_date": "2026-10-15",
+    "status": "completed"
+  },
+  {
+    "effective_from": "2026-09-25",
+    "effective_to": null,
+    "employee_id": "EMP-000495",
+    "offboarding_case_id": "OFF-2026-000055",
+    "opened_date": "2026-09-25",
+    "status": "completed"
+  }
+]

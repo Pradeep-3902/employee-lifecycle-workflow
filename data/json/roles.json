@@ -1,0 +1,86 @@
+[
+  {
+    "effective_from": "2024-01-01",
+    "effective_to": null,
+    "lifecycle_state": "active",
+    "name": "Software Engineer",
+    "role_id": "ROLE-001"
+  },
+  {
+    "effective_from": "2024-01-01",
+    "effective_to": null,
+    "lifecycle_state": "active",
+    "name": "Data Scientist",
+    "role_id": "ROLE-002"
+  },
+  {
+    "effective_from": "2024-01-01",
+    "effective_to": null,
+    "lifecycle_state": "active",
+    "name": "Product Manager",
+    "role_id": "ROLE-003"
+  },
+  {
+    "effective_from": "2024-01-01",
+    "effective_to": null,
+    "lifecycle_state": "active",
+    "name": "Designer",
+    "role_id": "ROLE-004"
+  },
+  {
+    "effective_from": "2024-01-01",
+    "effective_to": null,
+    "lifecycle_state": "active",
+    "name": "Recruiter",
+    "role_id": "ROLE-005"
+  },
+  {
+    "effective_from": "2024-01-01",
+    "effective_to": null,
+    "lifecycle_state": "active",
+    "name": "Account Executive",
+    "role_id": "ROLE-006"
+  },
+  {
+    "effective_from": "2024-01-01",
+    "effective_to": null,
+    "lifecycle_state": "active",
+    "name": "Financial Analyst",
+    "role_id": "ROLE-007"
+  },
+  {
+    "effective_from": "2024-01-01",
+    "effective_to": null,
+    "lifecycle_state": "active",
+    "name": "IT Specialist",
+    "role_id": "ROLE-008"
+  },
+  {
+    "effective_from": "2024-01-01",
+    "effective_to": null,
+    "lifecycle_state": "active",
+    "name": "Operations Associate",
+    "role_id": "ROLE-009"
+  },
+  {
+    "effective_from": "2024-01-01",
+    "effective_to": null,
+    "lifecycle_state": "active",
+    "name": "Legal Counsel",
+    "role_id": "ROLE-010"
+  },
+  {
+    "effective_from": "2024-01-01",
+    "effective_to": null,
+    "lifecycle_state": "active",
+    "name": "Marketing Manager",
+    "role_id": "ROLE-011"
+  },
+  {
+    "effective_from": "2024-01-01",
+    "effective_to": null,
+    "lifecycle_state": "active",
+    "name": "Customer Engineer",
+    "role_id": "ROLE-012"
+  }
+]

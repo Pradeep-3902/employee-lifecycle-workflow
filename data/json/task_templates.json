@@ -1,0 +1,1922 @@
+[
+  {
+    "effective_from": "2025-01-01",
+    "effective_to": null,
+    "owner_team": "HR",
+    "role_id": "ROLE-001",
+    "sla_days": 1,
+    "task_kind": "identity_verification",
+    "template_id": "TPL-ROLE-001-R-IDENTITY_VERIFICATION",
+    "work_location": "remote"
+  },
+  {
+    "effective_from": "2025-01-01",
+    "effective_to": null,
+    "owner_team": "HR",
+    "role_id": "ROLE-001",
+    "sla_days": 3,
+    "task_kind": "background_check",
+    "template_id": "TPL-ROLE-001-R-BACKGROUND_CHECK",
+    "work_location": "remote"
+  },
+  {
+    "effective_from": "2025-01-01",
+    "effective_to": null,
+    "owner_team": "Manager",
+    "role_id": "ROLE-001",
+    "sla_days": 1,
+    "task_kind": "manager_approval",
+    "template_id": "TPL-ROLE-001-R-MANAGER_APPROVAL",
+    "work_location": "remote"
+  },
+  {
+    "effective_from": "2025-01-01",
+    "effective_to": null,
+    "owner_team": "IT",
+    "role_id": "ROLE-001",
+    "sla_days": 3,
+    "task_kind": "account_creation",
+    "template_id": "TPL-ROLE-001-R-ACCOUNT_CREATION",
+    "work_location": "remote"
+  },
+  {
+    "effective_from": "2025-01-01",
+    "effective_to": null,
+    "owner_team": "Facilities",
+    "role_id": "ROLE-001",
+    "sla_days": 3,
+    "task_kind": "equipment_assignment",
+    "template_id": "TPL-ROLE-001-R-EQUIPMENT_ASSIGNMENT",
+    "work_location": "remote"
+  },
+  {
+    "effective_from": "2025-01-01",
+    "effective_to": null,
+    "owner_team": "IT",
+    "role_id": "ROLE-001",
+    "sla_days": 3,
+    "task_kind": "access_provisioning",
+    "template_id": "TPL-ROLE-001-R-ACCESS_PROVISIONING",
+    "work_location": "remote"
+  },
+  {
+    "effective_from": "2025-01-01",
+    "effective_to": null,
+    "owner_team": "HR",
+    "role_id": "ROLE-001",
+    "sla_days": 3,
+    "task_kind": "security_training",
+    "template_id": "TPL-ROLE-001-R-SECURITY_TRAINING",
+    "work_location": "remote"
+  },
+  {
+    "effective_from": "2025-01-01",
+    "effective_to": null,
+    "owner_team": "Manager",
+    "role_id": "ROLE-001",
+    "sla_days": 3,
+    "task_kind": "first_day_checkin",
+    "template_id": "TPL-ROLE-001-R-FIRST_DAY_CHECKIN",
+    "work_location": "remote"
+  },
+  {
+    "effective_from": "2025-01-01",
+    "effective_to": null,
+    "owner_team": "HR",
+    "role_id": "ROLE-001",
+    "sla_days": 1,
+    "task_kind": "identity_verification",
+    "template_id": "TPL-ROLE-001-O-IDENTITY_VERIFICATION",
+    "work_location": "on_site"
+  },
+  {
+    "effective_from": "2025-01-01",
+    "effective_to": null,
+    "owner_team": "HR",
+    "role_id": "ROLE-001",
+    "sla_days": 3,
+    "task_kind": "background_check",
+    "template_id": "TPL-ROLE-001-O-BACKGROUND_CHECK",
+    "work_location": "on_site"
+  },
+  {
+    "effective_from": "2025-01-01",
+    "effective_to": null,
+    "owner_team": "Manager",
+    "role_id": "ROLE-001",
+    "sla_days": 1,
+    "task_kind": "manager_approval",
+    "template_id": "TPL-ROLE-001-O-MANAGER_APPROVAL",
+    "work_location": "on_site"
+  },
+  {
+    "effective_from": "2025-01-01",
+    "effective_to": null,
+    "owner_team": "IT",
+    "role_id": "ROLE-001",
+    "sla_days": 3,
+    "task_kind": "account_creation",
+    "template_id": "TPL-ROLE-001-O-ACCOUNT_CREATION",
+    "work_location": "on_site"
+  },
+  {
+    "effective_from": "2025-01-01",
+    "effective_to": null,
+    "owner_team": "Facilities",
+    "role_id": "ROLE-001",
+    "sla_days": 3,
+    "task_kind": "equipment_assignment",
+    "template_id": "TPL-ROLE-001-O-EQUIPMENT_ASSIGNMENT",
+    "work_location": "on_site"
+  },
+  {
+    "effective_from": "2025-01-01",
+    "effective_to": null,
+    "owner_team": "IT",
+    "role_id": "ROLE-001",
+    "sla_days": 3,
+    "task_kind": "access_provisioning",
+    "template_id": "TPL-ROLE-001-O-ACCESS_PROVISIONING",
+    "work_location": "on_site"
+  },
+  {
+    "effective_from": "2025-01-01",
+    "effective_to": null,
+    "owner_team": "HR",
+    "role_id": "ROLE-001",
+    "sla_days": 3,
+    "task_kind": "security_training",
+    "template_id": "TPL-ROLE-001-O-SECURITY_TRAINING",
+    "work_location": "on_site"
+  },
+  {
+    "effective_from": "2025-01-01",
+    "effective_to": null,
+    "owner_team": "Manager",
+    "role_id": "ROLE-001",
+    "sla_days": 3,
+    "task_kind": "first_day_checkin",
+    "template_id": "TPL-ROLE-001-O-FIRST_DAY_CHECKIN",
+    "work_location": "on_site"
+  },
+  {
+    "effective_from": "2025-01-01",
+    "effective_to": null,
+    "owner_team": "HR",
+    "role_id": "ROLE-002",
+    "sla_days": 1,
+    "task_kind": "identity_verification",
+    "template_id": "TPL-ROLE-002-R-IDENTITY_VERIFICATION",
+    "work_location": "remote"
+  },
+  {
+    "effective_from": "2025-01-01",
+    "effective_to": null,
+    "owner_team": "HR",
+    "role_id": "ROLE-002",
+    "sla_days": 3,
+    "task_kind": "background_check",
+    "template_id": "TPL-ROLE-002-R-BACKGROUND_CHECK",
+    "work_location": "remote"
+  },
+  {
+    "effective_from": "2025-01-01",
+    "effective_to": null,
+    "owner_team": "Manager",
+    "role_id": "ROLE-002",
+    "sla_days": 1,
+    "task_kind": "manager_approval",
+    "template_id": "TPL-ROLE-002-R-MANAGER_APPROVAL",
+    "work_location": "remote"
+  },
+  {
+    "effective_from": "2025-01-01",
+    "effective_to": null,
+    "owner_team": "IT",
+    "role_id": "ROLE-002",
+    "sla_days": 3,
+    "task_kind": "account_creation",
+    "template_id": "TPL-ROLE-002-R-ACCOUNT_CREATION",
+    "work_location": "remote"
+  },
+  {
+    "effective_from": "2025-01-01",
+    "effective_to": null,
+    "owner_team": "Facilities",
+    "role_id": "ROLE-002",
+    "sla_days": 3,
+    "task_kind": "equipment_assignment",
+    "template_id": "TPL-ROLE-002-R-EQUIPMENT_ASSIGNMENT",
+    "work_location": "remote"
+  },
+  {
+    "effective_from": "2025-01-01",
+    "effective_to": null,
+    "owner_team": "IT",
+    "role_id": "ROLE-002",
+    "sla_days": 3,
+    "task_kind": "access_provisioning",
+    "template_id": "TPL-ROLE-002-R-ACCESS_PROVISIONING",
+    "work_location": "remote"
+  },
+  {
+    "effective_from": "2025-01-01",
+    "effective_to": null,
+    "owner_team": "HR",
+    "role_id": "ROLE-002",
+    "sla_days": 3,
+    "task_kind": "security_training",
+    "template_id": "TPL-ROLE-002-R-SECURITY_TRAINING",
+    "work_location": "remote"
+  },
+  {
+    "effective_from": "2025-01-01",
+    "effective_to": null,
+    "owner_team": "Manager",
+    "role_id": "ROLE-002",
+    "sla_days": 3,
+    "task_kind": "first_day_checkin",
+    "template_id": "TPL-ROLE-002-R-FIRST_DAY_CHECKIN",
+    "work_location": "remote"
+  },
+  {
+    "effective_from": "2025-01-01",
+    "effective_to": null,
+    "owner_team": "HR",
+    "role_id": "ROLE-002",
+    "sla_days": 1,
+    "task_kind": "identity_verification",
+    "template_id": "TPL-ROLE-002-O-IDENTITY_VERIFICATION",
+    "work_location": "on_site"
+  },
+  {
+    "effective_from": "2025-01-01",
+    "effective_to": null,
+    "owner_team": "HR",
+    "role_id": "ROLE-002",
+    "sla_days": 3,
+    "task_kind": "background_check",
+    "template_id": "TPL-ROLE-002-O-BACKGROUND_CHECK",
+    "work_location": "on_site"
+  },
+  {
+    "effective_from": "2025-01-01",
+    "effective_to": null,
+    "owner_team": "Manager",
+    "role_id": "ROLE-002",
+    "sla_days": 1,
+    "task_kind": "manager_approval",
+    "template_id": "TPL-ROLE-002-O-MANAGER_APPROVAL",
+    "work_location": "on_site"
+  },
+  {
+    "effective_from": "2025-01-01",
+    "effective_to": null,
+    "owner_team": "IT",
+    "role_id": "ROLE-002",
+    "sla_days": 3,
+    "task_kind": "account_creation",
+    "template_id": "TPL-ROLE-002-O-ACCOUNT_CREATION",
+    "work_location": "on_site"
+  },
+  {
+    "effective_from": "2025-01-01",
+    "effective_to": null,
+    "owner_team": "Facilities",
+    "role_id": "ROLE-002",
+    "sla_days": 3,
+    "task_kind": "equipment_assignment",
+    "template_id": "TPL-ROLE-002-O-EQUIPMENT_ASSIGNMENT",
+    "work_location": "on_site"
+  },
+  {
+    "effective_from": "2025-01-01",
+    "effective_to": null,
+    "owner_team": "IT",
+    "role_id": "ROLE-002",
+    "sla_days": 3,
+    "task_kind": "access_provisioning",
+    "template_id": "TPL-ROLE-002-O-ACCESS_PROVISIONING",
+    "work_location": "on_site"
+  },
+  {
+    "effective_from": "2025-01-01",
+    "effective_to": null,
+    "owner_team": "HR",
+    "role_id": "ROLE-002",
+    "sla_days": 3,
+    "task_kind": "security_training",
+    "template_id": "TPL-ROLE-002-O-SECURITY_TRAINING",
+    "work_location": "on_site"
+  },
+  {
+    "effective_from": "2025-01-01",
+    "effective_to": null,
+    "owner_team": "Manager",
+    "role_id": "ROLE-002",
+    "sla_days": 3,
+    "task_kind": "first_day_checkin",
+    "template_id": "TPL-ROLE-002-O-FIRST_DAY_CHECKIN",
+    "work_location": "on_site"
+  },
+  {
+    "effective_from": "2025-01-01",
+    "effective_to": null,
+    "owner_team": "HR",
+    "role_id": "ROLE-003",
+    "sla_days": 1,
+    "task_kind": "identity_verification",
+    "template_id": "TPL-ROLE-003-R-IDENTITY_VERIFICATION",
+    "work_location": "remote"
+  },
+  {
+    "effective_from": "2025-01-01",
+    "effective_to": null,
+    "owner_team": "HR",
+    "role_id": "ROLE-003",
+    "sla_days": 3,
+    "task_kind": "background_check",
+    "template_id": "TPL-ROLE-003-R-BACKGROUND_CHECK",
+    "work_location": "remote"
+  },
+  {
+    "effective_from": "2025-01-01",
+    "effective_to": null,
+    "owner_team": "Manager",
+    "role_id": "ROLE-003",
+    "sla_days": 1,
+    "task_kind": "manager_approval",
+    "template_id": "TPL-ROLE-003-R-MANAGER_APPROVAL",
+    "work_location": "remote"
+  },
+  {
+    "effective_from": "2025-01-01",
+    "effective_to": null,
+    "owner_team": "IT",
+    "role_id": "ROLE-003",
+    "sla_days": 3,
+    "task_kind": "account_creation",
+    "template_id": "TPL-ROLE-003-R-ACCOUNT_CREATION",
+    "work_location": "remote"
+  },
+  {
+    "effective_from": "2025-01-01",
+    "effective_to": null,
+    "owner_team": "Facilities",
+    "role_id": "ROLE-003",
+    "sla_days": 3,
+    "task_kind": "equipment_assignment",
+    "template_id": "TPL-ROLE-003-R-EQUIPMENT_ASSIGNMENT",
+    "work_location": "remote"
+  },
+  {
+    "effective_from": "2025-01-01",
+    "effective_to": null,
+    "owner_team": "IT",
+    "role_id": "ROLE-003",
+    "sla_days": 3,
+    "task_kind": "access_provisioning",
+    "template_id": "TPL-ROLE-003-R-ACCESS_PROVISIONING",
+    "work_location": "remote"
+  },
+  {
+    "effective_from": "2025-01-01",
+    "effective_to": null,
+    "owner_team": "HR",
+    "role_id": "ROLE-003",
+    "sla_days": 3,
+    "task_kind": "security_training",
+    "template_id": "TPL-ROLE-003-R-SECURITY_TRAINING",
+    "work_location": "remote"
+  },
+  {
+    "effective_from": "2025-01-01",
+    "effective_to": null,
+    "owner_team": "Manager",
+    "role_id": "ROLE-003",
+    "sla_days": 3,
+    "task_kind": "first_day_checkin",
+    "template_id": "TPL-ROLE-003-R-FIRST_DAY_CHECKIN",
+    "work_location": "remote"
+  },
+  {
+    "effective_from": "2025-01-01",
+    "effective_to": null,
+    "owner_team": "HR",
+    "role_id": "ROLE-003",
+    "sla_days": 1,
+    "task_kind": "identity_verification",
+    "template_id": "TPL-ROLE-003-O-IDENTITY_VERIFICATION",
+    "work_location": "on_site"
+  },
+  {
+    "effective_from": "2025-01-01",
+    "effective_to": null,
+    "owner_team": "HR",
+    "role_id": "ROLE-003",
+    "sla_days": 3,
+    "task_kind": "background_check",
+    "template_id": "TPL-ROLE-003-O-BACKGROUND_CHECK",
+    "work_location": "on_site"
+  },
+  {
+    "effective_from": "2025-01-01",
+    "effective_to": null,
+    "owner_team": "Manager",
+    "role_id": "ROLE-003",
+    "sla_days": 1,
+    "task_kind": "manager_approval",
+    "template_id": "TPL-ROLE-003-O-MANAGER_APPROVAL",
+    "work_location": "on_site"
+  },
+  {
+    "effective_from": "2025-01-01",
+    "effective_to": null,
+    "owner_team": "IT",
+    "role_id": "ROLE-003",
+    "sla_days": 3,
+    "task_kind": "account_creation",
+    "template_id": "TPL-ROLE-003-O-ACCOUNT_CREATION",
+    "work_location": "on_site"
+  },
+  {
+    "effective_from": "2025-01-01",
+    "effective_to": null,
+    "owner_team": "Facilities",
+    "role_id": "ROLE-003",
+    "sla_days": 3,
+    "task_kind": "equipment_assignment",
+    "template_id": "TPL-ROLE-003-O-EQUIPMENT_ASSIGNMENT",
+    "work_location": "on_site"
+  },
+  {
+    "effective_from": "2025-01-01",
+    "effective_to": null,
+    "owner_team": "IT",
+    "role_id": "ROLE-003",
+    "sla_days": 3,
+    "task_kind": "access_provisioning",
+    "template_id": "TPL-ROLE-003-O-ACCESS_PROVISIONING",
+    "work_location": "on_site"
+  },
+  {
+    "effective_from": "2025-01-01",
+    "effective_to": null,
+    "owner_team": "HR",
+    "role_id": "ROLE-003",
+    "sla_days": 3,
+    "task_kind": "security_training",
+    "template_id": "TPL-ROLE-003-O-SECURITY_TRAINING",
+    "work_location": "on_site"
+  },
+  {
+    "effective_from": "2025-01-01",
+    "effective_to": null,
+    "owner_team": "Manager",
+    "role_id": "ROLE-003",
+    "sla_days": 3,
+    "task_kind": "first_day_checkin",
+    "template_id": "TPL-ROLE-003-O-FIRST_DAY_CHECKIN",
+    "work_location": "on_site"
+  },
+  {
+    "effective_from": "2025-01-01",
+    "effective_to": null,
+    "owner_team": "HR",
+    "role_id": "ROLE-004",
+    "sla_days": 1,
+    "task_kind": "identity_verification",
+    "template_id": "TPL-ROLE-004-R-IDENTITY_VERIFICATION",
+    "work_location": "remote"
+  },
+  {
+    "effective_from": "2025-01-01",
+    "effective_to": null,
+    "owner_team": "HR",
+    "role_id": "ROLE-004",
+    "sla_days": 3,
+    "task_kind": "background_check",
+    "template_id": "TPL-ROLE-004-R-BACKGROUND_CHECK",
+    "work_location": "remote"
+  },
+  {
+    "effective_from": "2025-01-01",
+    "effective_to": null,
+    "owner_team": "Manager",
+    "role_id": "ROLE-004",
+    "sla_days": 1,
+    "task_kind": "manager_approval",
+    "template_id": "TPL-ROLE-004-R-MANAGER_APPROVAL",
+    "work_location": "remote"
+  },
+  {
+    "effective_from": "2025-01-01",
+    "effective_to": null,
+    "owner_team": "IT",
+    "role_id": "ROLE-004",
+    "sla_days": 3,
+    "task_kind": "account_creation",
+    "template_id": "TPL-ROLE-004-R-ACCOUNT_CREATION",
+    "work_location": "remote"
+  },
+  {
+    "effective_from": "2025-01-01",
+    "effective_to": null,
+    "owner_team": "Facilities",
+    "role_id": "ROLE-004",
+    "sla_days": 3,
+    "task_kind": "equipment_assignment",
+    "template_id": "TPL-ROLE-004-R-EQUIPMENT_ASSIGNMENT",
+    "work_location": "remote"
+  },
+  {
+    "effective_from": "2025-01-01",
+    "effective_to": null,
+    "owner_team": "IT",
+    "role_id": "ROLE-004",
+    "sla_days": 3,
+    "task_kind": "access_provisioning",
+    "template_id": "TPL-ROLE-004-R-ACCESS_PROVISIONING",
+    "work_location": "remote"
+  },
+  {
+    "effective_from": "2025-01-01",
+    "effective_to": null,
+    "owner_team": "HR",
+    "role_id": "ROLE-004",
+    "sla_days": 3,
+    "task_kind": "security_training",
+    "template_id": "TPL-ROLE-004-R-SECURITY_TRAINING",
+    "work_location": "remote"
+  },
+  {
+    "effective_from": "2025-01-01",
+    "effective_to": null,
+    "owner_team": "Manager",
+    "role_id": "ROLE-004",
+    "sla_days": 3,
+    "task_kind": "first_day_checkin",
+    "template_id": "TPL-ROLE-004-R-FIRST_DAY_CHECKIN",
+    "work_location": "remote"
+  },
+  {
+    "effective_from": "2025-01-01",
+    "effective_to": null,
+    "owner_team": "HR",
+    "role_id": "ROLE-004",
+    "sla_days": 1,
+    "task_kind": "identity_verification",
+    "template_id": "TPL-ROLE-004-O-IDENTITY_VERIFICATION",
+    "work_location": "on_site"
+  },
+  {
+    "effective_from": "2025-01-01",
+    "effective_to": null,
+    "owner_team": "HR",
+    "role_id": "ROLE-004",
+    "sla_days": 3,
+    "task_kind": "background_check",
+    "template_id": "TPL-ROLE-004-O-BACKGROUND_CHECK",
+    "work_location": "on_site"
+  },
+  {
+    "effective_from": "2025-01-01",
+    "effective_to": null,
+    "owner_team": "Manager",
+    "role_id": "ROLE-004",
+    "sla_days": 1,
+    "task_kind": "manager_approval",
+    "template_id": "TPL-ROLE-004-O-MANAGER_APPROVAL",
+    "work_location": "on_site"
+  },
+  {
+    "effective_from": "2025-01-01",
+    "effective_to": null,
+    "owner_team": "IT",
+    "role_id": "ROLE-004",
+    "sla_days": 3,
+    "task_kind": "account_creation",
+    "template_id": "TPL-ROLE-004-O-ACCOUNT_CREATION",
+    "work_location": "on_site"
+  },
+  {
+    "effective_from": "2025-01-01",
+    "effective_to": null,
+    "owner_team": "Facilities",
+    "role_id": "ROLE-004",
+    "sla_days": 3,
+    "task_kind": "equipment_assignment",
+    "template_id": "TPL-ROLE-004-O-EQUIPMENT_ASSIGNMENT",
+    "work_location": "on_site"
+  },
+  {
+    "effective_from": "2025-01-01",
+    "effective_to": null,
+    "owner_team": "IT",
+    "role_id": "ROLE-004",
+    "sla_days": 3,
+    "task_kind": "access_provisioning",
+    "template_id": "TPL-ROLE-004-O-ACCESS_PROVISIONING",
+    "work_location": "on_site"
+  },
+  {
+    "effective_from": "2025-01-01",
+    "effective_to": null,
+    "owner_team": "HR",
+    "role_id": "ROLE-004",
+    "sla_days": 3,
+    "task_kind": "security_training",
+    "template_id": "TPL-ROLE-004-O-SECURITY_TRAINING",
+    "work_location": "on_site"
+  },
+  {
+    "effective_from": "2025-01-01",
+    "effective_to": null,
+    "owner_team": "Manager",
+    "role_id": "ROLE-004",
+    "sla_days": 3,
+    "task_kind": "first_day_checkin",
+    "template_id": "TPL-ROLE-004-O-FIRST_DAY_CHECKIN",
+    "work_location": "on_site"
+  },
+  {
+    "effective_from": "2025-01-01",
+    "effective_to": null,
+    "owner_team": "HR",
+    "role_id": "ROLE-005",
+    "sla_days": 1,
+    "task_kind": "identity_verification",
+    "template_id": "TPL-ROLE-005-R-IDENTITY_VERIFICATION",
+    "work_location": "remote"
+  },
+  {
+    "effective_from": "2025-01-01",
+    "effective_to": null,
+    "owner_team": "HR",
+    "role_id": "ROLE-005",
+    "sla_days": 3,
+    "task_kind": "background_check",
+    "template_id": "TPL-ROLE-005-R-BACKGROUND_CHECK",
+    "work_location": "remote"
+  },
+  {
+    "effective_from": "2025-01-01",
+    "effective_to": null,
+    "owner_team": "Manager",
+    "role_id": "ROLE-005",
+    "sla_days": 1,
+    "task_kind": "manager_approval",
+    "template_id": "TPL-ROLE-005-R-MANAGER_APPROVAL",
+    "work_location": "remote"
+  },
+  {
+    "effective_from": "2025-01-01",
+    "effective_to": null,
+    "owner_team": "IT",
+    "role_id": "ROLE-005",
+    "sla_days": 3,
+    "task_kind": "account_creation",
+    "template_id": "TPL-ROLE-005-R-ACCOUNT_CREATION",
+    "work_location": "remote"
+  },
+  {
+    "effective_from": "2025-01-01",
+    "effective_to": null,
+    "owner_team": "Facilities",
+    "role_id": "ROLE-005",
+    "sla_days": 3,
+    "task_kind": "equipment_assignment",
+    "template_id": "TPL-ROLE-005-R-EQUIPMENT_ASSIGNMENT",
+    "work_location": "remote"
+  },
+  {
+    "effective_from": "2025-01-01",
+    "effective_to": null,
+    "owner_team": "IT",
+    "role_id": "ROLE-005",
+    "sla_days": 3,
+    "task_kind": "access_provisioning",
+    "template_id": "TPL-ROLE-005-R-ACCESS_PROVISIONING",
+    "work_location": "remote"
+  },
+  {
+    "effective_from": "2025-01-01",
+    "effective_to": null,
+    "owner_team": "HR",
+    "role_id": "ROLE-005",
+    "sla_days": 3,
+    "task_kind": "security_training",
+    "template_id": "TPL-ROLE-005-R-SECURITY_TRAINING",
+    "work_location": "remote"
+  },
+  {
+    "effective_from": "2025-01-01",
+    "effective_to": null,
+    "owner_team": "Manager",
+    "role_id": "ROLE-005",
+    "sla_days": 3,
+    "task_kind": "first_day_checkin",
+    "template_id": "TPL-ROLE-005-R-FIRST_DAY_CHECKIN",
+    "work_location": "remote"
+  },
+  {
+    "effective_from": "2025-01-01",
+    "effective_to": null,
+    "owner_team": "HR",
+    "role_id": "ROLE-005",
+    "sla_days": 1,
+    "task_kind": "identity_verification",
+    "template_id": "TPL-ROLE-005-O-IDENTITY_VERIFICATION",
+    "work_location": "on_site"
+  },
+  {
+    "effective_from": "2025-01-01",
+    "effective_to": null,
+    "owner_team": "HR",
+    "role_id": "ROLE-005",
+    "sla_days": 3,
+    "task_kind": "background_check",
+    "template_id": "TPL-ROLE-005-O-BACKGROUND_CHECK",
+    "work_location": "on_site"
+  },
+  {
+    "effective_from": "2025-01-01",
+    "effective_to": null,
+    "owner_team": "Manager",
+    "role_id": "ROLE-005",
+    "sla_days": 1,
+    "task_kind": "manager_approval",
+    "template_id": "TPL-ROLE-005-O-MANAGER_APPROVAL",
+    "work_location": "on_site"
+  },
+  {
+    "effective_from": "2025-01-01",
+    "effective_to": null,
+    "owner_team": "IT",
+    "role_id": "ROLE-005",
+    "sla_days": 3,
+    "task_kind": "account_creation",
+    "template_id": "TPL-ROLE-005-O-ACCOUNT_CREATION",
+    "work_location": "on_site"
+  },
+  {
+    "effective_from": "2025-01-01",
+    "effective_to": null,
+    "owner_team": "Facilities",
+    "role_id": "ROLE-005",
+    "sla_days": 3,
+    "task_kind": "equipment_assignment",
+    "template_id": "TPL-ROLE-005-O-EQUIPMENT_ASSIGNMENT",
+    "work_location": "on_site"
+  },
+  {
+    "effective_from": "2025-01-01",
+    "effective_to": null,
+    "owner_team": "IT",
+    "role_id": "ROLE-005",
+    "sla_days": 3,
+    "task_kind": "access_provisioning",
+    "template_id": "TPL-ROLE-005-O-ACCESS_PROVISIONING",
+    "work_location": "on_site"
+  },
+  {
+    "effective_from": "2025-01-01",
+    "effective_to": null,
+    "owner_team": "HR",
+    "role_id": "ROLE-005",
+    "sla_days": 3,
+    "task_kind": "security_training",
+    "template_id": "TPL-ROLE-005-O-SECURITY_TRAINING",
+    "work_location": "on_site"
+  },
+  {
+    "effective_from": "2025-01-01",
+    "effective_to": null,
+    "owner_team": "Manager",
+    "role_id": "ROLE-005",
+    "sla_days": 3,
+    "task_kind": "first_day_checkin",
+    "template_id": "TPL-ROLE-005-O-FIRST_DAY_CHECKIN",
+    "work_location": "on_site"
+  },
+  {
+    "effective_from": "2025-01-01",
+    "effective_to": null,
+    "owner_team": "HR",
+    "role_id": "ROLE-006",
+    "sla_days": 1,
+    "task_kind": "identity_verification",
+    "template_id": "TPL-ROLE-006-R-IDENTITY_VERIFICATION",
+    "work_location": "remote"
+  },
+  {
+    "effective_from": "2025-01-01",
+    "effective_to": null,
+    "owner_team": "HR",
+    "role_id": "ROLE-006",
+    "sla_days": 3,
+    "task_kind": "background_check",
+    "template_id": "TPL-ROLE-006-R-BACKGROUND_CHECK",
+    "work_location": "remote"
+  },
+  {
+    "effective_from": "2025-01-01",
+    "effective_to": null,
+    "owner_team": "Manager",
+    "role_id": "ROLE-006",
+    "sla_days": 1,
+    "task_kind": "manager_approval",
+    "template_id": "TPL-ROLE-006-R-MANAGER_APPROVAL",
+    "work_location": "remote"
+  },
+  {
+    "effective_from": "2025-01-01",
+    "effective_to": null,
+    "owner_team": "IT",
+    "role_id": "ROLE-006",
+    "sla_days": 3,
+    "task_kind": "account_creation",
+    "template_id": "TPL-ROLE-006-R-ACCOUNT_CREATION",
+    "work_location": "remote"
+  },
+  {
+    "effective_from": "2025-01-01",
+    "effective_to": null,
+    "owner_team": "Facilities",
+    "role_id": "ROLE-006",
+    "sla_days": 3,
+    "task_kind": "equipment_assignment",
+    "template_id": "TPL-ROLE-006-R-EQUIPMENT_ASSIGNMENT",
+    "work_location": "remote"
+  },
+  {
+    "effective_from": "2025-01-01",
+    "effective_to": null,
+    "owner_team": "IT",
+    "role_id": "ROLE-006",
+    "sla_days": 3,
+    "task_kind": "access_provisioning",
+    "template_id": "TPL-ROLE-006-R-ACCESS_PROVISIONING",
+    "work_location": "remote"
+  },
+  {
+    "effective_from": "2025-01-01",
+    "effective_to": null,
+    "owner_team": "HR",
+    "role_id": "ROLE-006",
+    "sla_days": 3,
+    "task_kind": "security_training",
+    "template_id": "TPL-ROLE-006-R-SECURITY_TRAINING",
+    "work_location": "remote"
+  },
+  {
+    "effective_from": "2025-01-01",
+    "effective_to": null,
+    "owner_team": "Manager",
+    "role_id": "ROLE-006",
+    "sla_days": 3,
+    "task_kind": "first_day_checkin",
+    "template_id": "TPL-ROLE-006-R-FIRST_DAY_CHECKIN",
+    "work_location": "remote"
+  },
+  {
+    "effective_from": "2025-01-01",
+    "effective_to": null,
+    "owner_team": "HR",
+    "role_id": "ROLE-006",
+    "sla_days": 1,
+    "task_kind": "identity_verification",
+    "template_id": "TPL-ROLE-006-O-IDENTITY_VERIFICATION",
+    "work_location": "on_site"
+  },
+  {
+    "effective_from": "2025-01-01",
+    "effective_to": null,
+    "owner_team": "HR",
+    "role_id": "ROLE-006",
+    "sla_days": 3,
+    "task_kind": "background_check",
+    "template_id": "TPL-ROLE-006-O-BACKGROUND_CHECK",
+    "work_location": "on_site"
+  },
+  {
+    "effective_from": "2025-01-01",
+    "effective_to": null,
+    "owner_team": "Manager",
+    "role_id": "ROLE-006",
+    "sla_days": 1,
+    "task_kind": "manager_approval",
+    "template_id": "TPL-ROLE-006-O-MANAGER_APPROVAL",
+    "work_location": "on_site"
+  },
+  {
+    "effective_from": "2025-01-01",
+    "effective_to": null,
+    "owner_team": "IT",
+    "role_id": "ROLE-006",
+    "sla_days": 3,
+    "task_kind": "account_creation",
+    "template_id": "TPL-ROLE-006-O-ACCOUNT_CREATION",
+    "work_location": "on_site"
+  },
+  {
+    "effective_from": "2025-01-01",
+    "effective_to": null,
+    "owner_team": "Facilities",
+    "role_id": "ROLE-006",
+    "sla_days": 3,
+    "task_kind": "equipment_assignment",
+    "template_id": "TPL-ROLE-006-O-EQUIPMENT_ASSIGNMENT",
+    "work_location": "on_site"
+  },
+  {
+    "effective_from": "2025-01-01",
+    "effective_to": null,
+    "owner_team": "IT",
+    "role_id": "ROLE-006",
+    "sla_days": 3,
+    "task_kind": "access_provisioning",
+    "template_id": "TPL-ROLE-006-O-ACCESS_PROVISIONING",
+    "work_location": "on_site"
+  },
+  {
+    "effective_from": "2025-01-01",
+    "effective_to": null,
+    "owner_team": "HR",
+    "role_id": "ROLE-006",
+    "sla_days": 3,
+    "task_kind": "security_training",
+    "template_id": "TPL-ROLE-006-O-SECURITY_TRAINING",
+    "work_location": "on_site"
+  },
+  {
+    "effective_from": "2025-01-01",
+    "effective_to": null,
+    "owner_team": "Manager",
+    "role_id": "ROLE-006",
+    "sla_days": 3,
+    "task_kind": "first_day_checkin",
+    "template_id": "TPL-ROLE-006-O-FIRST_DAY_CHECKIN",
+    "work_location": "on_site"
+  },
+  {
+    "effective_from": "2025-01-01",
+    "effective_to": null,
+    "owner_team": "HR",
+    "role_id": "ROLE-007",
+    "sla_days": 1,
+    "task_kind": "identity_verification",
+    "template_id": "TPL-ROLE-007-R-IDENTITY_VERIFICATION",
+    "work_location": "remote"
+  },
+  {
+    "effective_from": "2025-01-01",
+    "effective_to": null,
+    "owner_team": "HR",
+    "role_id": "ROLE-007",
+    "sla_days": 3,
+    "task_kind": "background_check",
+    "template_id": "TPL-ROLE-007-R-BACKGROUND_CHECK",
+    "work_location": "remote"
+  },
+  {
+    "effective_from": "2025-01-01",
+    "effective_to": null,
+    "owner_team": "Manager",
+    "role_id": "ROLE-007",
+    "sla_days": 1,
+    "task_kind": "manager_approval",
+    "template_id": "TPL-ROLE-007-R-MANAGER_APPROVAL",
+    "work_location": "remote"
+  },
+  {
+    "effective_from": "2025-01-01",
+    "effective_to": null,
+    "owner_team": "IT",
+    "role_id": "ROLE-007",
+    "sla_days": 3,
+    "task_kind": "account_creation",
+    "template_id": "TPL-ROLE-007-R-ACCOUNT_CREATION",
+    "work_location": "remote"
+  },
+  {
+    "effective_from": "2025-01-01",
+    "effective_to": null,
+    "owner_team": "Facilities",
+    "role_id": "ROLE-007",
+    "sla_days": 3,
+    "task_kind": "equipment_assignment",
+    "template_id": "TPL-ROLE-007-R-EQUIPMENT_ASSIGNMENT",
+    "work_location": "remote"
+  },
+  {
+    "effective_from": "2025-01-01",
+    "effective_to": null,
+    "owner_team": "IT",
+    "role_id": "ROLE-007",
+    "sla_days": 3,
+    "task_kind": "access_provisioning",
+    "template_id": "TPL-ROLE-007-R-ACCESS_PROVISIONING",
+    "work_location": "remote"
+  },
+  {
+    "effective_from": "2025-01-01",
+    "effective_to": null,
+    "owner_team": "HR",
+    "role_id": "ROLE-007",
+    "sla_days": 3,
+    "task_kind": "security_training",
+    "template_id": "TPL-ROLE-007-R-SECURITY_TRAINING",
+    "work_location": "remote"
+  },
+  {
+    "effective_from": "2025-01-01",
+    "effective_to": null,
+    "owner_team": "Manager",
+    "role_id": "ROLE-007",
+    "sla_days": 3,
+    "task_kind": "first_day_checkin",
+    "template_id": "TPL-ROLE-007-R-FIRST_DAY_CHECKIN",
+    "work_location": "remote"
+  },
+  {
+    "effective_from": "2025-01-01",
+    "effective_to": null,
+    "owner_team": "HR",
+    "role_id": "ROLE-007",
+    "sla_days": 1,
+    "task_kind": "identity_verification",
+    "template_id": "TPL-ROLE-007-O-IDENTITY_VERIFICATION",
+    "work_location": "on_site"
+  },
+  {
+    "effective_from": "2025-01-01",
+    "effective_to": null,
+    "owner_team": "HR",
+    "role_id": "ROLE-007",
+    "sla_days": 3,
+    "task_kind": "background_check",
+    "template_id": "TPL-ROLE-007-O-BACKGROUND_CHECK",
+    "work_location": "on_site"
+  },
+  {
+    "effective_from": "2025-01-01",
+    "effective_to": null,
+    "owner_team": "Manager",
+    "role_id": "ROLE-007",
+    "sla_days": 1,
+    "task_kind": "manager_approval",
+    "template_id": "TPL-ROLE-007-O-MANAGER_APPROVAL",
+    "work_location": "on_site"
+  },
+  {
+    "effective_from": "2025-01-01",
+    "effective_to": null,
+    "owner_team": "IT",
+    "role_id": "ROLE-007",
+    "sla_days": 3,
+    "task_kind": "account_creation",
+    "template_id": "TPL-ROLE-007-O-ACCOUNT_CREATION",
+    "work_location": "on_site"
+  },
+  {
+    "effective_from": "2025-01-01",
+    "effective_to": null,
+    "owner_team": "Facilities",
+    "role_id": "ROLE-007",
+    "sla_days": 3,
+    "task_kind": "equipment_assignment",
+    "template_id": "TPL-ROLE-007-O-EQUIPMENT_ASSIGNMENT",
+    "work_location": "on_site"
+  },
+  {
+    "effective_from": "2025-01-01",
+    "effective_to": null,
+    "owner_team": "IT",
+    "role_id": "ROLE-007",
+    "sla_days": 3,
+    "task_kind": "access_provisioning",
+    "template_id": "TPL-ROLE-007-O-ACCESS_PROVISIONING",
+    "work_location": "on_site"
+  },
+  {
+    "effective_from": "2025-01-01",
+    "effective_to": null,
+    "owner_team": "HR",
+    "role_id": "ROLE-007",
+    "sla_days": 3,
+    "task_kind": "security_training",
+    "template_id": "TPL-ROLE-007-O-SECURITY_TRAINING",
+    "work_location": "on_site"
+  },
+  {
+    "effective_from": "2025-01-01",
+    "effective_to": null,
+    "owner_team": "Manager",
+    "role_id": "ROLE-007",
+    "sla_days": 3,
+    "task_kind": "first_day_checkin",
+    "template_id": "TPL-ROLE-007-O-FIRST_DAY_CHECKIN",
+    "work_location": "on_site"
+  },
+  {
+    "effective_from": "2025-01-01",
+    "effective_to": null,
+    "owner_team": "HR",
+    "role_id": "ROLE-008",
+    "sla_days": 1,
+    "task_kind": "identity_verification",
+    "template_id": "TPL-ROLE-008-R-IDENTITY_VERIFICATION",
+    "work_location": "remote"
+  },
+  {
+    "effective_from": "2025-01-01",
+    "effective_to": null,
+    "owner_team": "HR",
+    "role_id": "ROLE-008",
+    "sla_days": 3,
+    "task_kind": "background_check",
+    "template_id": "TPL-ROLE-008-R-BACKGROUND_CHECK",
+    "work_location": "remote"
+  },
+  {
+    "effective_from": "2025-01-01",
+    "effective_to": null,
+    "owner_team": "Manager",
+    "role_id": "ROLE-008",
+    "sla_days": 1,
+    "task_kind": "manager_approval",
+    "template_id": "TPL-ROLE-008-R-MANAGER_APPROVAL",
+    "work_location": "remote"
+  },
+  {
+    "effective_from": "2025-01-01",
+    "effective_to": null,
+    "owner_team": "IT",
+    "role_id": "ROLE-008",
+    "sla_days": 3,
+    "task_kind": "account_creation",
+    "template_id": "TPL-ROLE-008-R-ACCOUNT_CREATION",
+    "work_location": "remote"
+  },
+  {
+    "effective_from": "2025-01-01",
+    "effective_to": null,
+    "owner_team": "Facilities",
+    "role_id": "ROLE-008",
+    "sla_days": 3,
+    "task_kind": "equipment_assignment",
+    "template_id": "TPL-ROLE-008-R-EQUIPMENT_ASSIGNMENT",
+    "work_location": "remote"
+  },
+  {
+    "effective_from": "2025-01-01",
+    "effective_to": null,
+    "owner_team": "IT",
+    "role_id": "ROLE-008",
+    "sla_days": 3,
+    "task_kind": "access_provisioning",
+    "template_id": "TPL-ROLE-008-R-ACCESS_PROVISIONING",
+    "work_location": "remote"
+  },
+  {
+    "effective_from": "2025-01-01",
+    "effective_to": null,
+    "owner_team": "HR",
+    "role_id": "ROLE-008",
+    "sla_days": 3,
+    "task_kind": "security_training",
+    "template_id": "TPL-ROLE-008-R-SECURITY_TRAINING",
+    "work_location": "remote"
+  },
+  {
+    "effective_from": "2025-01-01",
+    "effective_to": null,
+    "owner_team": "Manager",
+    "role_id": "ROLE-008",
+    "sla_days": 3,
+    "task_kind": "first_day_checkin",
+    "template_id": "TPL-ROLE-008-R-FIRST_DAY_CHECKIN",
+    "work_location": "remote"
+  },
+  {
+    "effective_from": "2025-01-01",
+    "effective_to": null,
+    "owner_team": "HR",
+    "role_id": "ROLE-008",
+    "sla_days": 1,
+    "task_kind": "identity_verification",
+    "template_id": "TPL-ROLE-008-O-IDENTITY_VERIFICATION",
+    "work_location": "on_site"
+  },
+  {
+    "effective_from": "2025-01-01",
+    "effective_to": null,
+    "owner_team": "HR",
+    "role_id": "ROLE-008",
+    "sla_days": 3,
+    "task_kind": "background_check",
+    "template_id": "TPL-ROLE-008-O-BACKGROUND_CHECK",
+    "work_location": "on_site"
+  },
+  {
+    "effective_from": "2025-01-01",
+    "effective_to": null,
+    "owner_team": "Manager",
+    "role_id": "ROLE-008",
+    "sla_days": 1,
+    "task_kind": "manager_approval",
+    "template_id": "TPL-ROLE-008-O-MANAGER_APPROVAL",
+    "work_location": "on_site"
+  },
+  {
+    "effective_from": "2025-01-01",
+    "effective_to": null,
+    "owner_team": "IT",
+    "role_id": "ROLE-008",
+    "sla_days": 3,
+    "task_kind": "account_creation",
+    "template_id": "TPL-ROLE-008-O-ACCOUNT_CREATION",
+    "work_location": "on_site"
+  },
+  {
+    "effective_from": "2025-01-01",
+    "effective_to": null,
+    "owner_team": "Facilities",
+    "role_id": "ROLE-008",
+    "sla_days": 3,
+    "task_kind": "equipment_assignment",
+    "template_id": "TPL-ROLE-008-O-EQUIPMENT_ASSIGNMENT",
+    "work_location": "on_site"
+  },
+  {
+    "effective_from": "2025-01-01",
+    "effective_to": null,
+    "owner_team": "IT",
+    "role_id": "ROLE-008",
+    "sla_days": 3,
+    "task_kind": "access_provisioning",
+    "template_id": "TPL-ROLE-008-O-ACCESS_PROVISIONING",
+    "work_location": "on_site"
+  },
+  {
+    "effective_from": "2025-01-01",
+    "effective_to": null,
+    "owner_team": "HR",
+    "role_id": "ROLE-008",
+    "sla_days": 3,
+    "task_kind": "security_training",
+    "template_id": "TPL-ROLE-008-O-SECURITY_TRAINING",
+    "work_location": "on_site"
+  },
+  {
+    "effective_from": "2025-01-01",
+    "effective_to": null,
+    "owner_team": "Manager",
+    "role_id": "ROLE-008",
+    "sla_days": 3,
+    "task_kind": "first_day_checkin",
+    "template_id": "TPL-ROLE-008-O-FIRST_DAY_CHECKIN",
+    "work_location": "on_site"
+  },
+  {
+    "effective_from": "2025-01-01",
+    "effective_to": null,
+    "owner_team": "HR",
+    "role_id": "ROLE-009",
+    "sla_days": 1,
+    "task_kind": "identity_verification",
+    "template_id": "TPL-ROLE-009-R-IDENTITY_VERIFICATION",
+    "work_location": "remote"
+  },
+  {
+    "effective_from": "2025-01-01",
+    "effective_to": null,
+    "owner_team": "HR",
+    "role_id": "ROLE-009",
+    "sla_days": 3,
+    "task_kind": "background_check",
+    "template_id": "TPL-ROLE-009-R-BACKGROUND_CHECK",
+    "work_location": "remote"
+  },
+  {
+    "effective_from": "2025-01-01",
+    "effective_to": null,
+    "owner_team": "Manager",
+    "role_id": "ROLE-009",
+    "sla_days": 1,
+    "task_kind": "manager_approval",
+    "template_id": "TPL-ROLE-009-R-MANAGER_APPROVAL",
+    "work_location": "remote"
+  },
+  {
+    "effective_from": "2025-01-01",
+    "effective_to": null,
+    "owner_team": "IT",
+    "role_id": "ROLE-009",
+    "sla_days": 3,
+    "task_kind": "account_creation",
+    "template_id": "TPL-ROLE-009-R-ACCOUNT_CREATION",
+    "work_location": "remote"
+  },
+  {
+    "effective_from": "2025-01-01",
+    "effective_to": null,
+    "owner_team": "Facilities",
+    "role_id": "ROLE-009",
+    "sla_days": 3,
+    "task_kind": "equipment_assignment",
+    "template_id": "TPL-ROLE-009-R-EQUIPMENT_ASSIGNMENT",
+    "work_location": "remote"
+  },
+  {
+    "effective_from": "2025-01-01",
+    "effective_to": null,
+    "owner_team": "IT",
+    "role_id": "ROLE-009",
+    "sla_days": 3,
+    "task_kind": "access_provisioning",
+    "template_id": "TPL-ROLE-009-R-ACCESS_PROVISIONING",
+    "work_location": "remote"
+  },
+  {
+    "effective_from": "2025-01-01",
+    "effective_to": null,
+    "owner_team": "HR",
+    "role_id": "ROLE-009",
+    "sla_days": 3,
+    "task_kind": "security_training",
+    "template_id": "TPL-ROLE-009-R-SECURITY_TRAINING",
+    "work_location": "remote"
+  },
+  {
+    "effective_from": "2025-01-01",
+    "effective_to": null,
+    "owner_team": "Manager",
+    "role_id": "ROLE-009",
+    "sla_days": 3,
+    "task_kind": "first_day_checkin",
+    "template_id": "TPL-ROLE-009-R-FIRST_DAY_CHECKIN",
+    "work_location": "remote"
+  },
+  {
+    "effective_from": "2025-01-01",
+    "effective_to": null,
+    "owner_team": "HR",
+    "role_id": "ROLE-009",
+    "sla_days": 1,
+    "task_kind": "identity_verification",
+    "template_id": "TPL-ROLE-009-O-IDENTITY_VERIFICATION",
+    "work_location": "on_site"
+  },
+  {
+    "effective_from": "2025-01-01",
+    "effective_to": null,
+    "owner_team": "HR",
+    "role_id": "ROLE-009",
+    "sla_days": 3,
+    "task_kind": "background_check",
+    "template_id": "TPL-ROLE-009-O-BACKGROUND_CHECK",
+    "work_location": "on_site"
+  },
+  {
+    "effective_from": "2025-01-01",
+    "effective_to": null,
+    "owner_team": "Manager",
+    "role_id": "ROLE-009",
+    "sla_days": 1,
+    "task_kind": "manager_approval",
+    "template_id": "TPL-ROLE-009-O-MANAGER_APPROVAL",
+    "work_location": "on_site"
+  },
+  {
+    "effective_from": "2025-01-01",
+    "effective_to": null,
+    "owner_team": "IT",
+    "role_id": "ROLE-009",
+    "sla_days": 3,
+    "task_kind": "account_creation",
+    "template_id": "TPL-ROLE-009-O-ACCOUNT_CREATION",
+    "work_location": "on_site"
+  },
+  {
+    "effective_from": "2025-01-01",
+    "effective_to": null,
+    "owner_team": "Facilities",
+    "role_id": "ROLE-009",
+    "sla_days": 3,
+    "task_kind": "equipment_assignment",
+    "template_id": "TPL-ROLE-009-O-EQUIPMENT_ASSIGNMENT",
+    "work_location": "on_site"
+  },
+  {
+    "effective_from": "2025-01-01",
+    "effective_to": null,
+    "owner_team": "IT",
+    "role_id": "ROLE-009",
+    "sla_days": 3,
+    "task_kind": "access_provisioning",
+    "template_id": "TPL-ROLE-009-O-ACCESS_PROVISIONING",
+    "work_location": "on_site"
+  },
+  {
+    "effective_from": "2025-01-01",
+    "effective_to": null,
+    "owner_team": "HR",
+    "role_id": "ROLE-009",
+    "sla_days": 3,
+    "task_kind": "security_training",
+    "template_id": "TPL-ROLE-009-O-SECURITY_TRAINING",
+    "work_location": "on_site"
+  },
+  {
+    "effective_from": "2025-01-01",
+    "effective_to": null,
+    "owner_team": "Manager",
+    "role_id": "ROLE-009",
+    "sla_days": 3,
+    "task_kind": "first_day_checkin",
+    "template_id": "TPL-ROLE-009-O-FIRST_DAY_CHECKIN",
+    "work_location": "on_site"
+  },
+  {
+    "effective_from": "2025-01-01",
+    "effective_to": null,
+    "owner_team": "HR",
+    "role_id": "ROLE-010",
+    "sla_days": 1,
+    "task_kind": "identity_verification",
+    "template_id": "TPL-ROLE-010-R-IDENTITY_VERIFICATION",
+    "work_location": "remote"
+  },
+  {
+    "effective_from": "2025-01-01",
+    "effective_to": null,
+    "owner_team": "HR",
+    "role_id": "ROLE-010",
+    "sla_days": 3,
+    "task_kind": "background_check",
+    "template_id": "TPL-ROLE-010-R-BACKGROUND_CHECK",
+    "work_location": "remote"
+  },
+  {
+    "effective_from": "2025-01-01",
+    "effective_to": null,
+    "owner_team": "Manager",
+    "role_id": "ROLE-010",
+    "sla_days": 1,
+    "task_kind": "manager_approval",
+    "template_id": "TPL-ROLE-010-R-MANAGER_APPROVAL",
+    "work_location": "remote"
+  },
+  {
+    "effective_from": "2025-01-01",
+    "effective_to": null,
+    "owner_team": "IT",
+    "role_id": "ROLE-010",
+    "sla_days": 3,
+    "task_kind": "account_creation",
+    "template_id": "TPL-ROLE-010-R-ACCOUNT_CREATION",
+    "work_location": "remote"
+  },
+  {
+    "effective_from": "2025-01-01",
+    "effective_to": null,
+    "owner_team": "Facilities",
+    "role_id": "ROLE-010",
+    "sla_days": 3,
+    "task_kind": "equipment_assignment",
+    "template_id": "TPL-ROLE-010-R-EQUIPMENT_ASSIGNMENT",
+    "work_location": "remote"
+  },
+  {
+    "effective_from": "2025-01-01",
+    "effective_to": null,
+    "owner_team": "IT",
+    "role_id": "ROLE-010",
+    "sla_days": 3,
+    "task_kind": "access_provisioning",
+    "template_id": "TPL-ROLE-010-R-ACCESS_PROVISIONING",
+    "work_location": "remote"
+  },
+  {
+    "effective_from": "2025-01-01",
+    "effective_to": null,
+    "owner_team": "HR",
+    "role_id": "ROLE-010",
+    "sla_days": 3,
+    "task_kind": "security_training",
+    "template_id": "TPL-ROLE-010-R-SECURITY_TRAINING",
+    "work_location": "remote"
+  },
+  {
+    "effective_from": "2025-01-01",
+    "effective_to": null,
+    "owner_team": "Manager",
+    "role_id": "ROLE-010",
+    "sla_days": 3,
+    "task_kind": "first_day_checkin",
+    "template_id": "TPL-ROLE-010-R-FIRST_DAY_CHECKIN",
+    "work_location": "remote"
+  },
+  {
+    "effective_from": "2025-01-01",
+    "effective_to": null,
+    "owner_team": "HR",
+    "role_id": "ROLE-010",
+    "sla_days": 1,
+    "task_kind": "identity_verification",
+    "template_id": "TPL-ROLE-010-O-IDENTITY_VERIFICATION",
+    "work_location": "on_site"
+  },
+  {
+    "effective_from": "2025-01-01",
+    "effective_to": null,
+    "owner_team": "HR",
+    "role_id": "ROLE-010",
+    "sla_days": 3,
+    "task_kind": "background_check",
+    "template_id": "TPL-ROLE-010-O-BACKGROUND_CHECK",
+    "work_location": "on_site"
+  },
+  {
+    "effective_from": "2025-01-01",
+    "effective_to": null,
+    "owner_team": "Manager",
+    "role_id": "ROLE-010",
+    "sla_days": 1,
+    "task_kind": "manager_approval",
+    "template_id": "TPL-ROLE-010-O-MANAGER_APPROVAL",
+    "work_location": "on_site"
+  },
+  {
+    "effective_from": "2025-01-01",
+    "effective_to": null,
+    "owner_team": "IT",
+    "role_id": "ROLE-010",
+    "sla_days": 3,
+    "task_kind": "account_creation",
+    "template_id": "TPL-ROLE-010-O-ACCOUNT_CREATION",
+    "work_location": "on_site"
+  },
+  {
+    "effective_from": "2025-01-01",
+    "effective_to": null,
+    "owner_team": "Facilities",
+    "role_id": "ROLE-010",
+    "sla_days": 3,
+    "task_kind": "equipment_assignment",
+    "template_id": "TPL-ROLE-010-O-EQUIPMENT_ASSIGNMENT",
+    "work_location": "on_site"
+  },
+  {
+    "effective_from": "2025-01-01",
+    "effective_to": null,
+    "owner_team": "IT",
+    "role_id": "ROLE-010",
+    "sla_days": 3,
+    "task_kind": "access_provisioning",
+    "template_id": "TPL-ROLE-010-O-ACCESS_PROVISIONING",
+    "work_location": "on_site"
+  },
+  {
+    "effective_from": "2025-01-01",
+    "effective_to": null,
+    "owner_team": "HR",
+    "role_id": "ROLE-010",
+    "sla_days": 3,
+    "task_kind": "security_training",
+    "template_id": "TPL-ROLE-010-O-SECURITY_TRAINING",
+    "work_location": "on_site"
+  },
+  {
+    "effective_from": "2025-01-01",
+    "effective_to": null,
+    "owner_team": "Manager",
+    "role_id": "ROLE-010",
+    "sla_days": 3,
+    "task_kind": "first_day_checkin",
+    "template_id": "TPL-ROLE-010-O-FIRST_DAY_CHECKIN",
+    "work_location": "on_site"
+  },
+  {
+    "effective_from": "2025-01-01",
+    "effective_to": null,
+    "owner_team": "HR",
+    "role_id": "ROLE-011",
+    "sla_days": 1,
+    "task_kind": "identity_verification",
+    "template_id": "TPL-ROLE-011-R-IDENTITY_VERIFICATION",
+    "work_location": "remote"
+  },
+  {
+    "effective_from": "2025-01-01",
+    "effective_to": null,
+    "owner_team": "HR",
+    "role_id": "ROLE-011",
+    "sla_days": 3,
+    "task_kind": "background_check",
+    "template_id": "TPL-ROLE-011-R-BACKGROUND_CHECK",
+    "work_location": "remote"
+  },
+  {
+    "effective_from": "2025-01-01",
+    "effective_to": null,
+    "owner_team": "Manager",
+    "role_id": "ROLE-011",
+    "sla_days": 1,
+    "task_kind": "manager_approval",
+    "template_id": "TPL-ROLE-011-R-MANAGER_APPROVAL",
+    "work_location": "remote"
+  },
+  {
+    "effective_from": "2025-01-01",
+    "effective_to": null,
+    "owner_team": "IT",
+    "role_id": "ROLE-011",
+    "sla_days": 3,
+    "task_kind": "account_creation",
+    "template_id": "TPL-ROLE-011-R-ACCOUNT_CREATION",
+    "work_location": "remote"
+  },
+  {
+    "effective_from": "2025-01-01",
+    "effective_to": null,
+    "owner_team": "Facilities",
+    "role_id": "ROLE-011",
+    "sla_days": 3,
+    "task_kind": "equipment_assignment",
+    "template_id": "TPL-ROLE-011-R-EQUIPMENT_ASSIGNMENT",
+    "work_location": "remote"
+  },
+  {
+    "effective_from": "2025-01-01",
+    "effective_to": null,
+    "owner_team": "IT",
+    "role_id": "ROLE-011",
+    "sla_days": 3,
+    "task_kind": "access_provisioning",
+    "template_id": "TPL-ROLE-011-R-ACCESS_PROVISIONING",
+    "work_location": "remote"
+  },
+  {
+    "effective_from": "2025-01-01",
+    "effective_to": null,
+    "owner_team": "HR",
+    "role_id": "ROLE-011",
+    "sla_days": 3,
+    "task_kind": "security_training",
+    "template_id": "TPL-ROLE-011-R-SECURITY_TRAINING",
+    "work_location": "remote"
+  },
+  {
+    "effective_from": "2025-01-01",
+    "effective_to": null,
+    "owner_team": "Manager",
+    "role_id": "ROLE-011",
+    "sla_days": 3,
+    "task_kind": "first_day_checkin",
+    "template_id": "TPL-ROLE-011-R-FIRST_DAY_CHECKIN",
+    "work_location": "remote"
+  },
+  {
+    "effective_from": "2025-01-01",
+    "effective_to": null,
+    "owner_team": "HR",
+    "role_id": "ROLE-011",
+    "sla_days": 1,
+    "task_kind": "identity_verification",
+    "template_id": "TPL-ROLE-011-O-IDENTITY_VERIFICATION",
+    "work_location": "on_site"
+  },
+  {
+    "effective_from": "2025-01-01",
+    "effective_to": null,
+    "owner_team": "HR",
+    "role_id": "ROLE-011",
+    "sla_days": 3,
+    "task_kind": "background_check",
+    "template_id": "TPL-ROLE-011-O-BACKGROUND_CHECK",
+    "work_location": "on_site"
+  },
+  {
+    "effective_from": "2025-01-01",
+    "effective_to": null,
+    "owner_team": "Manager",
+    "role_id": "ROLE-011",
+    "sla_days": 1,
+    "task_kind": "manager_approval",
+    "template_id": "TPL-ROLE-011-O-MANAGER_APPROVAL",
+    "work_location": "on_site"
+  },
+  {
+    "effective_from": "2025-01-01",
+    "effective_to": null,
+    "owner_team": "IT",
+    "role_id": "ROLE-011",
+    "sla_days": 3,
+    "task_kind": "account_creation",
+    "template_id": "TPL-ROLE-011-O-ACCOUNT_CREATION",
+    "work_location": "on_site"
+  },
+  {
+    "effective_from": "2025-01-01",
+    "effective_to": null,
+    "owner_team": "Facilities",
+    "role_id": "ROLE-011",
+    "sla_days": 3,
+    "task_kind": "equipment_assignment",
+    "template_id": "TPL-ROLE-011-O-EQUIPMENT_ASSIGNMENT",
+    "work_location": "on_site"
+  },
+  {
+    "effective_from": "2025-01-01",
+    "effective_to": null,
+    "owner_team": "IT",
+    "role_id": "ROLE-011",
+    "sla_days": 3,
+    "task_kind": "access_provisioning",
+    "template_id": "TPL-ROLE-011-O-ACCESS_PROVISIONING",
+    "work_location": "on_site"
+  },
+  {
+    "effective_from": "2025-01-01",
+    "effective_to": null,
+    "owner_team": "HR",
+    "role_id": "ROLE-011",
+    "sla_days": 3,
+    "task_kind": "security_training",
+    "template_id": "TPL-ROLE-011-O-SECURITY_TRAINING",
+    "work_location": "on_site"
+  },
+  {
+    "effective_from": "2025-01-01",
+    "effective_to": null,
+    "owner_team": "Manager",
+    "role_id": "ROLE-011",
+    "sla_days": 3,
+    "task_kind": "first_day_checkin",
+    "template_id": "TPL-ROLE-011-O-FIRST_DAY_CHECKIN",
+    "work_location": "on_site"
+  },
+  {
+    "effective_from": "2025-01-01",
+    "effective_to": null,
+    "owner_team": "HR",
+    "role_id": "ROLE-012",
+    "sla_days": 1,
+    "task_kind": "identity_verification",
+    "template_id": "TPL-ROLE-012-R-IDENTITY_VERIFICATION",
+    "work_location": "remote"
+  },
+  {
+    "effective_from": "2025-01-01",
+    "effective_to": null,
+    "owner_team": "HR",
+    "role_id": "ROLE-012",
+    "sla_days": 3,
+    "task_kind": "background_check",
+    "template_id": "TPL-ROLE-012-R-BACKGROUND_CHECK",
+    "work_location": "remote"
+  },
+  {
+    "effective_from": "2025-01-01",
+    "effective_to": null,
+    "owner_team": "Manager",
+    "role_id": "ROLE-012",
+    "sla_days": 1,
+    "task_kind": "manager_approval",
+    "template_id": "TPL-ROLE-012-R-MANAGER_APPROVAL",
+    "work_location": "remote"
+  },
+  {
+    "effective_from": "2025-01-01",
+    "effective_to": null,
+    "owner_team": "IT",
+    "role_id": "ROLE-012",
+    "sla_days": 3,
+    "task_kind": "account_creation",
+    "template_id": "TPL-ROLE-012-R-ACCOUNT_CREATION",
+    "work_location": "remote"
+  },
+  {
+    "effective_from": "2025-01-01",
+    "effective_to": null,
+    "owner_team": "Facilities",
+    "role_id": "ROLE-012",
+    "sla_days": 3,
+    "task_kind": "equipment_assignment",
+    "template_id": "TPL-ROLE-012-R-EQUIPMENT_ASSIGNMENT",
+    "work_location": "remote"
+  },
+  {
+    "effective_from": "2025-01-01",
+    "effective_to": null,
+    "owner_team": "IT",
+    "role_id": "ROLE-012",
+    "sla_days": 3,
+    "task_kind": "access_provisioning",
+    "template_id": "TPL-ROLE-012-R-ACCESS_PROVISIONING",
+    "work_location": "remote"
+  },
+  {
+    "effective_from": "2025-01-01",
+    "effective_to": null,
+    "owner_team": "HR",
+    "role_id": "ROLE-012",
+    "sla_days": 3,
+    "task_kind": "security_training",
+    "template_id": "TPL-ROLE-012-R-SECURITY_TRAINING",
+    "work_location": "remote"
+  },
+  {
+    "effective_from": "2025-01-01",
+    "effective_to": null,
+    "owner_team": "Manager",
+    "role_id": "ROLE-012",
+    "sla_days": 3,
+    "task_kind": "first_day_checkin",
+    "template_id": "TPL-ROLE-012-R-FIRST_DAY_CHECKIN",
+    "work_location": "remote"
+  },
+  {
+    "effective_from": "2025-01-01",
+    "effective_to": null,
+    "owner_team": "HR",
+    "role_id": "ROLE-012",
+    "sla_days": 1,
+    "task_kind": "identity_verification",
+    "template_id": "TPL-ROLE-012-O-IDENTITY_VERIFICATION",
+    "work_location": "on_site"
+  },
+  {
+    "effective_from": "2025-01-01",
+    "effective_to": null,
+    "owner_team": "HR",
+    "role_id": "ROLE-012",
+    "sla_days": 3,
+    "task_kind": "background_check",
+    "template_id": "TPL-ROLE-012-O-BACKGROUND_CHECK",
+    "work_location": "on_site"
+  },
+  {
+    "effective_from": "2025-01-01",
+    "effective_to": null,
+    "owner_team": "Manager",
+    "role_id": "ROLE-012",
+    "sla_days": 1,
+    "task_kind": "manager_approval",
+    "template_id": "TPL-ROLE-012-O-MANAGER_APPROVAL",
+    "work_location": "on_site"
+  },
+  {
+    "effective_from": "2025-01-01",
+    "effective_to": null,
+    "owner_team": "IT",
+    "role_id": "ROLE-012",
+    "sla_days": 3,
+    "task_kind": "account_creation",
+    "template_id": "TPL-ROLE-012-O-ACCOUNT_CREATION",
+    "work_location": "on_site"
+  },
+  {
+    "effective_from": "2025-01-01",
+    "effective_to": null,
+    "owner_team": "Facilities",
+    "role_id": "ROLE-012",
+    "sla_days": 3,
+    "task_kind": "equipment_assignment",
+    "template_id": "TPL-ROLE-012-O-EQUIPMENT_ASSIGNMENT",
+    "work_location": "on_site"
+  },
+  {
+    "effective_from": "2025-01-01",
+    "effective_to": null,
+    "owner_team": "IT",
+    "role_id": "ROLE-012",
+    "sla_days": 3,
+    "task_kind": "access_provisioning",
+    "template_id": "TPL-ROLE-012-O-ACCESS_PROVISIONING",
+    "work_location": "on_site"
+  },
+  {
+    "effective_from": "2025-01-01",
+    "effective_to": null,
+    "owner_team": "HR",
+    "role_id": "ROLE-012",
+    "sla_days": 3,
+    "task_kind": "security_training",
+    "template_id": "TPL-ROLE-012-O-SECURITY_TRAINING",
+    "work_location": "on_site"
+  },
+  {
+    "effective_from": "2025-01-01",
+    "effective_to": null,
+    "owner_team": "Manager",
+    "role_id": "ROLE-012",
+    "sla_days": 3,
+    "task_kind": "first_day_checkin",
+    "template_id": "TPL-ROLE-012-O-FIRST_DAY_CHECKIN",
+    "work_location": "on_site"
+  }
+]

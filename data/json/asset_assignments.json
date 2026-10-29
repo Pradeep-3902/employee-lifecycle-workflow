@@ -1,0 +1,2882 @@
+[
+  {
+    "asset_id": "AST-MON-000497",
+    "assigned_date": "2027-01-14",
+    "assignment_id": "ASG-000001",
+    "case_id": "ONB-2026-000001",
+    "employee_id": "EMP-000001",
+    "recovered_date": null
+  },
+  {
+    "asset_id": "AST-BAD-000213",
+    "assigned_date": "2026-09-23",
+    "assignment_id": "ASG-000002",
+    "case_id": "ONB-2026-000002",
+    "employee_id": "EMP-000002",
+    "recovered_date": null
+  },
+  {
+    "asset_id": "AST-BAD-000522",
+    "assigned_date": "2026-08-31",
+    "assignment_id": "ASG-000003",
+    "case_id": "ONB-2026-000004",
+    "employee_id": "EMP-000004",
+    "recovered_date": null
+  },
+  {
+    "asset_id": "AST-PHO-000295",
+    "assigned_date": "2026-12-21",
+    "assignment_id": "ASG-000004",
+    "case_id": "ONB-2026-000005",
+    "employee_id": "EMP-000005",
+    "recovered_date": null
+  },
+  {
+    "asset_id": "AST-BAD-000538",
+    "assigned_date": "2026-08-07",
+    "assignment_id": "ASG-000005",
+    "case_id": "ONB-2026-000006",
+    "employee_id": "EMP-000006",
+    "recovered_date": null
+  },
+  {
+    "asset_id": "AST-BAD-000446",
+    "assigned_date": "2026-08-09",
+    "assignment_id": "ASG-000006",
+    "case_id": "ONB-2026-000007",
+    "employee_id": "EMP-000007",
+    "recovered_date": null
+  },
+  {
+    "asset_id": "AST-BAD-000024",
+    "assigned_date": "2026-09-07",
+    "assignment_id": "ASG-000007",
+    "case_id": "ONB-2026-000008",
+    "employee_id": "EMP-000008",
+    "recovered_date": null
+  },
+  {
+    "asset_id": "AST-BAD-000081",
+    "assigned_date": "2026-08-11",
+    "assignment_id": "ASG-000008",
+    "case_id": "ONB-2026-000009",
+    "employee_id": "EMP-000009",
+    "recovered_date": null
+  },
+  {
+    "asset_id": "AST-BAD-000275",
+    "assigned_date": "2026-12-31",
+    "assignment_id": "ASG-000009",
+    "case_id": "ONB-2026-000012",
+    "employee_id": "EMP-000012",
+    "recovered_date": null
+  },
+  {
+    "asset_id": "AST-PHO-000358",
+    "assigned_date": "2026-08-03",
+    "assignment_id": "ASG-000010",
+    "case_id": "ONB-2026-000013",
+    "employee_id": "EMP-000013",
+    "recovered_date": null
+  },
+  {
+    "asset_id": "AST-LAP-000516",
+    "assigned_date": "2026-09-22",
+    "assignment_id": "ASG-000011",
+    "case_id": "ONB-2026-000014",
+    "employee_id": "EMP-000014",
+    "recovered_date": null
+  },
+  {
+    "asset_id": "AST-MON-000468",
+    "assigned_date": "2026-11-30",
+    "assignment_id": "ASG-000012",
+    "case_id": "ONB-2026-000017",
+    "employee_id": "EMP-000017",
+    "recovered_date": null
+  },
+  {
+    "asset_id": "AST-LAP-000565",
+    "assigned_date": "2026-07-29",
+    "assignment_id": "ASG-000013",
+    "case_id": "ONB-2026-000018",
+    "employee_id": "EMP-000018",
+    "recovered_date": "2026-10-07"
+  },
+  {
+    "asset_id": "AST-LAP-000519",
+    "assigned_date": "2026-10-21",
+    "assignment_id": "ASG-000014",
+    "case_id": "ONB-2026-000020",
+    "employee_id": "EMP-000020",
+    "recovered_date": null
+  },
+  {
+    "asset_id": "AST-LAP-000597",
+    "assigned_date": "2026-11-16",
+    "assignment_id": "ASG-000015",
+    "case_id": "ONB-2026-000021",
+    "employee_id": "EMP-000021",
+    "recovered_date": null
+  },
+  {
+    "asset_id": "AST-MON-000569",
+    "assigned_date": "2027-01-17",
+    "assignment_id": "ASG-000016",
+    "case_id": "ONB-2026-000022",
+    "employee_id": "EMP-000022",
+    "recovered_date": null
+  },
+  {
+    "asset_id": "AST-LAP-000463",
+    "assigned_date": "2026-11-25",
+    "assignment_id": "ASG-000017",
+    "case_id": "ONB-2026-000023",
+    "employee_id": "EMP-000023",
+    "recovered_date": null
+  },
+  {
+    "asset_id": "AST-PHO-000438",
+    "assigned_date": "2026-09-05",
+    "assignment_id": "ASG-000018",
+    "case_id": "ONB-2026-000027",
+    "employee_id": "EMP-000027",
+    "recovered_date": "2026-09-28"
+  },
+  {
+    "asset_id": "AST-LAP-000058",
+    "assigned_date": "2026-12-30",
+    "assignment_id": "ASG-000019",
+    "case_id": "ONB-2026-000028",
+    "employee_id": "EMP-000028",
+    "recovered_date": null
+  },
+  {
+    "asset_id": "AST-MON-000033",
+    "assigned_date": "2026-11-04",
+    "assignment_id": "ASG-000020",
+    "case_id": "ONB-2026-000029",
+    "employee_id": "EMP-000029",
+    "recovered_date": null
+  },
+  {
+    "asset_id": "AST-BAD-000104",
+    "assigned_date": "2026-08-30",
+    "assignment_id": "ASG-000021",
+    "case_id": "ONB-2026-000030",
+    "employee_id": "EMP-000030",
+    "recovered_date": null
+  },
+  {
+    "asset_id": "AST-BAD-000257",
+    "assigned_date": "2026-10-17",
+    "assignment_id": "ASG-000022",
+    "case_id": "ONB-2026-000031",
+    "employee_id": "EMP-000031",
+    "recovered_date": null
+  },
+  {
+    "asset_id": "AST-MON-000361",
+    "assigned_date": "2026-09-07",
+    "assignment_id": "ASG-000023",
+    "case_id": "ONB-2026-000033",
+    "employee_id": "EMP-000033",
+    "recovered_date": null
+  },
+  {
+    "asset_id": "AST-MON-000558",
+    "assigned_date": "2026-10-31",
+    "assignment_id": "ASG-000024",
+    "case_id": "ONB-2026-000035",
+    "employee_id": "EMP-000035",
+    "recovered_date": null
+  },
+  {
+    "asset_id": "AST-BAD-000595",
+    "assigned_date": "2026-08-16",
+    "assignment_id": "ASG-000025",
+    "case_id": "ONB-2026-000036",
+    "employee_id": "EMP-000036",
+    "recovered_date": "2026-10-19"
+  },
+  {
+    "asset_id": "AST-MON-000570",
+    "assigned_date": "2026-09-03",
+    "assignment_id": "ASG-000026",
+    "case_id": "ONB-2026-000037",
+    "employee_id": "EMP-000037",
+    "recovered_date": null
+  },
+  {
+    "asset_id": "AST-MON-000298",
+    "assigned_date": "2026-10-10",
+    "assignment_id": "ASG-000027",
+    "case_id": "ONB-2026-000039",
+    "employee_id": "EMP-000039",
+    "recovered_date": null
+  },
+  {
+    "asset_id": "AST-LAP-000015",
+    "assigned_date": "2026-10-24",
+    "assignment_id": "ASG-000028",
+    "case_id": "ONB-2026-000040",
+    "employee_id": "EMP-000040",
+    "recovered_date": null
+  },
+  {
+    "asset_id": "AST-LAP-000066",
+    "assigned_date": "2026-11-16",
+    "assignment_id": "ASG-000029",
+    "case_id": "ONB-2026-000041",
+    "employee_id": "EMP-000041",
+    "recovered_date": null
+  },
+  {
+    "asset_id": "AST-BAD-000494",
+    "assigned_date": "2026-09-13",
+    "assignment_id": "ASG-000030",
+    "case_id": "ONB-2026-000042",
+    "employee_id": "EMP-000042",
+    "recovered_date": null
+  },
+  {
+    "asset_id": "AST-LAP-000489",
+    "assigned_date": "2026-11-23",
+    "assignment_id": "ASG-000031",
+    "case_id": "ONB-2026-000043",
+    "employee_id": "EMP-000043",
+    "recovered_date": null
+  },
+  {
+    "asset_id": "AST-LAP-000030",
+    "assigned_date": "2026-09-26",
+    "assignment_id": "ASG-000032",
+    "case_id": "ONB-2026-000044",
+    "employee_id": "EMP-000044",
+    "recovered_date": null
+  },
+  {
+    "asset_id": "AST-LAP-000600",
+    "assigned_date": "2026-08-12",
+    "assignment_id": "ASG-000033",
+    "case_id": "ONB-2026-000045",
+    "employee_id": "EMP-000045",
+    "recovered_date": "2026-10-02"
+  },
+  {
+    "asset_id": "AST-BAD-000247",
+    "assigned_date": "2027-01-11",
+    "assignment_id": "ASG-000034",
+    "case_id": "ONB-2026-000047",
+    "employee_id": "EMP-000047",
+    "recovered_date": null
+  },
+  {
+    "asset_id": "AST-BAD-000248",
+    "assigned_date": "2026-08-30",
+    "assignment_id": "ASG-000035",
+    "case_id": "ONB-2026-000048",
+    "employee_id": "EMP-000048",
+    "recovered_date": null
+  },
+  {
+    "asset_id": "AST-BAD-000159",
+    "assigned_date": "2026-10-03",
+    "assignment_id": "ASG-000036",
+    "case_id": "ONB-2026-000049",
+    "employee_id": "EMP-000049",
+    "recovered_date": null
+  },
+  {
+    "asset_id": "AST-MON-000337",
+    "assigned_date": "2026-10-31",
+    "assignment_id": "ASG-000037",
+    "case_id": "ONB-2026-000050",
+    "employee_id": "EMP-000050",
+    "recovered_date": null
+  },
+  {
+    "asset_id": "AST-BAD-000017",
+    "assigned_date": "2026-12-14",
+    "assignment_id": "ASG-000038",
+    "case_id": "ONB-2026-000051",
+    "employee_id": "EMP-000051",
+    "recovered_date": null
+  },
+  {
+    "asset_id": "AST-PHO-000094",
+    "assigned_date": "2026-09-18",
+    "assignment_id": "ASG-000039",
+    "case_id": "ONB-2026-000056",
+    "employee_id": "EMP-000056",
+    "recovered_date": null
+  },
+  {
+    "asset_id": "AST-BAD-000466",
+    "assigned_date": "2026-08-23",
+    "assignment_id": "ASG-000040",
+    "case_id": "ONB-2026-000057",
+    "employee_id": "EMP-000057",
+    "recovered_date": null
+  },
+  {
+    "asset_id": "AST-MON-000482",
+    "assigned_date": "2026-11-29",
+    "assignment_id": "ASG-000041",
+    "case_id": "ONB-2026-000058",
+    "employee_id": "EMP-000058",
+    "recovered_date": null
+  },
+  {
+    "asset_id": "AST-MON-000070",
+    "assigned_date": "2026-10-17",
+    "assignment_id": "ASG-000042",
+    "case_id": "ONB-2026-000059",
+    "employee_id": "EMP-000059",
+    "recovered_date": null
+  },
+  {
+    "asset_id": "AST-MON-000477",
+    "assigned_date": "2026-10-21",
+    "assignment_id": "ASG-000043",
+    "case_id": "ONB-2026-000060",
+    "employee_id": "EMP-000060",
+    "recovered_date": null
+  },
+  {
+    "asset_id": "AST-LAP-000488",
+    "assigned_date": "2026-10-13",
+    "assignment_id": "ASG-000044",
+    "case_id": "ONB-2026-000066",
+    "employee_id": "EMP-000066",
+    "recovered_date": null
+  },
+  {
+    "asset_id": "AST-PHO-000117",
+    "assigned_date": "2027-01-01",
+    "assignment_id": "ASG-000045",
+    "case_id": "ONB-2026-000067",
+    "employee_id": "EMP-000067",
+    "recovered_date": null
+  },
+  {
+    "asset_id": "AST-PHO-000099",
+    "assigned_date": "2026-09-04",
+    "assignment_id": "ASG-000046",
+    "case_id": "ONB-2026-000068",
+    "employee_id": "EMP-000068",
+    "recovered_date": null
+  },
+  {
+    "asset_id": "AST-MON-000491",
+    "assigned_date": "2026-10-25",
+    "assignment_id": "ASG-000047",
+    "case_id": "ONB-2026-000069",
+    "employee_id": "EMP-000069",
+    "recovered_date": null
+  },
+  {
+    "asset_id": "AST-LAP-000278",
+    "assigned_date": "2026-11-03",
+    "assignment_id": "ASG-000048",
+    "case_id": "ONB-2026-000070",
+    "employee_id": "EMP-000070",
+    "recovered_date": null
+  },
+  {
+    "asset_id": "AST-LAP-000557",
+    "assigned_date": "2026-09-22",
+    "assignment_id": "ASG-000049",
+    "case_id": "ONB-2026-000071",
+    "employee_id": "EMP-000071",
+    "recovered_date": null
+  },
+  {
+    "asset_id": "AST-LAP-000530",
+    "assigned_date": "2026-11-17",
+    "assignment_id": "ASG-000050",
+    "case_id": "ONB-2026-000073",
+    "employee_id": "EMP-000073",
+    "recovered_date": null
+  },
+  {
+    "asset_id": "AST-MON-000423",
+    "assigned_date": "2026-09-02",
+    "assignment_id": "ASG-000051",
+    "case_id": "ONB-2026-000074",
+    "employee_id": "EMP-000074",
+    "recovered_date": null
+  },
+  {
+    "asset_id": "AST-PHO-000395",
+    "assigned_date": "2026-08-28",
+    "assignment_id": "ASG-000052",
+    "case_id": "ONB-2026-000076",
+    "employee_id": "EMP-000076",
+    "recovered_date": null
+  },
+  {
+    "asset_id": "AST-PHO-000372",
+    "assigned_date": "2027-01-08",
+    "assignment_id": "ASG-000053",
+    "case_id": "ONB-2026-000078",
+    "employee_id": "EMP-000078",
+    "recovered_date": null
+  },
+  {
+    "asset_id": "AST-MON-000449",
+    "assigned_date": "2026-10-20",
+    "assignment_id": "ASG-000054",
+    "case_id": "ONB-2026-000080",
+    "employee_id": "EMP-000080",
+    "recovered_date": null
+  },
+  {
+    "asset_id": "AST-MON-000596",
+    "assigned_date": "2026-12-16",
+    "assignment_id": "ASG-000055",
+    "case_id": "ONB-2026-000082",
+    "employee_id": "EMP-000082",
+    "recovered_date": null
+  },
+  {
+    "asset_id": "AST-PHO-000327",
+    "assigned_date": "2026-12-22",
+    "assignment_id": "ASG-000056",
+    "case_id": "ONB-2026-000084",
+    "employee_id": "EMP-000084",
+    "recovered_date": null
+  },
+  {
+    "asset_id": "AST-MON-000246",
+    "assigned_date": "2027-01-12",
+    "assignment_id": "ASG-000057",
+    "case_id": "ONB-2026-000085",
+    "employee_id": "EMP-000085",
+    "recovered_date": null
+  },
+  {
+    "asset_id": "AST-BAD-000079",
+    "assigned_date": "2026-08-06",
+    "assignment_id": "ASG-000058",
+    "case_id": "ONB-2026-000086",
+    "employee_id": "EMP-000086",
+    "recovered_date": null
+  },
+  {
+    "asset_id": "AST-MON-000100",
+    "assigned_date": "2026-09-19",
+    "assignment_id": "ASG-000059",
+    "case_id": "ONB-2026-000088",
+    "employee_id": "EMP-000088",
+    "recovered_date": null
+  },
+  {
+    "asset_id": "AST-PHO-000593",
+    "assigned_date": "2026-09-18",
+    "assignment_id": "ASG-000060",
+    "case_id": "ONB-2026-000089",
+    "employee_id": "EMP-000089",
+    "recovered_date": null
+  },
+  {
+    "asset_id": "AST-LAP-000556",
+    "assigned_date": "2026-09-25",
+    "assignment_id": "ASG-000061",
+    "case_id": "ONB-2026-000090",
+    "employee_id": "EMP-000090",
+    "recovered_date": "2026-10-19"
+  },
+  {
+    "asset_id": "AST-PHO-000244",
+    "assigned_date": "2026-08-02",
+    "assignment_id": "ASG-000062",
+    "case_id": "ONB-2026-000091",
+    "employee_id": "EMP-000091",
+    "recovered_date": null
+  },
+  {
+    "asset_id": "AST-MON-000090",
+    "assigned_date": "2027-01-18",
+    "assignment_id": "ASG-000063",
+    "case_id": "ONB-2026-000092",
+    "employee_id": "EMP-000092",
+    "recovered_date": null
+  },
+  {
+    "asset_id": "AST-BAD-000589",
+    "assigned_date": "2027-01-15",
+    "assignment_id": "ASG-000064",
+    "case_id": "ONB-2026-000093",
+    "employee_id": "EMP-000093",
+    "recovered_date": null
+  },
+  {
+    "asset_id": "AST-LAP-000560",
+    "assigned_date": "2026-09-04",
+    "assignment_id": "ASG-000065",
+    "case_id": "ONB-2026-000094",
+    "employee_id": "EMP-000094",
+    "recovered_date": null
+  },
+  {
+    "asset_id": "AST-MON-000594",
+    "assigned_date": "2026-08-21",
+    "assignment_id": "ASG-000066",
+    "case_id": "ONB-2026-000096",
+    "employee_id": "EMP-000096",
+    "recovered_date": null
+  },
+  {
+    "asset_id": "AST-BAD-000007",
+    "assigned_date": "2026-07-26",
+    "assignment_id": "ASG-000067",
+    "case_id": "ONB-2026-000098",
+    "employee_id": "EMP-000098",
+    "recovered_date": null
+  },
+  {
+    "asset_id": "AST-LAP-000393",
+    "assigned_date": "2026-09-17",
+    "assignment_id": "ASG-000068",
+    "case_id": "ONB-2026-000099",
+    "employee_id": "EMP-000099",
+    "recovered_date": "2026-10-20"
+  },
+  {
+    "asset_id": "AST-PHO-000443",
+    "assigned_date": "2026-10-24",
+    "assignment_id": "ASG-000069",
+    "case_id": "ONB-2026-000100",
+    "employee_id": "EMP-000100",
+    "recovered_date": null
+  },
+  {
+    "asset_id": "AST-PHO-000230",
+    "assigned_date": "2026-08-15",
+    "assignment_id": "ASG-000070",
+    "case_id": "ONB-2026-000101",
+    "employee_id": "EMP-000101",
+    "recovered_date": null
+  },
+  {
+    "asset_id": "AST-LAP-000152",
+    "assigned_date": "2026-08-20",
+    "assignment_id": "ASG-000071",
+    "case_id": "ONB-2026-000102",
+    "employee_id": "EMP-000102",
+    "recovered_date": null
+  },
+  {
+    "asset_id": "AST-LAP-000576",
+    "assigned_date": "2026-08-02",
+    "assignment_id": "ASG-000072",
+    "case_id": "ONB-2026-000103",
+    "employee_id": "EMP-000103",
+    "recovered_date": null
+  },
+  {
+    "asset_id": "AST-LAP-000224",
+    "assigned_date": "2026-11-24",
+    "assignment_id": "ASG-000073",
+    "case_id": "ONB-2026-000104",
+    "employee_id": "EMP-000104",
+    "recovered_date": null
+  },
+  {
+    "asset_id": "AST-PHO-000137",
+    "assigned_date": "2026-08-09",
+    "assignment_id": "ASG-000074",
+    "case_id": "ONB-2026-000105",
+    "employee_id": "EMP-000105",
+    "recovered_date": null
+  },
+  {
+    "asset_id": "AST-LAP-000355",
+    "assigned_date": "2026-07-29",
+    "assignment_id": "ASG-000075",
+    "case_id": "ONB-2026-000107",
+    "employee_id": "EMP-000107",
+    "recovered_date": null
+  },
+  {
+    "asset_id": "AST-PHO-000226",
+    "assigned_date": "2026-12-19",
+    "assignment_id": "ASG-000076",
+    "case_id": "ONB-2026-000109",
+    "employee_id": "EMP-000109",
+    "recovered_date": null
+  },
+  {
+    "asset_id": "AST-MON-000056",
+    "assigned_date": "2027-01-19",
+    "assignment_id": "ASG-000077",
+    "case_id": "ONB-2026-000110",
+    "employee_id": "EMP-000110",
+    "recovered_date": null
+  },
+  {
+    "asset_id": "AST-PHO-000340",
+    "assigned_date": "2026-11-27",
+    "assignment_id": "ASG-000078",
+    "case_id": "ONB-2026-000111",
+    "employee_id": "EMP-000111",
+    "recovered_date": null
+  },
+  {
+    "asset_id": "AST-BAD-000077",
+    "assigned_date": "2026-09-11",
+    "assignment_id": "ASG-000079",
+    "case_id": "ONB-2026-000112",
+    "employee_id": "EMP-000112",
+    "recovered_date": null
+  },
+  {
+    "asset_id": "AST-PHO-000448",
+    "assigned_date": "2026-08-01",
+    "assignment_id": "ASG-000080",
+    "case_id": "ONB-2026-000114",
+    "employee_id": "EMP-000114",
+    "recovered_date": null
+  },
+  {
+    "asset_id": "AST-MON-000440",
+    "assigned_date": "2026-10-18",
+    "assignment_id": "ASG-000081",
+    "case_id": "ONB-2026-000115",
+    "employee_id": "EMP-000115",
+    "recovered_date": null
+  },
+  {
+    "asset_id": "AST-PHO-000350",
+    "assigned_date": "2026-12-07",
+    "assignment_id": "ASG-000082",
+    "case_id": "ONB-2026-000116",
+    "employee_id": "EMP-000116",
+    "recovered_date": null
+  },
+  {
+    "asset_id": "AST-MON-000136",
+    "assigned_date": "2026-08-03",
+    "assignment_id": "ASG-000083",
+    "case_id": "ONB-2026-000117",
+    "employee_id": "EMP-000117",
+    "recovered_date": "2026-10-12"
+  },
+  {
+    "asset_id": "AST-MON-000140",
+    "assigned_date": "2026-08-31",
+    "assignment_id": "ASG-000084",
+    "case_id": "ONB-2026-000118",
+    "employee_id": "EMP-000118",
+    "recovered_date": null
+  },
+  {
+    "asset_id": "AST-BAD-000308",
+    "assigned_date": "2027-01-02",
+    "assignment_id": "ASG-000085",
+    "case_id": "ONB-2026-000119",
+    "employee_id": "EMP-000119",
+    "recovered_date": null
+  },
+  {
+    "asset_id": "AST-MON-000467",
+    "assigned_date": "2026-11-05",
+    "assignment_id": "ASG-000086",
+    "case_id": "ONB-2026-000121",
+    "employee_id": "EMP-000121",
+    "recovered_date": null
+  },
+  {
+    "asset_id": "AST-PHO-000283",
+    "assigned_date": "2026-11-16",
+    "assignment_id": "ASG-000087",
+    "case_id": "ONB-2026-000122",
+    "employee_id": "EMP-000122",
+    "recovered_date": null
+  },
+  {
+    "asset_id": "AST-LAP-000580",
+    "assigned_date": "2026-08-29",
+    "assignment_id": "ASG-000088",
+    "case_id": "ONB-2026-000123",
+    "employee_id": "EMP-000123",
+    "recovered_date": null
+  },
+  {
+    "asset_id": "AST-LAP-000005",
+    "assigned_date": "2026-09-18",
+    "assignment_id": "ASG-000089",
+    "case_id": "ONB-2026-000127",
+    "employee_id": "EMP-000127",
+    "recovered_date": null
+  },
+  {
+    "asset_id": "AST-BAD-000588",
+    "assigned_date": "2026-10-06",
+    "assignment_id": "ASG-000090",
+    "case_id": "ONB-2026-000128",
+    "employee_id": "EMP-000128",
+    "recovered_date": null
+  },
+  {
+    "asset_id": "AST-LAP-000439",
+    "assigned_date": "2026-08-09",
+    "assignment_id": "ASG-000091",
+    "case_id": "ONB-2026-000129",
+    "employee_id": "EMP-000129",
+    "recovered_date": null
+  },
+  {
+    "asset_id": "AST-LAP-000359",
+    "assigned_date": "2026-08-12",
+    "assignment_id": "ASG-000092",
+    "case_id": "ONB-2026-000130",
+    "employee_id": "EMP-000130",
+    "recovered_date": null
+  },
+  {
+    "asset_id": "AST-PHO-000088",
+    "assigned_date": "2026-11-11",
+    "assignment_id": "ASG-000093",
+    "case_id": "ONB-2026-000131",
+    "employee_id": "EMP-000131",
+    "recovered_date": null
+  },
+  {
+    "asset_id": "AST-LAP-000268",
+    "assigned_date": "2026-12-15",
+    "assignment_id": "ASG-000094",
+    "case_id": "ONB-2026-000132",
+    "employee_id": "EMP-000132",
+    "recovered_date": null
+  },
+  {
+    "asset_id": "AST-LAP-000571",
+    "assigned_date": "2026-08-30",
+    "assignment_id": "ASG-000095",
+    "case_id": "ONB-2026-000133",
+    "employee_id": "EMP-000133",
+    "recovered_date": null
+  },
+  {
+    "asset_id": "AST-LAP-000128",
+    "assigned_date": "2027-01-12",
+    "assignment_id": "ASG-000096",
+    "case_id": "ONB-2026-000136",
+    "employee_id": "EMP-000136",
+    "recovered_date": null
+  },
+  {
+    "asset_id": "AST-BAD-000120",
+    "assigned_date": "2026-10-29",
+    "assignment_id": "ASG-000097",
+    "case_id": "ONB-2026-000137",
+    "employee_id": "EMP-000137",
+    "recovered_date": null
+  },
+  {
+    "asset_id": "AST-PHO-000536",
+    "assigned_date": "2026-12-11",
+    "assignment_id": "ASG-000098",
+    "case_id": "ONB-2026-000139",
+    "employee_id": "EMP-000139",
+    "recovered_date": null
+  },
+  {
+    "asset_id": "AST-BAD-000197",
+    "assigned_date": "2027-01-08",
+    "assignment_id": "ASG-000099",
+    "case_id": "ONB-2026-000142",
+    "employee_id": "EMP-000142",
+    "recovered_date": null
+  },
+  {
+    "asset_id": "AST-MON-000253",
+    "assigned_date": "2027-01-16",
+    "assignment_id": "ASG-000100",
+    "case_id": "ONB-2026-000146",
+    "employee_id": "EMP-000146",
+    "recovered_date": null
+  },
+  {
+    "asset_id": "AST-MON-000040",
+    "assigned_date": "2026-12-23",
+    "assignment_id": "ASG-000101",
+    "case_id": "ONB-2026-000148",
+    "employee_id": "EMP-000148",
+    "recovered_date": null
+  },
+  {
+    "asset_id": "AST-PHO-000045",
+    "assigned_date": "2026-09-09",
+    "assignment_id": "ASG-000102",
+    "case_id": "ONB-2026-000149",
+    "employee_id": "EMP-000149",
+    "recovered_date": null
+  },
+  {
+    "asset_id": "AST-LAP-000287",
+    "assigned_date": "2026-10-16",
+    "assignment_id": "ASG-000103",
+    "case_id": "ONB-2026-000150",
+    "employee_id": "EMP-000150",
+    "recovered_date": null
+  },
+  {
+    "asset_id": "AST-MON-000461",
+    "assigned_date": "2026-12-24",
+    "assignment_id": "ASG-000104",
+    "case_id": "ONB-2026-000151",
+    "employee_id": "EMP-000151",
+    "recovered_date": null
+  },
+  {
+    "asset_id": "AST-MON-000583",
+    "assigned_date": "2027-01-06",
+    "assignment_id": "ASG-000105",
+    "case_id": "ONB-2026-000152",
+    "employee_id": "EMP-000152",
+    "recovered_date": null
+  },
+  {
+    "asset_id": "AST-LAP-000237",
+    "assigned_date": "2026-08-18",
+    "assignment_id": "ASG-000106",
+    "case_id": "ONB-2026-000153",
+    "employee_id": "EMP-000153",
+    "recovered_date": "2026-09-28"
+  },
+  {
+    "asset_id": "AST-LAP-000217",
+    "assigned_date": "2027-01-09",
+    "assignment_id": "ASG-000107",
+    "case_id": "ONB-2026-000154",
+    "employee_id": "EMP-000154",
+    "recovered_date": null
+  },
+  {
+    "asset_id": "AST-PHO-000374",
+    "assigned_date": "2026-08-25",
+    "assignment_id": "ASG-000108",
+    "case_id": "ONB-2026-000156",
+    "employee_id": "EMP-000156",
+    "recovered_date": null
+  },
+  {
+    "asset_id": "AST-PHO-000314",
+    "assigned_date": "2026-12-15",
+    "assignment_id": "ASG-000109",
+    "case_id": "ONB-2026-000158",
+    "employee_id": "EMP-000158",
+    "recovered_date": null
+  },
+  {
+    "asset_id": "AST-LAP-000502",
+    "assigned_date": "2026-08-31",
+    "assignment_id": "ASG-000110",
+    "case_id": "ONB-2026-000159",
+    "employee_id": "EMP-000159",
+    "recovered_date": null
+  },
+  {
+    "asset_id": "AST-LAP-000575",
+    "assigned_date": "2026-10-21",
+    "assignment_id": "ASG-000111",
+    "case_id": "ONB-2026-000160",
+    "employee_id": "EMP-000160",
+    "recovered_date": null
+  },
+  {
+    "asset_id": "AST-MON-000193",
+    "assigned_date": "2026-08-12",
+    "assignment_id": "ASG-000112",
+    "case_id": "ONB-2026-000161",
+    "employee_id": "EMP-000161",
+    "recovered_date": null
+  },
+  {
+    "asset_id": "AST-BAD-000444",
+    "assigned_date": "2026-09-17",
+    "assignment_id": "ASG-000113",
+    "case_id": "ONB-2026-000162",
+    "employee_id": "EMP-000162",
+    "recovered_date": "2026-10-20"
+  },
+  {
+    "asset_id": "AST-PHO-000566",
+    "assigned_date": "2026-10-03",
+    "assignment_id": "ASG-000114",
+    "case_id": "ONB-2026-000163",
+    "employee_id": "EMP-000163",
+    "recovered_date": null
+  },
+  {
+    "asset_id": "AST-LAP-000096",
+    "assigned_date": "2026-08-17",
+    "assignment_id": "ASG-000115",
+    "case_id": "ONB-2026-000164",
+    "employee_id": "EMP-000164",
+    "recovered_date": null
+  },
+  {
+    "asset_id": "AST-MON-000485",
+    "assigned_date": "2026-08-29",
+    "assignment_id": "ASG-000116",
+    "case_id": "ONB-2026-000165",
+    "employee_id": "EMP-000165",
+    "recovered_date": null
+  },
+  {
+    "asset_id": "AST-BAD-000110",
+    "assigned_date": "2026-10-17",
+    "assignment_id": "ASG-000117",
+    "case_id": "ONB-2026-000166",
+    "employee_id": "EMP-000166",
+    "recovered_date": null
+  },
+  {
+    "asset_id": "AST-BAD-000042",
+    "assigned_date": "2026-11-29",
+    "assignment_id": "ASG-000118",
+    "case_id": "ONB-2026-000167",
+    "employee_id": "EMP-000167",
+    "recovered_date": null
+  },
+  {
+    "asset_id": "AST-BAD-000218",
+    "assigned_date": "2026-11-11",
+    "assignment_id": "ASG-000119",
+    "case_id": "ONB-2026-000170",
+    "employee_id": "EMP-000170",
+    "recovered_date": null
+  },
+  {
+    "asset_id": "AST-PHO-000469",
+    "assigned_date": "2027-01-07",
+    "assignment_id": "ASG-000120",
+    "case_id": "ONB-2026-000173",
+    "employee_id": "EMP-000173",
+    "recovered_date": null
+  },
+  {
+    "asset_id": "AST-LAP-000531",
+    "assigned_date": "2026-11-29",
+    "assignment_id": "ASG-000121",
+    "case_id": "ONB-2026-000174",
+    "employee_id": "EMP-000174",
+    "recovered_date": null
+  },
+  {
+    "asset_id": "AST-MON-000384",
+    "assigned_date": "2026-12-30",
+    "assignment_id": "ASG-000122",
+    "case_id": "ONB-2026-000176",
+    "employee_id": "EMP-000176",
+    "recovered_date": null
+  },
+  {
+    "asset_id": "AST-LAP-000245",
+    "assigned_date": "2026-09-14",
+    "assignment_id": "ASG-000123",
+    "case_id": "ONB-2026-000179",
+    "employee_id": "EMP-000179",
+    "recovered_date": null
+  },
+  {
+    "asset_id": "AST-MON-000206",
+    "assigned_date": "2026-10-29",
+    "assignment_id": "ASG-000124",
+    "case_id": "ONB-2026-000181",
+    "employee_id": "EMP-000181",
+    "recovered_date": null
+  },
+  {
+    "asset_id": "AST-MON-000010",
+    "assigned_date": "2026-11-07",
+    "assignment_id": "ASG-000125",
+    "case_id": "ONB-2026-000182",
+    "employee_id": "EMP-000182",
+    "recovered_date": null
+  },
+  {
+    "asset_id": "AST-BAD-000259",
+    "assigned_date": "2026-09-14",
+    "assignment_id": "ASG-000126",
+    "case_id": "ONB-2026-000183",
+    "employee_id": "EMP-000183",
+    "recovered_date": null
+  },
+  {
+    "asset_id": "AST-PHO-000551",
+    "assigned_date": "2026-11-15",
+    "assignment_id": "ASG-000127",
+    "case_id": "ONB-2026-000184",
+    "employee_id": "EMP-000184",
+    "recovered_date": null
+  },
+  {
+    "asset_id": "AST-LAP-000411",
+    "assigned_date": "2026-11-23",
+    "assignment_id": "ASG-000128",
+    "case_id": "ONB-2026-000186",
+    "employee_id": "EMP-000186",
+    "recovered_date": null
+  },
+  {
+    "asset_id": "AST-PHO-000387",
+    "assigned_date": "2026-12-29",
+    "assignment_id": "ASG-000129",
+    "case_id": "ONB-2026-000187",
+    "employee_id": "EMP-000187",
+    "recovered_date": null
+  },
+  {
+    "asset_id": "AST-MON-000543",
+    "assigned_date": "2026-09-07",
+    "assignment_id": "ASG-000130",
+    "case_id": "ONB-2026-000189",
+    "employee_id": "EMP-000189",
+    "recovered_date": "2026-10-01"
+  },
+  {
+    "asset_id": "AST-MON-000020",
+    "assigned_date": "2026-10-10",
+    "assignment_id": "ASG-000131",
+    "case_id": "ONB-2026-000190",
+    "employee_id": "EMP-000190",
+    "recovered_date": null
+  },
+  {
+    "asset_id": "AST-BAD-000329",
+    "assigned_date": "2026-10-28",
+    "assignment_id": "ASG-000132",
+    "case_id": "ONB-2026-000192",
+    "employee_id": "EMP-000192",
+    "recovered_date": null
+  },
+  {
+    "asset_id": "AST-BAD-000325",
+    "assigned_date": "2026-08-30",
+    "assignment_id": "ASG-000133",
+    "case_id": "ONB-2026-000193",
+    "employee_id": "EMP-000193",
+    "recovered_date": null
+  },
+  {
+    "asset_id": "AST-MON-000176",
+    "assigned_date": "2026-08-12",
+    "assignment_id": "ASG-000134",
+    "case_id": "ONB-2026-000194",
+    "employee_id": "EMP-000194",
+    "recovered_date": null
+  },
+  {
+    "asset_id": "AST-BAD-000177",
+    "assigned_date": "2026-08-31",
+    "assignment_id": "ASG-000135",
+    "case_id": "ONB-2026-000199",
+    "employee_id": "EMP-000199",
+    "recovered_date": null
+  },
+  {
+    "asset_id": "AST-BAD-000481",
+    "assigned_date": "2026-09-19",
+    "assignment_id": "ASG-000136",
+    "case_id": "ONB-2026-000201",
+    "employee_id": "EMP-000201",
+    "recovered_date": null
+  },
+  {
+    "asset_id": "AST-PHO-000456",
+    "assigned_date": "2026-08-02",
+    "assignment_id": "ASG-000137",
+    "case_id": "ONB-2026-000202",
+    "employee_id": "EMP-000202",
+    "recovered_date": null
+  },
+  {
+    "asset_id": "AST-PHO-000115",
+    "assigned_date": "2026-08-16",
+    "assignment_id": "ASG-000138",
+    "case_id": "ONB-2026-000203",
+    "employee_id": "EMP-000203",
+    "recovered_date": null
+  },
+  {
+    "asset_id": "AST-MON-000101",
+    "assigned_date": "2026-09-17",
+    "assignment_id": "ASG-000139",
+    "case_id": "ONB-2026-000204",
+    "employee_id": "EMP-000204",
+    "recovered_date": null
+  },
+  {
+    "asset_id": "AST-MON-000080",
+    "assigned_date": "2026-11-08",
+    "assignment_id": "ASG-000140",
+    "case_id": "ONB-2026-000205",
+    "employee_id": "EMP-000205",
+    "recovered_date": null
+  },
+  {
+    "asset_id": "AST-LAP-000281",
+    "assigned_date": "2026-08-17",
+    "assignment_id": "ASG-000141",
+    "case_id": "ONB-2026-000207",
+    "employee_id": "EMP-000207",
+    "recovered_date": "2026-09-24"
+  },
+  {
+    "asset_id": "AST-BAD-000113",
+    "assigned_date": "2026-11-18",
+    "assignment_id": "ASG-000142",
+    "case_id": "ONB-2026-000208",
+    "employee_id": "EMP-000208",
+    "recovered_date": null
+  },
+  {
+    "asset_id": "AST-MON-000242",
+    "assigned_date": "2026-12-13",
+    "assignment_id": "ASG-000143",
+    "case_id": "ONB-2026-000209",
+    "employee_id": "EMP-000209",
+    "recovered_date": null
+  },
+  {
+    "asset_id": "AST-LAP-000069",
+    "assigned_date": "2026-10-08",
+    "assignment_id": "ASG-000144",
+    "case_id": "ONB-2026-000210",
+    "employee_id": "EMP-000210",
+    "recovered_date": null
+  },
+  {
+    "asset_id": "AST-BAD-000292",
+    "assigned_date": "2026-11-24",
+    "assignment_id": "ASG-000145",
+    "case_id": "ONB-2026-000211",
+    "employee_id": "EMP-000211",
+    "recovered_date": null
+  },
+  {
+    "asset_id": "AST-BAD-000341",
+    "assigned_date": "2026-12-27",
+    "assignment_id": "ASG-000146",
+    "case_id": "ONB-2026-000212",
+    "employee_id": "EMP-000212",
+    "recovered_date": null
+  },
+  {
+    "asset_id": "AST-PHO-000400",
+    "assigned_date": "2026-09-09",
+    "assignment_id": "ASG-000147",
+    "case_id": "ONB-2026-000214",
+    "employee_id": "EMP-000214",
+    "recovered_date": null
+  },
+  {
+    "asset_id": "AST-LAP-000051",
+    "assigned_date": "2026-10-16",
+    "assignment_id": "ASG-000148",
+    "case_id": "ONB-2026-000215",
+    "employee_id": "EMP-000215",
+    "recovered_date": null
+  },
+  {
+    "asset_id": "AST-PHO-000366",
+    "assigned_date": "2026-07-27",
+    "assignment_id": "ASG-000149",
+    "case_id": "ONB-2026-000216",
+    "employee_id": "EMP-000216",
+    "recovered_date": "2026-10-13"
+  },
+  {
+    "asset_id": "AST-LAP-000406",
+    "assigned_date": "2026-08-15",
+    "assignment_id": "ASG-000150",
+    "case_id": "ONB-2026-000217",
+    "employee_id": "EMP-000217",
+    "recovered_date": null
+  },
+  {
+    "asset_id": "AST-LAP-000504",
+    "assigned_date": "2026-10-26",
+    "assignment_id": "ASG-000151",
+    "case_id": "ONB-2026-000218",
+    "employee_id": "EMP-000218",
+    "recovered_date": null
+  },
+  {
+    "asset_id": "AST-BAD-000192",
+    "assigned_date": "2026-10-09",
+    "assignment_id": "ASG-000152",
+    "case_id": "ONB-2026-000219",
+    "employee_id": "EMP-000219",
+    "recovered_date": null
+  },
+  {
+    "asset_id": "AST-BAD-000533",
+    "assigned_date": "2026-10-23",
+    "assignment_id": "ASG-000153",
+    "case_id": "ONB-2026-000220",
+    "employee_id": "EMP-000220",
+    "recovered_date": null
+  },
+  {
+    "asset_id": "AST-BAD-000147",
+    "assigned_date": "2026-08-01",
+    "assignment_id": "ASG-000154",
+    "case_id": "ONB-2026-000221",
+    "employee_id": "EMP-000221",
+    "recovered_date": null
+  },
+  {
+    "asset_id": "AST-MON-000527",
+    "assigned_date": "2026-11-20",
+    "assignment_id": "ASG-000155",
+    "case_id": "ONB-2026-000224",
+    "employee_id": "EMP-000224",
+    "recovered_date": null
+  },
+  {
+    "asset_id": "AST-BAD-000577",
+    "assigned_date": "2026-08-11",
+    "assignment_id": "ASG-000156",
+    "case_id": "ONB-2026-000225",
+    "employee_id": "EMP-000225",
+    "recovered_date": "2026-10-04"
+  },
+  {
+    "asset_id": "AST-MON-000473",
+    "assigned_date": "2026-12-19",
+    "assignment_id": "ASG-000157",
+    "case_id": "ONB-2026-000226",
+    "employee_id": "EMP-000226",
+    "recovered_date": null
+  },
+  {
+    "asset_id": "AST-MON-000035",
+    "assigned_date": "2026-07-24",
+    "assignment_id": "ASG-000158",
+    "case_id": "ONB-2026-000227",
+    "employee_id": "EMP-000227",
+    "recovered_date": null
+  },
+  {
+    "asset_id": "AST-PHO-000039",
+    "assigned_date": "2026-10-12",
+    "assignment_id": "ASG-000159",
+    "case_id": "ONB-2026-000230",
+    "employee_id": "EMP-000230",
+    "recovered_date": null
+  },
+  {
+    "asset_id": "AST-PHO-000352",
+    "assigned_date": "2026-10-23",
+    "assignment_id": "ASG-000160",
+    "case_id": "ONB-2026-000231",
+    "employee_id": "EMP-000231",
+    "recovered_date": null
+  },
+  {
+    "asset_id": "AST-PHO-000317",
+    "assigned_date": "2026-08-07",
+    "assignment_id": "ASG-000161",
+    "case_id": "ONB-2026-000233",
+    "employee_id": "EMP-000233",
+    "recovered_date": null
+  },
+  {
+    "asset_id": "AST-MON-000228",
+    "assigned_date": "2026-12-23",
+    "assignment_id": "ASG-000162",
+    "case_id": "ONB-2026-000237",
+    "employee_id": "EMP-000237",
+    "recovered_date": null
+  },
+  {
+    "asset_id": "AST-MON-000338",
+    "assigned_date": "2026-11-21",
+    "assignment_id": "ASG-000163",
+    "case_id": "ONB-2026-000238",
+    "employee_id": "EMP-000238",
+    "recovered_date": null
+  },
+  {
+    "asset_id": "AST-LAP-000383",
+    "assigned_date": "2026-12-03",
+    "assignment_id": "ASG-000164",
+    "case_id": "ONB-2026-000239",
+    "employee_id": "EMP-000239",
+    "recovered_date": null
+  },
+  {
+    "asset_id": "AST-LAP-000559",
+    "assigned_date": "2026-10-24",
+    "assignment_id": "ASG-000165",
+    "case_id": "ONB-2026-000240",
+    "employee_id": "EMP-000240",
+    "recovered_date": null
+  },
+  {
+    "asset_id": "AST-BAD-000047",
+    "assigned_date": "2026-10-02",
+    "assignment_id": "ASG-000166",
+    "case_id": "ONB-2026-000241",
+    "employee_id": "EMP-000241",
+    "recovered_date": null
+  },
+  {
+    "asset_id": "AST-LAP-000171",
+    "assigned_date": "2026-08-21",
+    "assignment_id": "ASG-000167",
+    "case_id": "ONB-2026-000242",
+    "employee_id": "EMP-000242",
+    "recovered_date": null
+  },
+  {
+    "asset_id": "AST-BAD-000111",
+    "assigned_date": "2026-08-21",
+    "assignment_id": "ASG-000168",
+    "case_id": "ONB-2026-000243",
+    "employee_id": "EMP-000243",
+    "recovered_date": "2026-09-27"
+  },
+  {
+    "asset_id": "AST-PHO-000135",
+    "assigned_date": "2026-10-02",
+    "assignment_id": "ASG-000169",
+    "case_id": "ONB-2026-000245",
+    "employee_id": "EMP-000245",
+    "recovered_date": null
+  },
+  {
+    "asset_id": "AST-PHO-000397",
+    "assigned_date": "2026-10-17",
+    "assignment_id": "ASG-000170",
+    "case_id": "ONB-2026-000246",
+    "employee_id": "EMP-000246",
+    "recovered_date": null
+  },
+  {
+    "asset_id": "AST-BAD-000195",
+    "assigned_date": "2026-09-22",
+    "assignment_id": "ASG-000171",
+    "case_id": "ONB-2026-000247",
+    "employee_id": "EMP-000247",
+    "recovered_date": null
+  },
+  {
+    "asset_id": "AST-LAP-000163",
+    "assigned_date": "2026-08-28",
+    "assignment_id": "ASG-000172",
+    "case_id": "ONB-2026-000248",
+    "employee_id": "EMP-000248",
+    "recovered_date": null
+  },
+  {
+    "asset_id": "AST-MON-000480",
+    "assigned_date": "2026-12-17",
+    "assignment_id": "ASG-000173",
+    "case_id": "ONB-2026-000249",
+    "employee_id": "EMP-000249",
+    "recovered_date": null
+  },
+  {
+    "asset_id": "AST-BAD-000299",
+    "assigned_date": "2026-12-10",
+    "assignment_id": "ASG-000174",
+    "case_id": "ONB-2026-000250",
+    "employee_id": "EMP-000250",
+    "recovered_date": null
+  },
+  {
+    "asset_id": "AST-LAP-000028",
+    "assigned_date": "2026-12-15",
+    "assignment_id": "ASG-000175",
+    "case_id": "ONB-2026-000251",
+    "employee_id": "EMP-000251",
+    "recovered_date": null
+  },
+  {
+    "asset_id": "AST-PHO-000379",
+    "assigned_date": "2026-10-13",
+    "assignment_id": "ASG-000176",
+    "case_id": "ONB-2026-000252",
+    "employee_id": "EMP-000252",
+    "recovered_date": "2026-10-16"
+  },
+  {
+    "asset_id": "AST-MON-000553",
+    "assigned_date": "2027-01-20",
+    "assignment_id": "ASG-000177",
+    "case_id": "ONB-2026-000254",
+    "employee_id": "EMP-000254",
+    "recovered_date": null
+  },
+  {
+    "asset_id": "AST-PHO-000212",
+    "assigned_date": "2026-09-26",
+    "assignment_id": "ASG-000178",
+    "case_id": "ONB-2026-000255",
+    "employee_id": "EMP-000255",
+    "recovered_date": null
+  },
+  {
+    "asset_id": "AST-PHO-000118",
+    "assigned_date": "2026-12-14",
+    "assignment_id": "ASG-000179",
+    "case_id": "ONB-2026-000256",
+    "employee_id": "EMP-000256",
+    "recovered_date": null
+  },
+  {
+    "asset_id": "AST-LAP-000062",
+    "assigned_date": "2026-11-27",
+    "assignment_id": "ASG-000180",
+    "case_id": "ONB-2026-000257",
+    "employee_id": "EMP-000257",
+    "recovered_date": null
+  },
+  {
+    "asset_id": "AST-MON-000445",
+    "assigned_date": "2026-10-30",
+    "assignment_id": "ASG-000181",
+    "case_id": "ONB-2026-000258",
+    "employee_id": "EMP-000258",
+    "recovered_date": null
+  },
+  {
+    "asset_id": "AST-PHO-000453",
+    "assigned_date": "2026-10-21",
+    "assignment_id": "ASG-000182",
+    "case_id": "ONB-2026-000262",
+    "employee_id": "EMP-000262",
+    "recovered_date": null
+  },
+  {
+    "asset_id": "AST-BAD-000344",
+    "assigned_date": "2026-11-18",
+    "assignment_id": "ASG-000183",
+    "case_id": "ONB-2026-000263",
+    "employee_id": "EMP-000263",
+    "recovered_date": null
+  },
+  {
+    "asset_id": "AST-LAP-000124",
+    "assigned_date": "2026-08-31",
+    "assignment_id": "ASG-000184",
+    "case_id": "ONB-2026-000264",
+    "employee_id": "EMP-000264",
+    "recovered_date": null
+  },
+  {
+    "asset_id": "AST-MON-000506",
+    "assigned_date": "2026-11-02",
+    "assignment_id": "ASG-000185",
+    "case_id": "ONB-2026-000265",
+    "employee_id": "EMP-000265",
+    "recovered_date": null
+  },
+  {
+    "asset_id": "AST-LAP-000391",
+    "assigned_date": "2026-12-08",
+    "assignment_id": "ASG-000186",
+    "case_id": "ONB-2026-000267",
+    "employee_id": "EMP-000267",
+    "recovered_date": null
+  },
+  {
+    "asset_id": "AST-BAD-000149",
+    "assigned_date": "2026-12-29",
+    "assignment_id": "ASG-000187",
+    "case_id": "ONB-2026-000268",
+    "employee_id": "EMP-000268",
+    "recovered_date": null
+  },
+  {
+    "asset_id": "AST-LAP-000389",
+    "assigned_date": "2026-12-13",
+    "assignment_id": "ASG-000188",
+    "case_id": "ONB-2026-000269",
+    "employee_id": "EMP-000269",
+    "recovered_date": null
+  },
+  {
+    "asset_id": "AST-LAP-000546",
+    "assigned_date": "2026-09-02",
+    "assignment_id": "ASG-000189",
+    "case_id": "ONB-2026-000270",
+    "employee_id": "EMP-000270",
+    "recovered_date": "2026-09-28"
+  },
+  {
+    "asset_id": "AST-BAD-000008",
+    "assigned_date": "2026-09-29",
+    "assignment_id": "ASG-000190",
+    "case_id": "ONB-2026-000271",
+    "employee_id": "EMP-000271",
+    "recovered_date": null
+  },
+  {
+    "asset_id": "AST-PHO-000085",
+    "assigned_date": "2026-09-04",
+    "assignment_id": "ASG-000191",
+    "case_id": "ONB-2026-000272",
+    "employee_id": "EMP-000272",
+    "recovered_date": null
+  },
+  {
+    "asset_id": "AST-MON-000535",
+    "assigned_date": "2027-01-16",
+    "assignment_id": "ASG-000192",
+    "case_id": "ONB-2026-000273",
+    "employee_id": "EMP-000273",
+    "recovered_date": null
+  },
+  {
+    "asset_id": "AST-MON-000026",
+    "assigned_date": "2026-11-23",
+    "assignment_id": "ASG-000193",
+    "case_id": "ONB-2026-000274",
+    "employee_id": "EMP-000274",
+    "recovered_date": null
+  },
+  {
+    "asset_id": "AST-PHO-000336",
+    "assigned_date": "2026-12-29",
+    "assignment_id": "ASG-000194",
+    "case_id": "ONB-2026-000275",
+    "employee_id": "EMP-000275",
+    "recovered_date": null
+  },
+  {
+    "asset_id": "AST-BAD-000019",
+    "assigned_date": "2026-08-23",
+    "assignment_id": "ASG-000195",
+    "case_id": "ONB-2026-000276",
+    "employee_id": "EMP-000276",
+    "recovered_date": null
+  },
+  {
+    "asset_id": "AST-MON-000238",
+    "assigned_date": "2026-12-09",
+    "assignment_id": "ASG-000196",
+    "case_id": "ONB-2026-000278",
+    "employee_id": "EMP-000278",
+    "recovered_date": null
+  },
+  {
+    "asset_id": "AST-BAD-000319",
+    "assigned_date": "2026-09-19",
+    "assignment_id": "ASG-000197",
+    "case_id": "ONB-2026-000279",
+    "employee_id": "EMP-000279",
+    "recovered_date": "2026-10-18"
+  },
+  {
+    "asset_id": "AST-PHO-000399",
+    "assigned_date": "2026-10-24",
+    "assignment_id": "ASG-000198",
+    "case_id": "ONB-2026-000280",
+    "employee_id": "EMP-000280",
+    "recovered_date": null
+  },
+  {
+    "asset_id": "AST-MON-000470",
+    "assigned_date": "2027-01-14",
+    "assignment_id": "ASG-000199",
+    "case_id": "ONB-2026-000281",
+    "employee_id": "EMP-000281",
+    "recovered_date": null
+  },
+  {
+    "asset_id": "AST-PHO-000363",
+    "assigned_date": "2026-11-05",
+    "assignment_id": "ASG-000200",
+    "case_id": "ONB-2026-000282",
+    "employee_id": "EMP-000282",
+    "recovered_date": null
+  },
+  {
+    "asset_id": "AST-BAD-000114",
+    "assigned_date": "2026-07-31",
+    "assignment_id": "ASG-000201",
+    "case_id": "ONB-2026-000283",
+    "employee_id": "EMP-000283",
+    "recovered_date": null
+  },
+  {
+    "asset_id": "AST-MON-000371",
+    "assigned_date": "2026-10-06",
+    "assignment_id": "ASG-000202",
+    "case_id": "ONB-2026-000285",
+    "employee_id": "EMP-000285",
+    "recovered_date": null
+  },
+  {
+    "asset_id": "AST-BAD-000562",
+    "assigned_date": "2026-08-22",
+    "assignment_id": "ASG-000203",
+    "case_id": "ONB-2026-000287",
+    "employee_id": "EMP-000287",
+    "recovered_date": null
+  },
+  {
+    "asset_id": "AST-BAD-000141",
+    "assigned_date": "2026-09-17",
+    "assignment_id": "ASG-000204",
+    "case_id": "ONB-2026-000288",
+    "employee_id": "EMP-000288",
+    "recovered_date": "2026-09-24"
+  },
+  {
+    "asset_id": "AST-MON-000591",
+    "assigned_date": "2026-12-11",
+    "assignment_id": "ASG-000205",
+    "case_id": "ONB-2026-000289",
+    "employee_id": "EMP-000289",
+    "recovered_date": null
+  },
+  {
+    "asset_id": "AST-PHO-000435",
+    "assigned_date": "2026-08-21",
+    "assignment_id": "ASG-000206",
+    "case_id": "ONB-2026-000292",
+    "employee_id": "EMP-000292",
+    "recovered_date": null
+  },
+  {
+    "asset_id": "AST-BAD-000306",
+    "assigned_date": "2026-12-31",
+    "assignment_id": "ASG-000207",
+    "case_id": "ONB-2026-000294",
+    "employee_id": "EMP-000294",
+    "recovered_date": null
+  },
+  {
+    "asset_id": "AST-LAP-000156",
+    "assigned_date": "2026-09-27",
+    "assignment_id": "ASG-000208",
+    "case_id": "ONB-2026-000296",
+    "employee_id": "EMP-000296",
+    "recovered_date": null
+  },
+  {
+    "asset_id": "AST-BAD-000436",
+    "assigned_date": "2026-08-05",
+    "assignment_id": "ASG-000209",
+    "case_id": "ONB-2026-000297",
+    "employee_id": "EMP-000297",
+    "recovered_date": "2026-09-23"
+  },
+  {
+    "asset_id": "AST-LAP-000279",
+    "assigned_date": "2026-10-24",
+    "assignment_id": "ASG-000210",
+    "case_id": "ONB-2026-000300",
+    "employee_id": "EMP-000300",
+    "recovered_date": null
+  },
+  {
+    "asset_id": "AST-PHO-000586",
+    "assigned_date": "2026-11-13",
+    "assignment_id": "ASG-000211",
+    "case_id": "ONB-2026-000303",
+    "employee_id": "EMP-000303",
+    "recovered_date": null
+  },
+  {
+    "asset_id": "AST-BAD-000512",
+    "assigned_date": "2026-10-02",
+    "assignment_id": "ASG-000212",
+    "case_id": "ONB-2026-000305",
+    "employee_id": "EMP-000305",
+    "recovered_date": null
+  },
+  {
+    "asset_id": "AST-LAP-000476",
+    "assigned_date": "2026-09-24",
+    "assignment_id": "ASG-000213",
+    "case_id": "ONB-2026-000306",
+    "employee_id": "EMP-000306",
+    "recovered_date": "2026-10-17"
+  },
+  {
+    "asset_id": "AST-PHO-000180",
+    "assigned_date": "2027-01-18",
+    "assignment_id": "ASG-000214",
+    "case_id": "ONB-2026-000307",
+    "employee_id": "EMP-000307",
+    "recovered_date": null
+  },
+  {
+    "asset_id": "AST-BAD-000235",
+    "assigned_date": "2026-08-26",
+    "assignment_id": "ASG-000215",
+    "case_id": "ONB-2026-000309",
+    "employee_id": "EMP-000309",
+    "recovered_date": null
+  },
+  {
+    "asset_id": "AST-PHO-000293",
+    "assigned_date": "2026-12-11",
+    "assignment_id": "ASG-000216",
+    "case_id": "ONB-2026-000310",
+    "employee_id": "EMP-000310",
+    "recovered_date": null
+  },
+  {
+    "asset_id": "AST-LAP-000572",
+    "assigned_date": "2026-08-02",
+    "assignment_id": "ASG-000217",
+    "case_id": "ONB-2026-000311",
+    "employee_id": "EMP-000311",
+    "recovered_date": null
+  },
+  {
+    "asset_id": "AST-BAD-000234",
+    "assigned_date": "2027-01-07",
+    "assignment_id": "ASG-000218",
+    "case_id": "ONB-2026-000312",
+    "employee_id": "EMP-000312",
+    "recovered_date": null
+  },
+  {
+    "asset_id": "AST-BAD-000332",
+    "assigned_date": "2027-01-13",
+    "assignment_id": "ASG-000219",
+    "case_id": "ONB-2026-000313",
+    "employee_id": "EMP-000313",
+    "recovered_date": null
+  },
+  {
+    "asset_id": "AST-MON-000154",
+    "assigned_date": "2026-09-12",
+    "assignment_id": "ASG-000220",
+    "case_id": "ONB-2026-000315",
+    "employee_id": "EMP-000315",
+    "recovered_date": "2026-10-17"
+  },
+  {
+    "asset_id": "AST-MON-000107",
+    "assigned_date": "2026-11-14",
+    "assignment_id": "ASG-000221",
+    "case_id": "ONB-2026-000316",
+    "employee_id": "EMP-000316",
+    "recovered_date": null
+  },
+  {
+    "asset_id": "AST-BAD-000465",
+    "assigned_date": "2026-12-21",
+    "assignment_id": "ASG-000222",
+    "case_id": "ONB-2026-000318",
+    "employee_id": "EMP-000318",
+    "recovered_date": null
+  },
+  {
+    "asset_id": "AST-BAD-000483",
+    "assigned_date": "2026-08-31",
+    "assignment_id": "ASG-000223",
+    "case_id": "ONB-2026-000319",
+    "employee_id": "EMP-000319",
+    "recovered_date": null
+  },
+  {
+    "asset_id": "AST-MON-000205",
+    "assigned_date": "2026-08-09",
+    "assignment_id": "ASG-000224",
+    "case_id": "ONB-2026-000321",
+    "employee_id": "EMP-000321",
+    "recovered_date": null
+  },
+  {
+    "asset_id": "AST-BAD-000256",
+    "assigned_date": "2026-12-24",
+    "assignment_id": "ASG-000225",
+    "case_id": "ONB-2026-000323",
+    "employee_id": "EMP-000323",
+    "recovered_date": null
+  },
+  {
+    "asset_id": "AST-MON-000484",
+    "assigned_date": "2026-09-04",
+    "assignment_id": "ASG-000226",
+    "case_id": "ONB-2026-000325",
+    "employee_id": "EMP-000325",
+    "recovered_date": null
+  },
+  {
+    "asset_id": "AST-MON-000095",
+    "assigned_date": "2026-11-17",
+    "assignment_id": "ASG-000227",
+    "case_id": "ONB-2026-000326",
+    "employee_id": "EMP-000326",
+    "recovered_date": null
+  },
+  {
+    "asset_id": "AST-PHO-000326",
+    "assigned_date": "2026-08-14",
+    "assignment_id": "ASG-000228",
+    "case_id": "ONB-2026-000327",
+    "employee_id": "EMP-000327",
+    "recovered_date": null
+  },
+  {
+    "asset_id": "AST-MON-000194",
+    "assigned_date": "2026-10-15",
+    "assignment_id": "ASG-000229",
+    "case_id": "ONB-2026-000328",
+    "employee_id": "EMP-000328",
+    "recovered_date": null
+  },
+  {
+    "asset_id": "AST-LAP-000089",
+    "assigned_date": "2026-12-02",
+    "assignment_id": "ASG-000230",
+    "case_id": "ONB-2026-000329",
+    "employee_id": "EMP-000329",
+    "recovered_date": null
+  },
+  {
+    "asset_id": "AST-BAD-000068",
+    "assigned_date": "2026-09-17",
+    "assignment_id": "ASG-000231",
+    "case_id": "ONB-2026-000331",
+    "employee_id": "EMP-000331",
+    "recovered_date": null
+  },
+  {
+    "asset_id": "AST-LAP-000109",
+    "assigned_date": "2026-08-12",
+    "assignment_id": "ASG-000232",
+    "case_id": "ONB-2026-000334",
+    "employee_id": "EMP-000334",
+    "recovered_date": null
+  },
+  {
+    "asset_id": "AST-LAP-000236",
+    "assigned_date": "2026-12-02",
+    "assignment_id": "ASG-000233",
+    "case_id": "ONB-2026-000338",
+    "employee_id": "EMP-000338",
+    "recovered_date": null
+  },
+  {
+    "asset_id": "AST-PHO-000402",
+    "assigned_date": "2026-10-24",
+    "assignment_id": "ASG-000234",
+    "case_id": "ONB-2026-000340",
+    "employee_id": "EMP-000340",
+    "recovered_date": null
+  },
+  {
+    "asset_id": "AST-PHO-000122",
+    "assigned_date": "2026-11-02",
+    "assignment_id": "ASG-000235",
+    "case_id": "ONB-2026-000341",
+    "employee_id": "EMP-000341",
+    "recovered_date": null
+  },
+  {
+    "asset_id": "AST-LAP-000220",
+    "assigned_date": "2026-08-15",
+    "assignment_id": "ASG-000236",
+    "case_id": "ONB-2026-000342",
+    "employee_id": "EMP-000342",
+    "recovered_date": "2026-10-03"
+  },
+  {
+    "asset_id": "AST-MON-000581",
+    "assigned_date": "2026-09-16",
+    "assignment_id": "ASG-000237",
+    "case_id": "ONB-2026-000343",
+    "employee_id": "EMP-000343",
+    "recovered_date": null
+  },
+  {
+    "asset_id": "AST-BAD-000330",
+    "assigned_date": "2026-12-23",
+    "assignment_id": "ASG-000238",
+    "case_id": "ONB-2026-000344",
+    "employee_id": "EMP-000344",
+    "recovered_date": null
+  },
+  {
+    "asset_id": "AST-PHO-000097",
+    "assigned_date": "2026-08-19",
+    "assignment_id": "ASG-000239",
+    "case_id": "ONB-2026-000345",
+    "employee_id": "EMP-000345",
+    "recovered_date": null
+  },
+  {
+    "asset_id": "AST-BAD-000277",
+    "assigned_date": "2026-12-10",
+    "assignment_id": "ASG-000240",
+    "case_id": "ONB-2026-000347",
+    "employee_id": "EMP-000347",
+    "recovered_date": null
+  },
+  {
+    "asset_id": "AST-PHO-000134",
+    "assigned_date": "2026-10-12",
+    "assignment_id": "ASG-000241",
+    "case_id": "ONB-2026-000348",
+    "employee_id": "EMP-000348",
+    "recovered_date": null
+  },
+  {
+    "asset_id": "AST-BAD-000370",
+    "assigned_date": "2026-12-26",
+    "assignment_id": "ASG-000242",
+    "case_id": "ONB-2026-000349",
+    "employee_id": "EMP-000349",
+    "recovered_date": null
+  },
+  {
+    "asset_id": "AST-PHO-000356",
+    "assigned_date": "2026-12-13",
+    "assignment_id": "ASG-000243",
+    "case_id": "ONB-2026-000350",
+    "employee_id": "EMP-000350",
+    "recovered_date": null
+  },
+  {
+    "asset_id": "AST-BAD-000549",
+    "assigned_date": "2026-08-02",
+    "assignment_id": "ASG-000244",
+    "case_id": "ONB-2026-000351",
+    "employee_id": "EMP-000351",
+    "recovered_date": "2026-09-22"
+  },
+  {
+    "asset_id": "AST-MON-000216",
+    "assigned_date": "2026-07-29",
+    "assignment_id": "ASG-000245",
+    "case_id": "ONB-2026-000352",
+    "employee_id": "EMP-000352",
+    "recovered_date": null
+  },
+  {
+    "asset_id": "AST-BAD-000282",
+    "assigned_date": "2026-11-26",
+    "assignment_id": "ASG-000246",
+    "case_id": "ONB-2026-000354",
+    "employee_id": "EMP-000354",
+    "recovered_date": null
+  },
+  {
+    "asset_id": "AST-MON-000037",
+    "assigned_date": "2026-12-19",
+    "assignment_id": "ASG-000247",
+    "case_id": "ONB-2026-000355",
+    "employee_id": "EMP-000355",
+    "recovered_date": null
+  },
+  {
+    "asset_id": "AST-LAP-000046",
+    "assigned_date": "2026-07-29",
+    "assignment_id": "ASG-000248",
+    "case_id": "ONB-2026-000356",
+    "employee_id": "EMP-000356",
+    "recovered_date": null
+  },
+  {
+    "asset_id": "AST-PHO-000529",
+    "assigned_date": "2026-09-16",
+    "assignment_id": "ASG-000249",
+    "case_id": "ONB-2026-000357",
+    "employee_id": "EMP-000357",
+    "recovered_date": null
+  },
+  {
+    "asset_id": "AST-PHO-000490",
+    "assigned_date": "2026-11-09",
+    "assignment_id": "ASG-000250",
+    "case_id": "ONB-2026-000358",
+    "employee_id": "EMP-000358",
+    "recovered_date": null
+  },
+  {
+    "asset_id": "AST-BAD-000144",
+    "assigned_date": "2026-09-29",
+    "assignment_id": "ASG-000251",
+    "case_id": "ONB-2026-000359",
+    "employee_id": "EMP-000359",
+    "recovered_date": null
+  },
+  {
+    "asset_id": "AST-MON-000349",
+    "assigned_date": "2026-09-20",
+    "assignment_id": "ASG-000252",
+    "case_id": "ONB-2026-000360",
+    "employee_id": "EMP-000360",
+    "recovered_date": "2026-10-18"
+  },
+  {
+    "asset_id": "AST-MON-000186",
+    "assigned_date": "2026-12-24",
+    "assignment_id": "ASG-000253",
+    "case_id": "ONB-2026-000362",
+    "employee_id": "EMP-000362",
+    "recovered_date": null
+  },
+  {
+    "asset_id": "AST-BAD-000059",
+    "assigned_date": "2026-07-31",
+    "assignment_id": "ASG-000254",
+    "case_id": "ONB-2026-000363",
+    "employee_id": "EMP-000363",
+    "recovered_date": null
+  },
+  {
+    "asset_id": "AST-LAP-000517",
+    "assigned_date": "2027-01-14",
+    "assignment_id": "ASG-000255",
+    "case_id": "ONB-2026-000364",
+    "employee_id": "EMP-000364",
+    "recovered_date": null
+  },
+  {
+    "asset_id": "AST-MON-000342",
+    "assigned_date": "2026-11-02",
+    "assignment_id": "ASG-000256",
+    "case_id": "ONB-2026-000365",
+    "employee_id": "EMP-000365",
+    "recovered_date": null
+  },
+  {
+    "asset_id": "AST-PHO-000151",
+    "assigned_date": "2026-11-28",
+    "assignment_id": "ASG-000257",
+    "case_id": "ONB-2026-000366",
+    "employee_id": "EMP-000366",
+    "recovered_date": null
+  },
+  {
+    "asset_id": "AST-MON-000139",
+    "assigned_date": "2026-11-14",
+    "assignment_id": "ASG-000258",
+    "case_id": "ONB-2026-000367",
+    "employee_id": "EMP-000367",
+    "recovered_date": null
+  },
+  {
+    "asset_id": "AST-PHO-000354",
+    "assigned_date": "2026-11-17",
+    "assignment_id": "ASG-000259",
+    "case_id": "ONB-2026-000368",
+    "employee_id": "EMP-000368",
+    "recovered_date": null
+  },
+  {
+    "asset_id": "AST-BAD-000267",
+    "assigned_date": "2026-08-27",
+    "assignment_id": "ASG-000260",
+    "case_id": "ONB-2026-000369",
+    "employee_id": "EMP-000369",
+    "recovered_date": "2026-10-12"
+  },
+  {
+    "asset_id": "AST-LAP-000427",
+    "assigned_date": "2027-01-06",
+    "assignment_id": "ASG-000261",
+    "case_id": "ONB-2026-000370",
+    "employee_id": "EMP-000370",
+    "recovered_date": null
+  },
+  {
+    "asset_id": "AST-BAD-000447",
+    "assigned_date": "2026-12-06",
+    "assignment_id": "ASG-000262",
+    "case_id": "ONB-2026-000371",
+    "employee_id": "EMP-000371",
+    "recovered_date": null
+  },
+  {
+    "asset_id": "AST-PHO-000289",
+    "assigned_date": "2026-12-02",
+    "assignment_id": "ASG-000263",
+    "case_id": "ONB-2026-000372",
+    "employee_id": "EMP-000372",
+    "recovered_date": null
+  },
+  {
+    "asset_id": "AST-BAD-000169",
+    "assigned_date": "2026-09-18",
+    "assignment_id": "ASG-000264",
+    "case_id": "ONB-2026-000374",
+    "employee_id": "EMP-000374",
+    "recovered_date": null
+  },
+  {
+    "asset_id": "AST-MON-000452",
+    "assigned_date": "2026-10-27",
+    "assignment_id": "ASG-000265",
+    "case_id": "ONB-2026-000375",
+    "employee_id": "EMP-000375",
+    "recovered_date": null
+  },
+  {
+    "asset_id": "AST-PHO-000126",
+    "assigned_date": "2026-12-29",
+    "assignment_id": "ASG-000266",
+    "case_id": "ONB-2026-000377",
+    "employee_id": "EMP-000377",
+    "recovered_date": null
+  },
+  {
+    "asset_id": "AST-LAP-000048",
+    "assigned_date": "2026-12-19",
+    "assignment_id": "ASG-000267",
+    "case_id": "ONB-2026-000379",
+    "employee_id": "EMP-000379",
+    "recovered_date": null
+  },
+  {
+    "asset_id": "AST-LAP-000297",
+    "assigned_date": "2026-10-21",
+    "assignment_id": "ASG-000268",
+    "case_id": "ONB-2026-000380",
+    "employee_id": "EMP-000380",
+    "recovered_date": null
+  },
+  {
+    "asset_id": "AST-LAP-000241",
+    "assigned_date": "2026-09-01",
+    "assignment_id": "ASG-000269",
+    "case_id": "ONB-2026-000381",
+    "employee_id": "EMP-000381",
+    "recovered_date": null
+  },
+  {
+    "asset_id": "AST-MON-000407",
+    "assigned_date": "2026-11-13",
+    "assignment_id": "ASG-000270",
+    "case_id": "ONB-2026-000382",
+    "employee_id": "EMP-000382",
+    "recovered_date": null
+  },
+  {
+    "asset_id": "AST-BAD-000552",
+    "assigned_date": "2026-10-30",
+    "assignment_id": "ASG-000271",
+    "case_id": "ONB-2026-000383",
+    "employee_id": "EMP-000383",
+    "recovered_date": null
+  },
+  {
+    "asset_id": "AST-BAD-000501",
+    "assigned_date": "2026-09-16",
+    "assignment_id": "ASG-000272",
+    "case_id": "ONB-2026-000385",
+    "employee_id": "EMP-000385",
+    "recovered_date": null
+  },
+  {
+    "asset_id": "AST-MON-000208",
+    "assigned_date": "2026-09-07",
+    "assignment_id": "ASG-000273",
+    "case_id": "ONB-2026-000386",
+    "employee_id": "EMP-000386",
+    "recovered_date": null
+  },
+  {
+    "asset_id": "AST-LAP-000273",
+    "assigned_date": "2026-07-28",
+    "assignment_id": "ASG-000274",
+    "case_id": "ONB-2026-000388",
+    "employee_id": "EMP-000388",
+    "recovered_date": null
+  },
+  {
+    "asset_id": "AST-PHO-000347",
+    "assigned_date": "2026-09-11",
+    "assignment_id": "ASG-000275",
+    "case_id": "ONB-2026-000389",
+    "employee_id": "EMP-000389",
+    "recovered_date": null
+  },
+  {
+    "asset_id": "AST-BAD-000416",
+    "assigned_date": "2026-07-28",
+    "assignment_id": "ASG-000276",
+    "case_id": "ONB-2026-000390",
+    "employee_id": "EMP-000390",
+    "recovered_date": null
+  },
+  {
+    "asset_id": "AST-PHO-000315",
+    "assigned_date": "2026-10-25",
+    "assignment_id": "ASG-000277",
+    "case_id": "ONB-2026-000391",
+    "employee_id": "EMP-000391",
+    "recovered_date": null
+  },
+  {
+    "asset_id": "AST-PHO-000518",
+    "assigned_date": "2026-08-16",
+    "assignment_id": "ASG-000278",
+    "case_id": "ONB-2026-000392",
+    "employee_id": "EMP-000392",
+    "recovered_date": null
+  },
+  {
+    "asset_id": "AST-BAD-000168",
+    "assigned_date": "2026-08-26",
+    "assignment_id": "ASG-000279",
+    "case_id": "ONB-2026-000393",
+    "employee_id": "EMP-000393",
+    "recovered_date": null
+  },
+  {
+    "asset_id": "AST-LAP-000345",
+    "assigned_date": "2026-12-24",
+    "assignment_id": "ASG-000280",
+    "case_id": "ONB-2026-000394",
+    "employee_id": "EMP-000394",
+    "recovered_date": null
+  },
+  {
+    "asset_id": "AST-LAP-000188",
+    "assigned_date": "2026-12-21",
+    "assignment_id": "ASG-000281",
+    "case_id": "ONB-2026-000395",
+    "employee_id": "EMP-000395",
+    "recovered_date": null
+  },
+  {
+    "asset_id": "AST-PHO-000091",
+    "assigned_date": "2026-08-15",
+    "assignment_id": "ASG-000282",
+    "case_id": "ONB-2026-000396",
+    "employee_id": "EMP-000396",
+    "recovered_date": "2026-10-08"
+  },
+  {
+    "asset_id": "AST-PHO-000539",
+    "assigned_date": "2026-09-01",
+    "assignment_id": "ASG-000283",
+    "case_id": "ONB-2026-000397",
+    "employee_id": "EMP-000397",
+    "recovered_date": null
+  },
+  {
+    "asset_id": "AST-PHO-000585",
+    "assigned_date": "2026-10-19",
+    "assignment_id": "ASG-000284",
+    "case_id": "ONB-2026-000398",
+    "employee_id": "EMP-000398",
+    "recovered_date": null
+  },
+  {
+    "asset_id": "AST-LAP-000252",
+    "assigned_date": "2026-10-20",
+    "assignment_id": "ASG-000285",
+    "case_id": "ONB-2026-000400",
+    "employee_id": "EMP-000400",
+    "recovered_date": null
+  },
+  {
+    "asset_id": "AST-BAD-000412",
+    "assigned_date": "2026-12-03",
+    "assignment_id": "ASG-000286",
+    "case_id": "ONB-2026-000402",
+    "employee_id": "EMP-000402",
+    "recovered_date": null
+  },
+  {
+    "asset_id": "AST-MON-000013",
+    "assigned_date": "2026-11-29",
+    "assignment_id": "ASG-000287",
+    "case_id": "ONB-2026-000403",
+    "employee_id": "EMP-000403",
+    "recovered_date": null
+  },
+  {
+    "asset_id": "AST-BAD-000049",
+    "assigned_date": "2026-11-18",
+    "assignment_id": "ASG-000288",
+    "case_id": "ONB-2026-000404",
+    "employee_id": "EMP-000404",
+    "recovered_date": null
+  },
+  {
+    "asset_id": "AST-PHO-000388",
+    "assigned_date": "2026-09-14",
+    "assignment_id": "ASG-000289",
+    "case_id": "ONB-2026-000405",
+    "employee_id": "EMP-000405",
+    "recovered_date": "2026-10-17"
+  },
+  {
+    "asset_id": "AST-MON-000018",
+    "assigned_date": "2027-01-18",
+    "assignment_id": "ASG-000290",
+    "case_id": "ONB-2026-000406",
+    "employee_id": "EMP-000406",
+    "recovered_date": null
+  },
+  {
+    "asset_id": "AST-LAP-000307",
+    "assigned_date": "2026-10-06",
+    "assignment_id": "ASG-000291",
+    "case_id": "ONB-2026-000407",
+    "employee_id": "EMP-000407",
+    "recovered_date": null
+  },
+  {
+    "asset_id": "AST-PHO-000550",
+    "assigned_date": "2026-09-14",
+    "assignment_id": "ASG-000292",
+    "case_id": "ONB-2026-000409",
+    "employee_id": "EMP-000409",
+    "recovered_date": null
+  },
+  {
+    "asset_id": "AST-BAD-000162",
+    "assigned_date": "2026-09-22",
+    "assignment_id": "ASG-000293",
+    "case_id": "ONB-2026-000410",
+    "employee_id": "EMP-000410",
+    "recovered_date": null
+  },
+  {
+    "asset_id": "AST-LAP-000499",
+    "assigned_date": "2027-01-01",
+    "assignment_id": "ASG-000294",
+    "case_id": "ONB-2026-000412",
+    "employee_id": "EMP-000412",
+    "recovered_date": null
+  },
+  {
+    "asset_id": "AST-LAP-000574",
+    "assigned_date": "2026-12-05",
+    "assignment_id": "ASG-000295",
+    "case_id": "ONB-2026-000413",
+    "employee_id": "EMP-000413",
+    "recovered_date": null
+  },
+  {
+    "asset_id": "AST-PHO-000266",
+    "assigned_date": "2027-01-08",
+    "assignment_id": "ASG-000296",
+    "case_id": "ONB-2026-000415",
+    "employee_id": "EMP-000415",
+    "recovered_date": null
+  },
+  {
+    "asset_id": "AST-MON-000272",
+    "assigned_date": "2026-11-18",
+    "assignment_id": "ASG-000297",
+    "case_id": "ONB-2026-000417",
+    "employee_id": "EMP-000417",
+    "recovered_date": null
+  },
+  {
+    "asset_id": "AST-PHO-000254",
+    "assigned_date": "2026-10-20",
+    "assignment_id": "ASG-000298",
+    "case_id": "ONB-2026-000418",
+    "employee_id": "EMP-000418",
+    "recovered_date": null
+  },
+  {
+    "asset_id": "AST-BAD-000036",
+    "assigned_date": "2026-11-21",
+    "assignment_id": "ASG-000299",
+    "case_id": "ONB-2026-000419",
+    "employee_id": "EMP-000419",
+    "recovered_date": null
+  },
+  {
+    "asset_id": "AST-LAP-000087",
+    "assigned_date": "2026-10-22",
+    "assignment_id": "ASG-000300",
+    "case_id": "ONB-2026-000420",
+    "employee_id": "EMP-000420",
+    "recovered_date": null
+  },
+  {
+    "asset_id": "AST-MON-000092",
+    "assigned_date": "2027-01-03",
+    "assignment_id": "ASG-000301",
+    "case_id": "ONB-2026-000422",
+    "employee_id": "EMP-000422",
+    "recovered_date": null
+  },
+  {
+    "asset_id": "AST-PHO-000258",
+    "assigned_date": "2026-09-28",
+    "assignment_id": "ASG-000302",
+    "case_id": "ONB-2026-000424",
+    "employee_id": "EMP-000424",
+    "recovered_date": null
+  },
+  {
+    "asset_id": "AST-PHO-000202",
+    "assigned_date": "2026-11-05",
+    "assignment_id": "ASG-000303",
+    "case_id": "ONB-2026-000425",
+    "employee_id": "EMP-000425",
+    "recovered_date": null
+  },
+  {
+    "asset_id": "AST-PHO-000339",
+    "assigned_date": "2026-10-16",
+    "assignment_id": "ASG-000304",
+    "case_id": "ONB-2026-000427",
+    "employee_id": "EMP-000427",
+    "recovered_date": null
+  },
+  {
+    "asset_id": "AST-BAD-000138",
+    "assigned_date": "2026-11-25",
+    "assignment_id": "ASG-000305",
+    "case_id": "ONB-2026-000428",
+    "employee_id": "EMP-000428",
+    "recovered_date": null
+  },
+  {
+    "asset_id": "AST-MON-000375",
+    "assigned_date": "2026-10-11",
+    "assignment_id": "ASG-000306",
+    "case_id": "ONB-2026-000429",
+    "employee_id": "EMP-000429",
+    "recovered_date": null
+  },
+  {
+    "asset_id": "AST-BAD-000498",
+    "assigned_date": "2026-09-03",
+    "assignment_id": "ASG-000307",
+    "case_id": "ONB-2026-000430",
+    "employee_id": "EMP-000430",
+    "recovered_date": null
+  },
+  {
+    "asset_id": "AST-BAD-000514",
+    "assigned_date": "2026-12-09",
+    "assignment_id": "ASG-000308",
+    "case_id": "ONB-2026-000431",
+    "employee_id": "EMP-000431",
+    "recovered_date": null
+  },
+  {
+    "asset_id": "AST-BAD-000573",
+    "assigned_date": "2026-07-28",
+    "assignment_id": "ASG-000309",
+    "case_id": "ONB-2026-000432",
+    "employee_id": "EMP-000432",
+    "recovered_date": "2026-09-25"
+  },
+  {
+    "asset_id": "AST-PHO-000492",
+    "assigned_date": "2026-10-11",
+    "assignment_id": "ASG-000310",
+    "case_id": "ONB-2026-000434",
+    "employee_id": "EMP-000434",
+    "recovered_date": null
+  },
+  {
+    "asset_id": "AST-MON-000472",
+    "assigned_date": "2026-10-20",
+    "assignment_id": "ASG-000311",
+    "case_id": "ONB-2026-000435",
+    "employee_id": "EMP-000435",
+    "recovered_date": null
+  },
+  {
+    "asset_id": "AST-MON-000426",
+    "assigned_date": "2026-11-12",
+    "assignment_id": "ASG-000312",
+    "case_id": "ONB-2026-000436",
+    "employee_id": "EMP-000436",
+    "recovered_date": null
+  },
+  {
+    "asset_id": "AST-PHO-000071",
+    "assigned_date": "2026-10-20",
+    "assignment_id": "ASG-000313",
+    "case_id": "ONB-2026-000437",
+    "employee_id": "EMP-000437",
+    "recovered_date": null
+  },
+  {
+    "asset_id": "AST-MON-000415",
+    "assigned_date": "2026-08-31",
+    "assignment_id": "ASG-000314",
+    "case_id": "ONB-2026-000439",
+    "employee_id": "EMP-000439",
+    "recovered_date": null
+  },
+  {
+    "asset_id": "AST-LAP-000548",
+    "assigned_date": "2026-09-01",
+    "assignment_id": "ASG-000315",
+    "case_id": "ONB-2026-000441",
+    "employee_id": "EMP-000441",
+    "recovered_date": "2026-10-13"
+  },
+  {
+    "asset_id": "AST-PHO-000413",
+    "assigned_date": "2027-01-05",
+    "assignment_id": "ASG-000316",
+    "case_id": "ONB-2026-000442",
+    "employee_id": "EMP-000442",
+    "recovered_date": null
+  },
+  {
+    "asset_id": "AST-BAD-000321",
+    "assigned_date": "2026-08-13",
+    "assignment_id": "ASG-000317",
+    "case_id": "ONB-2026-000443",
+    "employee_id": "EMP-000443",
+    "recovered_date": null
+  },
+  {
+    "asset_id": "AST-MON-000280",
+    "assigned_date": "2026-09-02",
+    "assignment_id": "ASG-000318",
+    "case_id": "ONB-2026-000444",
+    "employee_id": "EMP-000444",
+    "recovered_date": null
+  },
+  {
+    "asset_id": "AST-PHO-000191",
+    "assigned_date": "2026-08-27",
+    "assignment_id": "ASG-000319",
+    "case_id": "ONB-2026-000446",
+    "employee_id": "EMP-000446",
+    "recovered_date": null
+  },
+  {
+    "asset_id": "AST-PHO-000534",
+    "assigned_date": "2026-10-15",
+    "assignment_id": "ASG-000320",
+    "case_id": "ONB-2026-000447",
+    "employee_id": "EMP-000447",
+    "recovered_date": null
+  },
+  {
+    "asset_id": "AST-LAP-000525",
+    "assigned_date": "2026-09-07",
+    "assignment_id": "ASG-000321",
+    "case_id": "ONB-2026-000450",
+    "employee_id": "EMP-000450",
+    "recovered_date": "2026-10-10"
+  },
+  {
+    "asset_id": "AST-BAD-000421",
+    "assigned_date": "2026-10-15",
+    "assignment_id": "ASG-000322",
+    "case_id": "ONB-2026-000451",
+    "employee_id": "EMP-000451",
+    "recovered_date": null
+  },
+  {
+    "asset_id": "AST-PHO-000209",
+    "assigned_date": "2026-08-10",
+    "assignment_id": "ASG-000323",
+    "case_id": "ONB-2026-000452",
+    "employee_id": "EMP-000452",
+    "recovered_date": null
+  },
+  {
+    "asset_id": "AST-MON-000271",
+    "assigned_date": "2026-08-31",
+    "assignment_id": "ASG-000324",
+    "case_id": "ONB-2026-000455",
+    "employee_id": "EMP-000455",
+    "recovered_date": null
+  },
+  {
+    "asset_id": "AST-MON-000475",
+    "assigned_date": "2026-09-13",
+    "assignment_id": "ASG-000325",
+    "case_id": "ONB-2026-000456",
+    "employee_id": "EMP-000456",
+    "recovered_date": null
+  },
+  {
+    "asset_id": "AST-MON-000474",
+    "assigned_date": "2026-12-15",
+    "assignment_id": "ASG-000326",
+    "case_id": "ONB-2026-000457",
+    "employee_id": "EMP-000457",
+    "recovered_date": null
+  },
+  {
+    "asset_id": "AST-PHO-000167",
+    "assigned_date": "2026-10-15",
+    "assignment_id": "ASG-000327",
+    "case_id": "ONB-2026-000458",
+    "employee_id": "EMP-000458",
+    "recovered_date": null
+  },
+  {
+    "asset_id": "AST-MON-000054",
+    "assigned_date": "2026-10-24",
+    "assignment_id": "ASG-000328",
+    "case_id": "ONB-2026-000460",
+    "employee_id": "EMP-000460",
+    "recovered_date": null
+  },
+  {
+    "asset_id": "AST-MON-000442",
+    "assigned_date": "2027-01-18",
+    "assignment_id": "ASG-000329",
+    "case_id": "ONB-2026-000462",
+    "employee_id": "EMP-000462",
+    "recovered_date": null
+  },
+  {
+    "asset_id": "AST-MON-000074",
+    "assigned_date": "2026-09-10",
+    "assignment_id": "ASG-000330",
+    "case_id": "ONB-2026-000464",
+    "employee_id": "EMP-000464",
+    "recovered_date": null
+  },
+  {
+    "asset_id": "AST-LAP-000300",
+    "assigned_date": "2026-10-28",
+    "assignment_id": "ASG-000331",
+    "case_id": "ONB-2026-000465",
+    "employee_id": "EMP-000465",
+    "recovered_date": null
+  },
+  {
+    "asset_id": "AST-LAP-000509",
+    "assigned_date": "2026-11-11",
+    "assignment_id": "ASG-000332",
+    "case_id": "ONB-2026-000466",
+    "employee_id": "EMP-000466",
+    "recovered_date": null
+  },
+  {
+    "asset_id": "AST-PHO-000320",
+    "assigned_date": "2026-10-17",
+    "assignment_id": "ASG-000333",
+    "case_id": "ONB-2026-000467",
+    "employee_id": "EMP-000467",
+    "recovered_date": null
+  },
+  {
+    "asset_id": "AST-PHO-000434",
+    "assigned_date": "2026-08-08",
+    "assignment_id": "ASG-000334",
+    "case_id": "ONB-2026-000468",
+    "employee_id": "EMP-000468",
+    "recovered_date": "2026-10-16"
+  },
+  {
+    "asset_id": "AST-LAP-000313",
+    "assigned_date": "2026-08-23",
+    "assignment_id": "ASG-000335",
+    "case_id": "ONB-2026-000470",
+    "employee_id": "EMP-000470",
+    "recovered_date": null
+  },
+  {
+    "asset_id": "AST-LAP-000063",
+    "assigned_date": "2026-11-01",
+    "assignment_id": "ASG-000336",
+    "case_id": "ONB-2026-000472",
+    "employee_id": "EMP-000472",
+    "recovered_date": null
+  },
+  {
+    "asset_id": "AST-PHO-000229",
+    "assigned_date": "2026-12-17",
+    "assignment_id": "ASG-000337",
+    "case_id": "ONB-2026-000473",
+    "employee_id": "EMP-000473",
+    "recovered_date": null
+  },
+  {
+    "asset_id": "AST-MON-000365",
+    "assigned_date": "2026-08-24",
+    "assignment_id": "ASG-000338",
+    "case_id": "ONB-2026-000475",
+    "employee_id": "EMP-000475",
+    "recovered_date": null
+  },
+  {
+    "asset_id": "AST-PHO-000405",
+    "assigned_date": "2026-09-07",
+    "assignment_id": "ASG-000339",
+    "case_id": "ONB-2026-000477",
+    "employee_id": "EMP-000477",
+    "recovered_date": "2026-09-30"
+  },
+  {
+    "asset_id": "AST-PHO-000170",
+    "assigned_date": "2026-10-27",
+    "assignment_id": "ASG-000340",
+    "case_id": "ONB-2026-000478",
+    "employee_id": "EMP-000478",
+    "recovered_date": null
+  },
+  {
+    "asset_id": "AST-PHO-000261",
+    "assigned_date": "2026-07-29",
+    "assignment_id": "ASG-000341",
+    "case_id": "ONB-2026-000479",
+    "employee_id": "EMP-000479",
+    "recovered_date": null
+  },
+  {
+    "asset_id": "AST-MON-000108",
+    "assigned_date": "2026-10-22",
+    "assignment_id": "ASG-000342",
+    "case_id": "ONB-2026-000480",
+    "employee_id": "EMP-000480",
+    "recovered_date": null
+  },
+  {
+    "asset_id": "AST-BAD-000425",
+    "assigned_date": "2026-08-10",
+    "assignment_id": "ASG-000343",
+    "case_id": "ONB-2026-000481",
+    "employee_id": "EMP-000481",
+    "recovered_date": null
+  },
+  {
+    "asset_id": "AST-MON-000563",
+    "assigned_date": "2026-08-17",
+    "assignment_id": "ASG-000344",
+    "case_id": "ONB-2026-000483",
+    "employee_id": "EMP-000483",
+    "recovered_date": null
+  },
+  {
+    "asset_id": "AST-BAD-000064",
+    "assigned_date": "2026-08-13",
+    "assignment_id": "ASG-000345",
+    "case_id": "ONB-2026-000484",
+    "employee_id": "EMP-000484",
+    "recovered_date": null
+  },
+  {
+    "asset_id": "AST-BAD-000568",
+    "assigned_date": "2026-08-28",
+    "assignment_id": "ASG-000346",
+    "case_id": "ONB-2026-000485",
+    "employee_id": "EMP-000485",
+    "recovered_date": null
+  },
+  {
+    "asset_id": "AST-MON-000065",
+    "assigned_date": "2026-10-06",
+    "assignment_id": "ASG-000347",
+    "case_id": "ONB-2026-000487",
+    "employee_id": "EMP-000487",
+    "recovered_date": null
+  },
+  {
+    "asset_id": "AST-MON-000027",
+    "assigned_date": "2026-07-28",
+    "assignment_id": "ASG-000348",
+    "case_id": "ONB-2026-000488",
+    "employee_id": "EMP-000488",
+    "recovered_date": null
+  },
+  {
+    "asset_id": "AST-PHO-000133",
+    "assigned_date": "2026-10-02",
+    "assignment_id": "ASG-000349",
+    "case_id": "ONB-2026-000489",
+    "employee_id": "EMP-000489",
+    "recovered_date": null
+  },
+  {
+    "asset_id": "AST-BAD-000513",
+    "assigned_date": "2026-10-05",
+    "assignment_id": "ASG-000350",
+    "case_id": "ONB-2026-000490",
+    "employee_id": "EMP-000490",
+    "recovered_date": null
+  },
+  {
+    "asset_id": "AST-LAP-000211",
+    "assigned_date": "2026-07-27",
+    "assignment_id": "ASG-000351",
+    "case_id": "ONB-2026-000491",
+    "employee_id": "EMP-000491",
+    "recovered_date": null
+  },
+  {
+    "asset_id": "AST-PHO-000145",
+    "assigned_date": "2026-12-08",
+    "assignment_id": "ASG-000352",
+    "case_id": "ONB-2026-000492",
+    "employee_id": "EMP-000492",
+    "recovered_date": null
+  },
+  {
+    "asset_id": "AST-PHO-000021",
+    "assigned_date": "2027-01-08",
+    "assignment_id": "ASG-000353",
+    "case_id": "ONB-2026-000494",
+    "employee_id": "EMP-000494",
+    "recovered_date": null
+  },
+  {
+    "asset_id": "AST-MON-000233",
+    "assigned_date": "2026-09-23",
+    "assignment_id": "ASG-000354",
+    "case_id": "ONB-2026-000495",
+    "employee_id": "EMP-000495",
+    "recovered_date": "2026-09-25"
+  },
+  {
+    "asset_id": "AST-PHO-000055",
+    "assigned_date": "2026-11-28",
+    "assignment_id": "ASG-000355",
+    "case_id": "ONB-2026-000496",
+    "employee_id": "EMP-000496",
+    "recovered_date": null
+  },
+  {
+    "asset_id": "AST-BAD-000437",
+    "assigned_date": "2026-12-02",
+    "assignment_id": "ASG-000356",
+    "case_id": "ONB-2026-000497",
+    "employee_id": "EMP-000497",
+    "recovered_date": null
+  },
+  {
+    "asset_id": "AST-BAD-000515",
+    "assigned_date": "2026-10-13",
+    "assignment_id": "ASG-000357",
+    "case_id": "ONB-2026-000498",
+    "employee_id": "EMP-000498",
+    "recovered_date": null
+  },
+  {
+    "asset_id": "AST-PHO-000322",
+    "assigned_date": "2026-09-05",
+    "assignment_id": "ASG-000358",
+    "case_id": "ONB-2026-000499",
+    "employee_id": "EMP-000499",
+    "recovered_date": null
+  },
+  {
+    "asset_id": "AST-MON-000078",
+    "assigned_date": "2026-10-20",
+    "assignment_id": "ASG-000359",
+    "case_id": "ONB-2026-000500",
+    "employee_id": "EMP-000500",
+    "recovered_date": null
+  },
+  {
+    "asset_id": "AST-MON-000497",
+    "assigned_date": "2027-01-14",
+    "assignment_id": "ASG-000360",
+    "case_id": "ONB-2026-000003",
+    "employee_id": "EMP-000003",
+    "recovered_date": null
+  }
+]

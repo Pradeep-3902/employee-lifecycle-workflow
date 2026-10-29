@@ -1,0 +1,402 @@
+[
+  {
+    "department_id": "DEPT-001",
+    "display_name": "Manager 001",
+    "effective_from": "2024-01-01",
+    "effective_to": null,
+    "lifecycle_state": "active",
+    "manager_id": "MGR-0001"
+  },
+  {
+    "department_id": "DEPT-002",
+    "display_name": "Manager 002",
+    "effective_from": "2024-01-01",
+    "effective_to": null,
+    "lifecycle_state": "active",
+    "manager_id": "MGR-0002"
+  },
+  {
+    "department_id": "DEPT-003",
+    "display_name": "Manager 003",
+    "effective_from": "2024-01-01",
+    "effective_to": null,
+    "lifecycle_state": "active",
+    "manager_id": "MGR-0003"
+  },
+  {
+    "department_id": "DEPT-004",
+    "display_name": "Manager 004",
+    "effective_from": "2024-01-01",
+    "effective_to": null,
+    "lifecycle_state": "active",
+    "manager_id": "MGR-0004"
+  },
+  {
+    "department_id": "DEPT-005",
+    "display_name": "Manager 005",
+    "effective_from": "2024-01-01",
+    "effective_to": null,
+    "lifecycle_state": "active",
+    "manager_id": "MGR-0005"
+  },
+  {
+    "department_id": "DEPT-006",
+    "display_name": "Manager 006",
+    "effective_from": "2024-01-01",
+    "effective_to": null,
+    "lifecycle_state": "active",
+    "manager_id": "MGR-0006"
+  },
+  {
+    "department_id": "DEPT-007",
+    "display_name": "Manager 007",
+    "effective_from": "2024-01-01",
+    "effective_to": null,
+    "lifecycle_state": "active",
+    "manager_id": "MGR-0007"
+  },
+  {
+    "department_id": "DEPT-008",
+    "display_name": "Manager 008",
+    "effective_from": "2024-01-01",
+    "effective_to": null,
+    "lifecycle_state": "active",
+    "manager_id": "MGR-0008"
+  },
+  {
+    "department_id": "DEPT-001",
+    "display_name": "Manager 009",
+    "effective_from": "2024-01-01",
+    "effective_to": null,
+    "lifecycle_state": "active",
+    "manager_id": "MGR-0009"
+  },
+  {
+    "department_id": "DEPT-002",
+    "display_name": "Manager 010",
+    "effective_from": "2024-01-01",
+    "effective_to": null,
+    "lifecycle_state": "active",
+    "manager_id": "MGR-0010"
+  },
+  {
+    "department_id": "DEPT-003",
+    "display_name": "Manager 011",
+    "effective_from": "2024-01-01",
+    "effective_to": null,
+    "lifecycle_state": "active",
+    "manager_id": "MGR-0011"
+  },
+  {
+    "department_id": "DEPT-004",
+    "display_name": "Manager 012",
+    "effective_from": "2024-01-01",
+    "effective_to": null,
+    "lifecycle_state": "active",
+    "manager_id": "MGR-0012"
+  },
+  {
+    "department_id": "DEPT-005",
+    "display_name": "Manager 013",
+    "effective_from": "2024-01-01",
+    "effective_to": null,
+    "lifecycle_state": "active",
+    "manager_id": "MGR-0013"
+  },
+  {
+    "department_id": "DEPT-006",
+    "display_name": "Manager 014",
+    "effective_from": "2024-01-01",
+    "effective_to": null,
+    "lifecycle_state": "active",
+    "manager_id": "MGR-0014"
+  },
+  {
+    "department_id": "DEPT-007",
+    "display_name": "Manager 015",
+    "effective_from": "2024-01-01",
+    "effective_to": null,
+    "lifecycle_state": "active",
+    "manager_id": "MGR-0015"
+  },
+  {
+    "department_id": "DEPT-008",
+    "display_name": "Manager 016",
+    "effective_from": "2024-01-01",
+    "effective_to": null,
+    "lifecycle_state": "active",
+    "manager_id": "MGR-0016"
+  },
+  {
+    "department_id": "DEPT-001",
+    "display_name": "Manager 017",
+    "effective_from": "2024-01-01",
+    "effective_to": null,
+    "lifecycle_state": "active",
+    "manager_id": "MGR-0017"
+  },
+  {
+    "department_id": "DEPT-002",
+    "display_name": "Manager 018",
+    "effective_from": "2024-01-01",
+    "effective_to": null,
+    "lifecycle_state": "active",
+    "manager_id": "MGR-0018"
+  },
+  {
+    "department_id": "DEPT-003",
+    "display_name": "Manager 019",
+    "effective_from": "2024-01-01",
+    "effective_to": null,
+    "lifecycle_state": "active",
+    "manager_id": "MGR-0019"
+  },
+  {
+    "department_id": "DEPT-004",
+    "display_name": "Manager 020",
+    "effective_from": "2024-01-01",
+    "effective_to": null,
+    "lifecycle_state": "active",
+    "manager_id": "MGR-0020"
+  },
+  {
+    "department_id": "DEPT-005",
+    "display_name": "Manager 021",
+    "effective_from": "2024-01-01",
+    "effective_to": null,
+    "lifecycle_state": "active",
+    "manager_id": "MGR-0021"
+  },
+  {
+    "department_id": "DEPT-006",
+    "display_name": "Manager 022",
+    "effective_from": "2024-01-01",
+    "effective_to": null,
+    "lifecycle_state": "active",
+    "manager_id": "MGR-0022"
+  },
+  {
+    "department_id": "DEPT-007",
+    "display_name": "Manager 023",
+    "effective_from": "2024-01-01",
+    "effective_to": null,
+    "lifecycle_state": "active",
+    "manager_id": "MGR-0023"
+  },
+  {
+    "department_id": "DEPT-008",
+    "display_name": "Manager 024",
+    "effective_from": "2024-01-01",
+    "effective_to": null,
+    "lifecycle_state": "active",
+    "manager_id": "MGR-0024"
+  },
+  {
+    "department_id": "DEPT-001",
+    "display_name": "Manager 025",
+    "effective_from": "2024-01-01",
+    "effective_to": null,
+    "lifecycle_state": "active",
+    "manager_id": "MGR-0025"
+  },
+  {
+    "department_id": "DEPT-002",
+    "display_name": "Manager 026",
+    "effective_from": "2024-01-01",
+    "effective_to": null,
+    "lifecycle_state": "active",
+    "manager_id": "MGR-0026"
+  },
+  {
+    "department_id": "DEPT-003",
+    "display_name": "Manager 027",
+    "effective_from": "2024-01-01",
+    "effective_to": null,
+    "lifecycle_state": "active",
+    "manager_id": "MGR-0027"
+  },
+  {
+    "department_id": "DEPT-004",
+    "display_name": "Manager 028",
+    "effective_from": "2024-01-01",
+    "effective_to": null,
+    "lifecycle_state": "active",
+    "manager_id": "MGR-0028"
+  },
+  {
+    "department_id": "DEPT-005",
+    "display_name": "Manager 029",
+    "effective_from": "2024-01-01",
+    "effective_to": null,
+    "lifecycle_state": "active",
+    "manager_id": "MGR-0029"
+  },
+  {
+    "department_id": "DEPT-006",
+    "display_name": "Manager 030",
+    "effective_from": "2024-01-01",
+    "effective_to": null,
+    "lifecycle_state": "active",
+    "manager_id": "MGR-0030"
+  },
+  {
+    "department_id": "DEPT-007",
+    "display_name": "Manager 031",
+    "effective_from": "2024-01-01",
+    "effective_to": null,
+    "lifecycle_state": "active",
+    "manager_id": "MGR-0031"
+  },
+  {
+    "department_id": "DEPT-008",
+    "display_name": "Manager 032",
+    "effective_from": "2024-01-01",
+    "effective_to": null,
+    "lifecycle_state": "active",
+    "manager_id": "MGR-0032"
+  },
+  {
+    "department_id": "DEPT-001",
+    "display_name": "Manager 033",
+    "effective_from": "2024-01-01",
+    "effective_to": null,
+    "lifecycle_state": "active",
+    "manager_id": "MGR-0033"
+  },
+  {
+    "department_id": "DEPT-002",
+    "display_name": "Manager 034",
+    "effective_from": "2024-01-01",
+    "effective_to": null,
+    "lifecycle_state": "active",
+    "manager_id": "MGR-0034"
+  },
+  {
+    "department_id": "DEPT-003",
+    "display_name": "Manager 035",
+    "effective_from": "2024-01-01",
+    "effective_to": null,
+    "lifecycle_state": "active",
+    "manager_id": "MGR-0035"
+  },
+  {
+    "department_id": "DEPT-004",
+    "display_name": "Manager 036",
+    "effective_from": "2024-01-01",
+    "effective_to": null,
+    "lifecycle_state": "active",
+    "manager_id": "MGR-0036"
+  },
+  {
+    "department_id": "DEPT-005",
+    "display_name": "Manager 037",
+    "effective_from": "2024-01-01",
+    "effective_to": null,
+    "lifecycle_state": "active",
+    "manager_id": "MGR-0037"
+  },
+  {
+    "department_id": "DEPT-006",
+    "display_name": "Manager 038",
+    "effective_from": "2024-01-01",
+    "effective_to": null,
+    "lifecycle_state": "active",
+    "manager_id": "MGR-0038"
+  },
+  {
+    "department_id": "DEPT-007",
+    "display_name": "Manager 039",
+    "effective_from": "2024-01-01",
+    "effective_to": null,
+    "lifecycle_state": "active",
+    "manager_id": "MGR-0039"
+  },
+  {
+    "department_id": "DEPT-008",
+    "display_name": "Manager 040",
+    "effective_from": "2024-01-01",
+    "effective_to": null,
+    "lifecycle_state": "active",
+    "manager_id": "MGR-0040"
+  },
+  {
+    "department_id": "DEPT-001",
+    "display_name": "Manager 041",
+    "effective_from": "2024-01-01",
+    "effective_to": null,
+    "lifecycle_state": "active",
+    "manager_id": "MGR-0041"
+  },
+  {
+    "department_id": "DEPT-002",
+    "display_name": "Manager 042",
+    "effective_from": "2024-01-01",
+    "effective_to": null,
+    "lifecycle_state": "active",
+    "manager_id": "MGR-0042"
+  },
+  {
+    "department_id": "DEPT-003",
+    "display_name": "Manager 043",
+    "effective_from": "2024-01-01",
+    "effective_to": null,
+    "lifecycle_state": "active",
+    "manager_id": "MGR-0043"
+  },
+  {
+    "department_id": "DEPT-004",
+    "display_name": "Manager 044",
+    "effective_from": "2024-01-01",
+    "effective_to": null,
+    "lifecycle_state": "active",
+    "manager_id": "MGR-0044"
+  },
+  {
+    "department_id": "DEPT-005",
+    "display_name": "Manager 045",
+    "effective_from": "2024-01-01",
+    "effective_to": null,
+    "lifecycle_state": "active",
+    "manager_id": "MGR-0045"
+  },
+  {
+    "department_id": "DEPT-006",
+    "display_name": "Manager 046",
+    "effective_from": "2024-01-01",
+    "effective_to": null,
+    "lifecycle_state": "active",
+    "manager_id": "MGR-0046"
+  },
+  {
+    "department_id": "DEPT-007",
+    "display_name": "Manager 047",
+    "effective_from": "2024-01-01",
+    "effective_to": null,
+    "lifecycle_state": "active",
+    "manager_id": "MGR-0047"
+  },
+  {
+    "department_id": "DEPT-008",
+    "display_name": "Manager 048",
+    "effective_from": "2024-01-01",
+    "effective_to": null,
+    "lifecycle_state": "active",
+    "manager_id": "MGR-0048"
+  },
+  {
+    "department_id": "DEPT-001",
+    "display_name": "Manager 049",
+    "effective_from": "2024-01-01",
+    "effective_to": null,
+    "lifecycle_state": "active",
+    "manager_id": "MGR-0049"
+  },
+  {
+    "department_id": "DEPT-002",
+    "display_name": "Manager 050",
+    "effective_from": "2024-01-01",
+    "effective_to": null,
+    "lifecycle_state": "active",
+    "manager_id": "MGR-0050"
+  }
+]
